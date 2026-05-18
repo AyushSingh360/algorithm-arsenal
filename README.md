@@ -488,6 +488,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1415 | Students And Examinations | `SQL` | [View](./leetcode/1415-students-and-examinations) |
 | 1428 | Jump Game Iii | `Python` | [View](./leetcode/1428-jump-game-iii) |
 | 1443 | Minimum Distance To Type A Word Using Two Fingers | `Python` | [View](./leetcode/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| 1447 | Jump Game Iv | `Python` | [View](./leetcode/1447-jump-game-iv) |
 | 1458 | Sort Integers By The Number Of 1 Bits | `Python` | [View](./leetcode/1458-sort-integers-by-the-number-of-1-bits) |
 | 1460 | Number Of Substrings Containing All Three Characters | `Python` | [View](./leetcode/1460-number-of-substrings-containing-all-three-characters) |
 | 1465 | Maximum Product Of Splitted Binary Tree | `Python` | [View](./leetcode/1465-maximum-product-of-splitted-binary-tree) |
