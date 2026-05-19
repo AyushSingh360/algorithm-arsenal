@@ -9,27 +9,27 @@ class Solution:
             res = []
 
             while i >= 0 or j >= 0 or carry:
-                da = ord(a[i]) - ord('0') if i >= 0 else 0
-                db = ord(b[j]) - ord('0') if j >= 0 else 0
+                da = ord(a[i]) - ord("0") if i >= 0 else 0
+                db = ord(b[j]) - ord("0") if j >= 0 else 0
                 s = da + db + carry
-                res.append(chr(s % 10 + ord('0')))
+                res.append(chr(s % 10 + ord("0")))
                 carry = s // 10
                 i -= 1
                 j -= 1
 
-            return ''.join(reversed(res))
+            return "".join(reversed(res))
 
         # Try all possible first and second numbers
-        for i in range(1, n):          # num[0:i] is first
+        for i in range(1, n):  # num[0:i] is first
             first = num[0:i]
             # leading zero check for first
-            if len(first) > 1 and first[0] == '0':
+            if len(first) > 1 and first[0] == "0":
                 break
 
             for j in range(i + 1, n):  # num[i:j] is second
                 second = num[i:j]
                 # leading zero check for second
-                if len(second) > 1 and second[0] == '0':
+                if len(second) > 1 and second[0] == "0":
                     break
 
                 a, b = first, second

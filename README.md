@@ -428,6 +428,8 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 300 | Longest Increasing Subsequence | `Python` | [View](./leetcode/0300-longest-increasing-subsequence) |
 | 303 | Range Sum Query   Immutable | `Python` | [View](./leetcode/0303-range-sum-query---immutable) |
 | 304 | Range Sum Query 2D   Immutable | `Python` | [View](./leetcode/0304-range-sum-query-2d---immutable) |
+| 306 | Additive Number | `Python` | [View](./leetcode/0306-additive-number) |
+| 307 | Range Sum Query   Mutable | `Python` | [View](./leetcode/0307-range-sum-query---mutable) |
 | 316 | Remove Duplicate Letters | `Python` | [View](./leetcode/0316-remove-duplicate-letters) |
 | 347 | Top K Frequent Elements | `Python` | [View](./leetcode/0347-top-k-frequent-elements) |
 | 371 | Sum Of Two Integers | `Python` | [View](./leetcode/0371-sum-of-two-integers) |
@@ -470,6 +472,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 934 | Bitwise Ors Of Subarrays | `Python` | [View](./leetcode/0934-bitwise-ors-of-subarrays) |
 | 940 | Fruit Into Baskets | `Python` | [View](./leetcode/0940-fruit-into-baskets) |
 | 978 | Valid Mountain Array | `Python` | [View](./leetcode/0978-valid-mountain-array) |
+| 992 | Delete Columns To Make Sorted Ii | `Python` | [View](./leetcode/0992-delete-columns-to-make-sorted-ii) |
 | 1036 | Rotting Oranges | `Python` | [View](./leetcode/1036-rotting-oranges) |
 | 1046 | Max Consecutive Ones Iii | `Python` | [View](./leetcode/1046-max-consecutive-ones-iii) |
 | 1054 | Complement Of Base 10 Integer | `Python` | [View](./leetcode/1054-complement-of-base-10-integer) |
@@ -561,6 +564,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2598 | Shortest Distance To Target String In A Circular Array | `Python` | [View](./leetcode/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | 2610 | Closest Prime Numbers In Range | `Python` | [View](./leetcode/2610-closest-prime-numbers-in-range) |
 | 2625 | Increment Submatrices By One | `Python` | [View](./leetcode/2625-increment-submatrices-by-one) |
+| 2634 | Minimum Common Value | `Python` | [View](./leetcode/2634-minimum-common-value) |
 | 2639 | Separate The Digits In An Array | `Python` | [View](./leetcode/2639-separate-the-digits-in-an-array) |
 | 2689 | Rearranging Fruits | `Python` | [View](./leetcode/2689-rearranging-fruits) |
 | 2707 | Merge Two 2D Arrays By Summing Values | `Python` | [View](./leetcode/2707-merge-two-2d-arrays-by-summing-values) |
