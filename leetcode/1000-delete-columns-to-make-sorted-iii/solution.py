@@ -1,9 +1,10 @@
 from typing import List
 
+
 class Solution:
     def minDeletionSize(self, strs: List[str]) -> int:
-        m = len(strs[0])          # number of columns
-        n = len(strs)            # number of rows
+        m = len(strs[0])  # number of columns
+        n = len(strs)  # number of rows
 
         # dp[i] = length of longest valid column subsequence ending at column i
         dp = [1] * m

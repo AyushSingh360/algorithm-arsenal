@@ -473,6 +473,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 940 | Fruit Into Baskets | `Python` | [View](./leetcode/0940-fruit-into-baskets) |
 | 978 | Valid Mountain Array | `Python` | [View](./leetcode/0978-valid-mountain-array) |
 | 992 | Delete Columns To Make Sorted Ii | `Python` | [View](./leetcode/0992-delete-columns-to-make-sorted-ii) |
+| 1000 | Delete Columns To Make Sorted Iii | `Python` | [View](./leetcode/1000-delete-columns-to-make-sorted-iii) |
 | 1036 | Rotting Oranges | `Python` | [View](./leetcode/1036-rotting-oranges) |
 | 1046 | Max Consecutive Ones Iii | `Python` | [View](./leetcode/1046-max-consecutive-ones-iii) |
 | 1054 | Complement Of Base 10 Integer | `Python` | [View](./leetcode/1054-complement-of-base-10-integer) |
@@ -585,6 +586,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2759 | Flatten Deeply Nested Array | `JavaScript` | [View](./leetcode/2759-flatten-deeply-nested-array) |
 | 2761 | Array Reduce Transformation | `JavaScript` | [View](./leetcode/2761-array-reduce-transformation) |
 | 2762 | Cache With Time Limit | `JavaScript` | [View](./leetcode/2762-cache-with-time-limit) |
+| 2766 | Find The Prefix Common Array Of Two Arrays | `Python` | [View](./leetcode/2766-find-the-prefix-common-array-of-two-arrays) |
 | 2779 | Number Of Adjacent Elements With The Same Color | `Python` | [View](./leetcode/2779-number-of-adjacent-elements-with-the-same-color) |
 | 2789 | Counter Ii | `JavaScript` | [View](./leetcode/2789-counter-ii) |
 | 2796 | Allow One Function Call | `JavaScript` | [View](./leetcode/2796-allow-one-function-call) |
