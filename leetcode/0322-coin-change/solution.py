@@ -1,6 +1,7 @@
 from typing import List
 import math
 
+
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         # dp[i] = minimum coins to make sum i

@@ -435,6 +435,9 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 313 | Super Ugly Number | `Python` | [View](./leetcode/0313-super-ugly-number) |
 | 316 | Remove Duplicate Letters | `Python` | [View](./leetcode/0316-remove-duplicate-letters) |
 | 318 | Maximum Product Of Word Lengths | `Python` | [View](./leetcode/0318-maximum-product-of-word-lengths) |
+| 319 | Bulb Switcher | `Python` | [View](./leetcode/0319-bulb-switcher) |
+| 322 | Coin Change | `Python` | [View](./leetcode/0322-coin-change) |
+| 324 | Wiggle Sort Ii | `Python` | [View](./leetcode/0324-wiggle-sort-ii) |
 | 347 | Top K Frequent Elements | `Python` | [View](./leetcode/0347-top-k-frequent-elements) |
 | 371 | Sum Of Two Integers | `Python` | [View](./leetcode/0371-sum-of-two-integers) |
 | 380 | Insert Delete Getrandom O1 | `Python` | [View](./leetcode/0380-insert-delete-getrandom-o1) |
