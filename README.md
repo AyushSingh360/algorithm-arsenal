@@ -531,6 +531,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1807 | Partitioning Into Minimum Number Of Deci Binary Numbers | `Python` | [View](./leetcode/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | 1840 | Minimize Hamming Distance After Swap Operations | `Python` | [View](./leetcode/1840-minimize-hamming-distance-after-swap-operations) |
 | 1845 | Largest Submatrix With Rearrangements | `Python` | [View](./leetcode/1845-largest-submatrix-with-rearrangements) |
+| 1878 | Check If Array Is Sorted And Rotated | `Python` | [View](./leetcode/1878-check-if-array-is-sorted-and-rotated) |
 | 1884 | Minimum Changes To Make Alternating Binary String | `Python` | [View](./leetcode/1884-minimum-changes-to-make-alternating-binary-string) |
 | 1910 | Check If Binary String Has At Most One Segment Of Ones | `Python` | [View](./leetcode/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | 1972 | Rotating The Box | `Python` | [View](./leetcode/1972-rotating-the-box) |
