@@ -503,6 +503,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1458 | Sort Integers By The Number Of 1 Bits | `Python` | [View](./leetcode/1458-sort-integers-by-the-number-of-1-bits) |
 | 1460 | Number Of Substrings Containing All Three Characters | `Python` | [View](./leetcode/1460-number-of-substrings-containing-all-three-characters) |
 | 1465 | Maximum Product Of Splitted Binary Tree | `Python` | [View](./leetcode/1465-maximum-product-of-splitted-binary-tree) |
+| 1466 | Jump Game V | `Python` | [View](./leetcode/1466-jump-game-v) |
 | 1480 | Movie Rating | `SQL` | [View](./leetcode/1480-movie-rating) |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | `Python` | [View](./leetcode/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | 1487 | Cinema Seat Allocation | `Python` | [View](./leetcode/1487-cinema-seat-allocation) |

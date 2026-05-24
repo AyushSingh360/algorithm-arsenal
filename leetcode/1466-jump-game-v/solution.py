@@ -1,6 +1,7 @@
 from functools import lru_cache
 from typing import List
 
+
 class Solution:
     def maxJumps(self, arr: List[int], d: int) -> int:
         n = len(arr)
