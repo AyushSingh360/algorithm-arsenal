@@ -540,6 +540,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1984 | Maximum Distance Between A Pair Of Values | `Python` | [View](./leetcode/1984-maximum-distance-between-a-pair-of-values) |
 | 1990 | Get Biggest Three Rhombus Sums In A Grid | `Python` | [View](./leetcode/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | 1996 | Number Of Ways To Rearrange Sticks With K Sticks Visible | `Python` | [View](./leetcode/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| 2001 | Jump Game Vii | `Python` | [View](./leetcode/2001-jump-game-vii) |
 | 2015 | Determine Whether Matrix Can Be Obtained By Rotation | `Python` | [View](./leetcode/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | 2017 | Minimum Number Of Flips To Make The Binary String Alternating | `Python` | [View](./leetcode/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | 2037 | Count Square Sum Triples | `Python` | [View](./leetcode/2037-count-square-sum-triples) |
