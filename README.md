@@ -438,6 +438,12 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 319 | Bulb Switcher | `Python` | [View](./leetcode/0319-bulb-switcher) |
 | 322 | Coin Change | `Python` | [View](./leetcode/0322-coin-change) |
 | 324 | Wiggle Sort Ii | `Python` | [View](./leetcode/0324-wiggle-sort-ii) |
+| 326 | Power Of Three | `Python` | [View](./leetcode/0326-power-of-three) |
+| 328 | Odd Even Linked List | `Python` | [View](./leetcode/0328-odd-even-linked-list) |
+| 331 | Verify Preorder Serialization Of A Binary Tree | `Python` | [View](./leetcode/0331-verify-preorder-serialization-of-a-binary-tree) |
+| 334 | Increasing Triplet Subsequence | `Python` | [View](./leetcode/0334-increasing-triplet-subsequence) |
+| 337 | House Robber Iii | `Python` | [View](./leetcode/0337-house-robber-iii) |
+| 338 | Counting Bits | `Python` | [View](./leetcode/0338-counting-bits) |
 | 347 | Top K Frequent Elements | `Python` | [View](./leetcode/0347-top-k-frequent-elements) |
 | 371 | Sum Of Two Integers | `Python` | [View](./leetcode/0371-sum-of-two-integers) |
 | 380 | Insert Delete Getrandom O1 | `Python` | [View](./leetcode/0380-insert-delete-getrandom-o1) |
@@ -632,6 +638,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3338 | Count Submatrices With Top Left Element And Sum Less Than K | `Python` | [View](./leetcode/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | 3406 | Find All Possible Stable Binary Arrays I | `Python` | [View](./leetcode/3406-find-all-possible-stable-binary-arrays-i) |
 | 3407 | Find All Possible Stable Binary Arrays Ii | `Python` | [View](./leetcode/3407-find-all-possible-stable-binary-arrays-ii) |
+| 3408 | Count The Number Of Special Characters I | `Python` | [View](./leetcode/3408-count-the-number-of-special-characters-i) |
 | 3470 | Maximum Score From Grid Operations | `Python` | [View](./leetcode/3470-maximum-score-from-grid-operations) |
 | 3476 | Find Minimum Operations To Make All Elements Divisible By Three | `Python` | [View](./leetcode/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | 3479 | Count The Number Of Substrings With Dominant Ones | `Python` | [View](./leetcode/3479-count-the-number-of-substrings-with-dominant-ones) |
