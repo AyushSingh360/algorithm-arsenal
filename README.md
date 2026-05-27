@@ -444,7 +444,14 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 334 | Increasing Triplet Subsequence | `Python` | [View](./leetcode/0334-increasing-triplet-subsequence) |
 | 337 | House Robber Iii | `Python` | [View](./leetcode/0337-house-robber-iii) |
 | 338 | Counting Bits | `Python` | [View](./leetcode/0338-counting-bits) |
+| 341 | Flatten Nested List Iterator | `Python` | [View](./leetcode/0341-flatten-nested-list-iterator) |
+| 342 | Power Of Four | `Python` | [View](./leetcode/0342-power-of-four) |
+| 343 | Integer Break | `Python` | [View](./leetcode/0343-integer-break) |
+| 344 | Reverse String | `Python` | [View](./leetcode/0344-reverse-string) |
+| 345 | Reverse Vowels Of A String | `Python` | [View](./leetcode/0345-reverse-vowels-of-a-string) |
 | 347 | Top K Frequent Elements | `Python` | [View](./leetcode/0347-top-k-frequent-elements) |
+| 349 | Intersection Of Two Arrays | `Python` | [View](./leetcode/0349-intersection-of-two-arrays) |
+| 350 | Intersection Of Two Arrays Ii | `Python` | [View](./leetcode/0350-intersection-of-two-arrays-ii) |
 | 371 | Sum Of Two Integers | `Python` | [View](./leetcode/0371-sum-of-two-integers) |
 | 380 | Insert Delete Getrandom O1 | `Python` | [View](./leetcode/0380-insert-delete-getrandom-o1) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
@@ -471,6 +478,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 717 | 1 Bit And 2 Bit Characters | `Python` | [View](./leetcode/0717-1-bit-and-2-bit-characters) |
 | 728 | Self Dividing Numbers | `Python` | [View](./leetcode/0728-self-dividing-numbers) |
 | 739 | Daily Temperatures | `Python` | [View](./leetcode/0739-daily-temperatures) |
+| 757 | Pyramid Transition Matrix | `Python` | [View](./leetcode/0757-pyramid-transition-matrix) |
 | 759 | Set Intersection Size At Least Two | `Python` | [View](./leetcode/0759-set-intersection-size-at-least-two) |
 | 763 | Special Binary String | `Python` | [View](./leetcode/0763-special-binary-string) |
 | 767 | Prime Number Of Set Bits In Binary Representation | `Python` | [View](./leetcode/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -479,6 +487,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 812 | Rotate String | `Python` | [View](./leetcode/0812-rotate-string) |
 | 815 | Champagne Tower | `Python` | [View](./leetcode/0815-champagne-tower) |
 | 830 | Largest Triangle Area | `Python` | [View](./leetcode/0830-largest-triangle-area) |
+| 870 | Magic Squares In Grid | `Python` | [View](./leetcode/0870-magic-squares-in-grid) |
 | 899 | Binary Gap | `Python` | [View](./leetcode/0899-binary-gap) |
 | 906 | Walking Robot Simulation | `Python` | [View](./leetcode/0906-walking-robot-simulation) |
 | 919 | Projection Area Of 3D Shapes | `Python` | [View](./leetcode/0919-projection-area-of-3d-shapes) |
@@ -636,6 +645,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3250 | Maximum Square Area By Removing Fences From A Field | `Python` | [View](./leetcode/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | 3329 | Find The Length Of The Longest Common Prefix | `Python` | [View](./leetcode/3329-find-the-length-of-the-longest-common-prefix) |
 | 3338 | Count Submatrices With Top Left Element And Sum Less Than K | `Python` | [View](./leetcode/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| 3405 | Count The Number Of Special Characters Ii | `Python` | [View](./leetcode/3405-count-the-number-of-special-characters-ii) |
 | 3406 | Find All Possible Stable Binary Arrays I | `Python` | [View](./leetcode/3406-find-all-possible-stable-binary-arrays-i) |
 | 3407 | Find All Possible Stable Binary Arrays Ii | `Python` | [View](./leetcode/3407-find-all-possible-stable-binary-arrays-ii) |
 | 3408 | Count The Number Of Special Characters I | `Python` | [View](./leetcode/3408-count-the-number-of-special-characters-i) |

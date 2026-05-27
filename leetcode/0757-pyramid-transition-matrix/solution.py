@@ -1,6 +1,7 @@
 from typing import List
 from collections import defaultdict
 
+
 class Solution:
     def pyramidTransition(self, bottom: str, allowed: List[str]) -> bool:
         # Map pair -> list of possible tops
@@ -25,11 +26,10 @@ class Solution:
 
         return can_build(bottom)
 
-    def build_next_rows(self, row: str, trans, idx: int,
-                        cur: List[str], memo) -> bool:
+    def build_next_rows(self, row: str, trans, idx: int, cur: List[str], memo) -> bool:
         # If we've constructed a whole next row, recurse to build above it
         if idx == len(row) - 1:
-            next_row = ''.join(cur)
+            next_row = "".join(cur)
             # can_build is not a method here, so we cannot call self.can_build directly
             # Instead, we store and check using a DFS wrapper in the main function
             return self._dfs(next_row, trans, memo)
