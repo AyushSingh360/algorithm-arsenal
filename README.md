@@ -452,6 +452,8 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 347 | Top K Frequent Elements | `Python` | [View](./leetcode/0347-top-k-frequent-elements) |
 | 349 | Intersection Of Two Arrays | `Python` | [View](./leetcode/0349-intersection-of-two-arrays) |
 | 350 | Intersection Of Two Arrays Ii | `Python` | [View](./leetcode/0350-intersection-of-two-arrays-ii) |
+| 355 | Design Twitter | `Python` | [View](./leetcode/0355-design-twitter) |
+| 357 | Count Numbers With Unique Digits | `Python` | [View](./leetcode/0357-count-numbers-with-unique-digits) |
 | 371 | Sum Of Two Integers | `Python` | [View](./leetcode/0371-sum-of-two-integers) |
 | 380 | Insert Delete Getrandom O1 | `Python` | [View](./leetcode/0380-insert-delete-getrandom-o1) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
@@ -645,6 +647,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3250 | Maximum Square Area By Removing Fences From A Field | `Python` | [View](./leetcode/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | 3329 | Find The Length Of The Longest Common Prefix | `Python` | [View](./leetcode/3329-find-the-length-of-the-longest-common-prefix) |
 | 3338 | Count Submatrices With Top Left Element And Sum Less Than K | `Python` | [View](./leetcode/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| 3376 | Longest Common Suffix Queries | `Python` | [View](./leetcode/3376-longest-common-suffix-queries) |
 | 3405 | Count The Number Of Special Characters Ii | `Python` | [View](./leetcode/3405-count-the-number-of-special-characters-ii) |
 | 3406 | Find All Possible Stable Binary Arrays I | `Python` | [View](./leetcode/3406-find-all-possible-stable-binary-arrays-i) |
 | 3407 | Find All Possible Stable Binary Arrays Ii | `Python` | [View](./leetcode/3407-find-all-possible-stable-binary-arrays-ii) |

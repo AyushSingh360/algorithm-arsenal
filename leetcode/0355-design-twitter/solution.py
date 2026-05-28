@@ -2,12 +2,13 @@ from typing import List
 from collections import defaultdict
 import heapq
 
+
 class Twitter:
 
     def __init__(self):
         self.time = 0
         self.following = defaultdict(set)
-        self.tweets = defaultdict(list)   # userId -> [(time, tweetId), ...]
+        self.tweets = defaultdict(list)  # userId -> [(time, tweetId), ...]
 
     def postTweet(self, userId: int, tweetId: int) -> None:
         self.time += 1

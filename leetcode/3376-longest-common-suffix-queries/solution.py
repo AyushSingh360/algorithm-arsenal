@@ -1,5 +1,6 @@
 from typing import List
 
+
 class TrieNode:
     __slots__ = ("children", "best_idx", "best_len")
 
@@ -8,8 +9,11 @@ class TrieNode:
         self.best_idx = -1
         self.best_len = 10**18
 
+
 class Solution:
-    def stringIndices(self, wordsContainer: List[str], wordsQuery: List[str]) -> List[int]:
+    def stringIndices(
+        self, wordsContainer: List[str], wordsQuery: List[str]
+    ) -> List[int]:
         def better(i: int, j: int) -> bool:
             return (
                 j == -1
