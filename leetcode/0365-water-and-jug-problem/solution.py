@@ -1,5 +1,6 @@
 from math import gcd
 
+
 class Solution:
     def canMeasureWater(self, x: int, y: int, target: int) -> bool:
         # If target is 0, we can always do it by doing nothing

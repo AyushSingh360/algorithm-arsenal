@@ -454,6 +454,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 350 | Intersection Of Two Arrays Ii | `Python` | [View](./leetcode/0350-intersection-of-two-arrays-ii) |
 | 355 | Design Twitter | `Python` | [View](./leetcode/0355-design-twitter) |
 | 357 | Count Numbers With Unique Digits | `Python` | [View](./leetcode/0357-count-numbers-with-unique-digits) |
+| 365 | Water And Jug Problem | `Python` | [View](./leetcode/0365-water-and-jug-problem) |
 | 371 | Sum Of Two Integers | `Python` | [View](./leetcode/0371-sum-of-two-integers) |
 | 380 | Insert Delete Getrandom O1 | `Python` | [View](./leetcode/0380-insert-delete-getrandom-o1) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
@@ -660,6 +661,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3493 | Maximum Number Of Operations To Move Ones To The End | `Python` | [View](./leetcode/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | 3496 | Minimum Number Of Seconds To Make Mountain Height Zero | `Python` | [View](./leetcode/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | 3569 | Count Of Substrings Containing Every Vowel And K Consonants Ii | `Python` | [View](./leetcode/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| 3606 | Minimum Element After Replacement With Digit Sum | `Python` | [View](./leetcode/3606-minimum-element-after-replacement-with-digit-sum) |
 | 3610 | Find X Sum Of All K Long Subarrays I | `Python` | [View](./leetcode/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | 3653 | Maximum Subarray Sum With Length Divisible By K | `Python` | [View](./leetcode/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | 3677 | Maximum Amount Of Money Robot Can Earn | `Python` | [View](./leetcode/3677-maximum-amount-of-money-robot-can-earn) |

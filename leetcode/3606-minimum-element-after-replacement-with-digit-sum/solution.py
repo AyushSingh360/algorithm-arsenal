@@ -6,5 +6,5 @@ class Solution:
                 total += n % 10
                 n //= 10
             return total
-        
+
         return min(digit_sum(num) for num in nums)
