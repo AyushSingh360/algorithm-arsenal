@@ -1,15 +1,16 @@
 from typing import List
 
+
 class Solution:
     def largestDivisibleSubset(self, nums: List[int]) -> List[int]:
         if not nums:
             return []
 
-        nums.sort()                      # step 1: sort the array
+        nums.sort()  # step 1: sort the array
         n = len(nums)
 
-        dp = [1] * n                     # dp[i] = length of best subset ending at i
-        prev = [-1] * n                  # prev[i] = previous index in that subset
+        dp = [1] * n  # dp[i] = length of best subset ending at i
+        prev = [-1] * n  # prev[i] = previous index in that subset
 
         max_len = 1
         max_idx = 0

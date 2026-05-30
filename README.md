@@ -455,7 +455,10 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 355 | Design Twitter | `Python` | [View](./leetcode/0355-design-twitter) |
 | 357 | Count Numbers With Unique Digits | `Python` | [View](./leetcode/0357-count-numbers-with-unique-digits) |
 | 365 | Water And Jug Problem | `Python` | [View](./leetcode/0365-water-and-jug-problem) |
+| 367 | Valid Perfect Square | `Python` | [View](./leetcode/0367-valid-perfect-square) |
+| 368 | Largest Divisible Subset | `Python` | [View](./leetcode/0368-largest-divisible-subset) |
 | 371 | Sum Of Two Integers | `Python` | [View](./leetcode/0371-sum-of-two-integers) |
+| 372 | Super Pow | `Python` | [View](./leetcode/0372-super-pow) |
 | 380 | Insert Delete Getrandom O1 | `Python` | [View](./leetcode/0380-insert-delete-getrandom-o1) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
 | 401 | Binary Watch | `Python` | [View](./leetcode/0401-binary-watch) |
@@ -653,6 +656,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3406 | Find All Possible Stable Binary Arrays I | `Python` | [View](./leetcode/3406-find-all-possible-stable-binary-arrays-i) |
 | 3407 | Find All Possible Stable Binary Arrays Ii | `Python` | [View](./leetcode/3407-find-all-possible-stable-binary-arrays-ii) |
 | 3408 | Count The Number Of Special Characters I | `Python` | [View](./leetcode/3408-count-the-number-of-special-characters-i) |
+| 3435 | Block Placement Queries | `Python` | [View](./leetcode/3435-block-placement-queries) |
 | 3470 | Maximum Score From Grid Operations | `Python` | [View](./leetcode/3470-maximum-score-from-grid-operations) |
 | 3476 | Find Minimum Operations To Make All Elements Divisible By Three | `Python` | [View](./leetcode/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | 3479 | Count The Number Of Substrings With Dominant Ones | `Python` | [View](./leetcode/3479-count-the-number-of-substrings-with-dominant-ones) |

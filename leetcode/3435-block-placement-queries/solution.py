@@ -58,15 +58,13 @@ class SegTree:
         while l < r:
             if l & 1:
                 l_max, l_left, l_right = self._merge(
-                    l_max, l_left, l_right,
-                    self.max_gap[l], self.left[l], self.right[l]
+                    l_max, l_left, l_right, self.max_gap[l], self.left[l], self.right[l]
                 )
                 l += 1
             if r & 1:
                 r -= 1
                 r_max, r_left, r_right = self._merge(
-                    self.max_gap[r], self.left[r], self.right[r],
-                    r_max, r_left, r_right
+                    self.max_gap[r], self.left[r], self.right[r], r_max, r_left, r_right
                 )
             l //= 2
             r //= 2
