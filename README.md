@@ -459,6 +459,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 368 | Largest Divisible Subset | `Python` | [View](./leetcode/0368-largest-divisible-subset) |
 | 371 | Sum Of Two Integers | `Python` | [View](./leetcode/0371-sum-of-two-integers) |
 | 372 | Super Pow | `Python` | [View](./leetcode/0372-super-pow) |
+| 373 | Find K Pairs With Smallest Sums | `Python` | [View](./leetcode/0373-find-k-pairs-with-smallest-sums) |
 | 380 | Insert Delete Getrandom O1 | `Python` | [View](./leetcode/0380-insert-delete-getrandom-o1) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
 | 401 | Binary Watch | `Python` | [View](./leetcode/0401-binary-watch) |
@@ -579,6 +580,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2199 | Two Furthest Houses With Different Colors | `Python` | [View](./leetcode/2199-two-furthest-houses-with-different-colors) |
 | 2213 | Find All People With Secret | `Python` | [View](./leetcode/2213-find-all-people-with-secret) |
 | 2229 | Maximum Fruits Harvested After At Most K Steps | `Python` | [View](./leetcode/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| 2245 | Destroying Asteroids | `Python` | [View](./leetcode/2245-destroying-asteroids) |
 | 2263 | Maximum Running Time Of N Computers | `Python` | [View](./leetcode/2263-maximum-running-time-of-n-computers) |
 | 2265 | Partition Array According To Given Pivot | `Python` | [View](./leetcode/2265-partition-array-according-to-given-pivot) |
 | 2271 | Rearrange Array Elements By Sign | `Python` | [View](./leetcode/2271-rearrange-array-elements-by-sign) |
