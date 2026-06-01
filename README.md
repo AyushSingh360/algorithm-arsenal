@@ -532,6 +532,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1507 | Check If There Is A Valid Path In A Grid | `Python` | [View](./leetcode/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | 1516 | The K Th Lexicographical String Of All Happy Strings Of Length N | `Python` | [View](./leetcode/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | 1520 | Number Of Steps To Reduce A Number In Binary Representation To One | `Python` | [View](./leetcode/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| 1527 | Number Of Ways To Paint N  3 Grid | `Python` | [View](./leetcode/1527-number-of-ways-to-paint-n--3-grid) |
 | 1548 | Check If All 1S Are At Least Length K Places Away | `Python` | [View](./leetcode/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | 1552 | Build An Array With Stack Operations | `Python` | [View](./leetcode/1552-build-an-array-with-stack-operations) |
 | 1557 | Check If A String Contains All Binary Codes Of Size K | `Python` | [View](./leetcode/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -581,6 +582,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2213 | Find All People With Secret | `Python` | [View](./leetcode/2213-find-all-people-with-secret) |
 | 2229 | Maximum Fruits Harvested After At Most K Steps | `Python` | [View](./leetcode/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | 2245 | Destroying Asteroids | `Python` | [View](./leetcode/2245-destroying-asteroids) |
+| 2248 | Minimum Cost Of Buying Candies With Discount | `Python` | [View](./leetcode/2248-minimum-cost-of-buying-candies-with-discount) |
 | 2263 | Maximum Running Time Of N Computers | `Python` | [View](./leetcode/2263-maximum-running-time-of-n-computers) |
 | 2265 | Partition Array According To Given Pivot | `Python` | [View](./leetcode/2265-partition-array-according-to-given-pivot) |
 | 2271 | Rearrange Array Elements By Sign | `Python` | [View](./leetcode/2271-rearrange-array-elements-by-sign) |
