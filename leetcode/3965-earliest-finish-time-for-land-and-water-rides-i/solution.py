@@ -1,15 +1,16 @@
 from typing import List
 
+
 class Solution:
     def earliestFinishTime(
         self,
         landStartTime: List[int],
         landDuration: List[int],
         waterStartTime: List[int],
-        waterDuration: List[int]
+        waterDuration: List[int],
     ) -> int:
         n, m = len(landStartTime), len(waterStartTime)
-        ans = float('inf')
+        ans = float("inf")
 
         for i in range(n):
             for j in range(m):

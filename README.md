@@ -690,6 +690,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3892 | Best Time To Buy And Sell Stock V | `Python` | [View](./leetcode/3892-best-time-to-buy-and-sell-stock-v) |
 | 3902 | Maximize Spanning Tree Stability With Upgrades | `Python` | [View](./leetcode/3902-maximize-spanning-tree-stability-with-upgrades) |
 | 3933 | Minimum Jumps To Reach End Via Prime Teleportation | `Python` | [View](./leetcode/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| 3965 | Earliest Finish Time For Land And Water Rides I | `Python` | [View](./leetcode/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | 3973 | Flip Square Submatrix Vertically | `Python` | [View](./leetcode/3973-flip-square-submatrix-vertically) |
 | 3974 | Xor After Range Multiplication Queries I | `Python` | [View](./leetcode/3974-xor-after-range-multiplication-queries-i) |
 | 3975 | Xor After Range Multiplication Queries Ii | `Python` | [View](./leetcode/3975-xor-after-range-multiplication-queries-ii) |
