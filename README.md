@@ -570,6 +570,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2043 | Cyclically Rotating A Grid | `Python` | [View](./leetcode/2043-cyclically-rotating-a-grid) |
 | 2058 | Concatenation Of Array | `Python` | [View](./leetcode/2058-concatenation-of-array) |
 | 2059 | Unique Length 3 Palindromic Subsequences | `Python` | [View](./leetcode/2059-unique-length-3-palindromic-subsequences) |
+| 2089 | Maximum Matrix Sum | `Python` | [View](./leetcode/2089-maximum-matrix-sum) |
 | 2107 | Find Unique Binary String | `Python` | [View](./leetcode/2107-find-unique-binary-string) |
 | 2125 | Gcd Sort Of An Array | `Python` | [View](./leetcode/2125-gcd-sort-of-an-array) |
 | 2160 | Minimum Operations To Make A Uni Value Grid | `Python` | [View](./leetcode/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -691,6 +692,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3902 | Maximize Spanning Tree Stability With Upgrades | `Python` | [View](./leetcode/3902-maximize-spanning-tree-stability-with-upgrades) |
 | 3933 | Minimum Jumps To Reach End Via Prime Teleportation | `Python` | [View](./leetcode/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | 3965 | Earliest Finish Time For Land And Water Rides I | `Python` | [View](./leetcode/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| 3967 | Earliest Finish Time For Land And Water Rides Ii | `Python` | [View](./leetcode/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | 3973 | Flip Square Submatrix Vertically | `Python` | [View](./leetcode/3973-flip-square-submatrix-vertically) |
 | 3974 | Xor After Range Multiplication Queries I | `Python` | [View](./leetcode/3974-xor-after-range-multiplication-queries-i) |
 | 3975 | Xor After Range Multiplication Queries Ii | `Python` | [View](./leetcode/3975-xor-after-range-multiplication-queries-ii) |

@@ -1,9 +1,10 @@
 from typing import List
 
+
 class Solution:
     def maxMatrixSum(self, matrix: List[List[int]]) -> int:
         total = 0
-        min_abs = float('inf')
+        min_abs = float("inf")
         neg_count = 0
 
         for row in matrix:
