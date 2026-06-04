@@ -509,6 +509,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1064 | Smallest Integer Divisible By K | `Python` | [View](./leetcode/1064-smallest-integer-divisible-by-k) |
 | 1071 | Binary Prefix Divisible By 5 | `Python` | [View](./leetcode/1071-binary-prefix-divisible-by-5) |
 | 1079 | Sum Of Root To Leaf Binary Numbers | `Python` | [View](./leetcode/1079-sum-of-root-to-leaf-binary-numbers) |
+| 1116 | Maximum Level Sum Of A Binary Tree | `Python` | [View](./leetcode/1116-maximum-level-sum-of-a-binary-tree) |
 | 1135 | Customers Who Bought All Products | `SQL` | [View](./leetcode/1135-customers-who-bought-all-products) |
 | 1155 | Product Sales Analysis Iii | `SQL` | [View](./leetcode/1155-product-sales-analysis-iii) |
 | 1245 | User Activity For The Past 30 Days I | `SQL` | [View](./leetcode/1245-user-activity-for-the-past-30-days-i) |
@@ -701,6 +702,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3982 | Maximum Walls Destroyed By Robots | `Python` | [View](./leetcode/3982-maximum-walls-destroyed-by-robots) |
 | 3983 | Minimum Operations To Equalize Binary String | `Python` | [View](./leetcode/3983-minimum-operations-to-equalize-binary-string) |
 | 3986 | Maximum Path Score In A Grid | `Python` | [View](./leetcode/3986-maximum-path-score-in-a-grid) |
+| 4057 | Total Waviness Of Numbers In Range I | `Python` | [View](./leetcode/4057-total-waviness-of-numbers-in-range-i) |
 | 4115 | Minimum Distance Between Three Equal Elements I | `Python` | [View](./leetcode/4115-minimum-distance-between-three-equal-elements-i) |
 | 4119 | Minimum Distance Between Three Equal Elements Ii | `Python` | [View](./leetcode/4119-minimum-distance-between-three-equal-elements-ii) |
 | 4139 | Minimum Absolute Distance Between Mirror Pairs | `Python` | [View](./leetcode/4139-minimum-absolute-distance-between-mirror-pairs) |
