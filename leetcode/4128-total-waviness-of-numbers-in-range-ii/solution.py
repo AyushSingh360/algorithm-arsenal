@@ -41,7 +41,13 @@ class Solution:
                             elif last1 < last2 and last1 < d:
                                 added = 1
 
-                        cnt, wav = dp(pos + 1, new_tight, new_started, d, last1 if last1 != 10 else 10)
+                        cnt, wav = dp(
+                            pos + 1,
+                            new_tight,
+                            new_started,
+                            d,
+                            last1 if last1 != 10 else 10,
+                        )
                         total_count += cnt
                         total_waviness += wav + added * cnt
 

@@ -5,19 +5,22 @@
 #          otherwise return 0
 # def guess(num: int) -> int:
 
+
 class Solution:
     def guessNumber(self, n: int) -> int:
         left, right = 1, n
 
         while left <= right:
-            mid = left + (right - left) // 2  # avoid overflow style, though in Python it's safe
+            mid = (
+                left + (right - left) // 2
+            )  # avoid overflow style, though in Python it's safe
             res = guess(mid)
 
             if res == 0:
                 return mid
-            elif res < 0:      # mid is higher than pick
+            elif res < 0:  # mid is higher than pick
                 right = mid - 1
-            else:              # mid is lower than pick
+            else:  # mid is lower than pick
                 left = mid + 1
 
         # In this problem we are guaranteed to find the number,

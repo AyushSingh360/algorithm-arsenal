@@ -460,6 +460,8 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 371 | Sum Of Two Integers | `Python` | [View](./leetcode/0371-sum-of-two-integers) |
 | 372 | Super Pow | `Python` | [View](./leetcode/0372-super-pow) |
 | 373 | Find K Pairs With Smallest Sums | `Python` | [View](./leetcode/0373-find-k-pairs-with-smallest-sums) |
+| 374 | Guess Number Higher Or Lower | `Python` | [View](./leetcode/0374-guess-number-higher-or-lower) |
+| 375 | Guess Number Higher Or Lower Ii | `Python` | [View](./leetcode/0375-guess-number-higher-or-lower-ii) |
 | 380 | Insert Delete Getrandom O1 | `Python` | [View](./leetcode/0380-insert-delete-getrandom-o1) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
 | 401 | Binary Watch | `Python` | [View](./leetcode/0401-binary-watch) |
@@ -705,6 +707,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4057 | Total Waviness Of Numbers In Range I | `Python` | [View](./leetcode/4057-total-waviness-of-numbers-in-range-i) |
 | 4115 | Minimum Distance Between Three Equal Elements I | `Python` | [View](./leetcode/4115-minimum-distance-between-three-equal-elements-i) |
 | 4119 | Minimum Distance Between Three Equal Elements Ii | `Python` | [View](./leetcode/4119-minimum-distance-between-three-equal-elements-ii) |
+| 4128 | Total Waviness Of Numbers In Range Ii | `Python` | [View](./leetcode/4128-total-waviness-of-numbers-in-range-ii) |
 | 4139 | Minimum Absolute Distance Between Mirror Pairs | `Python` | [View](./leetcode/4139-minimum-absolute-distance-between-mirror-pairs) |
 | 4168 | Mirror Distance Of An Integer | `Python` | [View](./leetcode/4168-mirror-distance-of-an-integer) |
 | 4192 | Minimum Cost To Partition A Binary String | `Python` | [View](./leetcode/4192-minimum-cost-to-partition-a-binary-string) |
