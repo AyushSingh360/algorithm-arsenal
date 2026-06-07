@@ -10,11 +10,11 @@ class Solution:
             # Returns: (subtree root containing all deepest nodes, max depth)
             if node is None:
                 return None, 0
-            
+
             # Recursively get results from left and right subtrees
             left_subtree, left_depth = dfs(node.left)
             right_subtree, right_depth = dfs(node.right)
-            
+
             # Decision logic:
             # - If left depth > right depth: deepest nodes are only on left side
             # - If right depth > left depth: deepest nodes are only on right side
@@ -25,5 +25,5 @@ class Solution:
                 return right_subtree, right_depth + 1
             else:
                 return node, left_depth + 1
-        
+
         return dfs(root)[0]

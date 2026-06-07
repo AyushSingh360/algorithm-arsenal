@@ -497,6 +497,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 815 | Champagne Tower | `Python` | [View](./leetcode/0815-champagne-tower) |
 | 830 | Largest Triangle Area | `Python` | [View](./leetcode/0830-largest-triangle-area) |
 | 870 | Magic Squares In Grid | `Python` | [View](./leetcode/0870-magic-squares-in-grid) |
+| 896 | Smallest Subtree With All The Deepest Nodes | `Python` | [View](./leetcode/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | 899 | Binary Gap | `Python` | [View](./leetcode/0899-binary-gap) |
 | 906 | Walking Robot Simulation | `Python` | [View](./leetcode/0906-walking-robot-simulation) |
 | 919 | Projection Area Of 3D Shapes | `Python` | [View](./leetcode/0919-projection-area-of-3d-shapes) |
@@ -591,6 +592,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2265 | Partition Array According To Given Pivot | `Python` | [View](./leetcode/2265-partition-array-according-to-given-pivot) |
 | 2271 | Rearrange Array Elements By Sign | `Python` | [View](./leetcode/2271-rearrange-array-elements-by-sign) |
 | 2274 | Keep Multiplying Found Values By Two | `Python` | [View](./leetcode/2274-keep-multiplying-found-values-by-two) |
+| 2306 | Create Binary Tree From Descriptions | `Python` | [View](./leetcode/2306-create-binary-tree-from-descriptions) |
 | 2316 | Count Hills And Valleys In An Array | `Python` | [View](./leetcode/2316-count-hills-and-valleys-in-an-array) |
 | 2317 | Count Collisions On A Road | `Python` | [View](./leetcode/2317-count-collisions-on-a-road) |
 | 2392 | Successful Pairs Of Spells And Potions | `Python` | [View](./leetcode/2392-successful-pairs-of-spells-and-potions) |
@@ -611,6 +613,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2707 | Merge Two 2D Arrays By Summing Values | `Python` | [View](./leetcode/2707-merge-two-2d-arrays-by-summing-values) |
 | 2708 | Find The String With Lcp | `Python` | [View](./leetcode/2708-find-the-string-with-lcp) |
 | 2710 | Minimum Operations To Reduce An Integer To 0 | `Python` | [View](./leetcode/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| 2714 | Left And Right Sum Differences | `Python` | [View](./leetcode/2714-left-and-right-sum-differences) |
 | 2721 | Sum Of Distances | `Python` | [View](./leetcode/2721-sum-of-distances) |
 | 2731 | Memoize | `JavaScript` | [View](./leetcode/2731-memoize) |
 | 2732 | Counter | `JavaScript` | [View](./leetcode/2732-counter) |
