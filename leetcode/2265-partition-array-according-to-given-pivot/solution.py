@@ -1,18 +1,17 @@
-class Solution(object):
-    def pivotArray(self, nums, pivot):
-        """
-        :type nums: List[int]
-        :type pivot: int
-        :rtype: List[int]
-        """
-        less, equal, greater = [], [], []
+from typing import List
 
-        for num in nums:
-            if num < pivot:
-                less.append(num)
-            elif num == pivot:
-                equal.append(num)
+class Solution:
+    def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
+        less = []
+        equal = []
+        greater = []
+
+        for x in nums:
+            if x < pivot:
+                less.append(x)
+            elif x == pivot:
+                equal.append(x)
             else:
-                greater.append(num)
+                greater.append(x)
 
         return less + equal + greater
