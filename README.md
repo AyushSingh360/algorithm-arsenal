@@ -462,6 +462,8 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 373 | Find K Pairs With Smallest Sums | `Python` | [View](./leetcode/0373-find-k-pairs-with-smallest-sums) |
 | 374 | Guess Number Higher Or Lower | `Python` | [View](./leetcode/0374-guess-number-higher-or-lower) |
 | 375 | Guess Number Higher Or Lower Ii | `Python` | [View](./leetcode/0375-guess-number-higher-or-lower-ii) |
+| 376 | Wiggle Subsequence | `Python` | [View](./leetcode/0376-wiggle-subsequence) |
+| 377 | Combination Sum Iv | `Python` | [View](./leetcode/0377-combination-sum-iv) |
 | 380 | Insert Delete Getrandom O1 | `Python` | [View](./leetcode/0380-insert-delete-getrandom-o1) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
 | 401 | Binary Watch | `Python` | [View](./leetcode/0401-binary-watch) |

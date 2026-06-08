@@ -1,13 +1,14 @@
 from typing import List
 
+
 class Solution:
     def wiggleMaxLength(self, nums: List[int]) -> int:
         n = len(nums)
         if n < 2:
             return n
 
-        up = 1      # best length ending with last step up
-        down = 1    # best length ending with last step down
+        up = 1  # best length ending with last step up
+        down = 1  # best length ending with last step down
 
         for i in range(1, n):
             if nums[i] > nums[i - 1]:
