@@ -464,6 +464,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 375 | Guess Number Higher Or Lower Ii | `Python` | [View](./leetcode/0375-guess-number-higher-or-lower-ii) |
 | 376 | Wiggle Subsequence | `Python` | [View](./leetcode/0376-wiggle-subsequence) |
 | 377 | Combination Sum Iv | `Python` | [View](./leetcode/0377-combination-sum-iv) |
+| 378 | Kth Smallest Element In A Sorted Matrix | `Python` | [View](./leetcode/0378-kth-smallest-element-in-a-sorted-matrix) |
 | 380 | Insert Delete Getrandom O1 | `Python` | [View](./leetcode/0380-insert-delete-getrandom-o1) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
 | 401 | Binary Watch | `Python` | [View](./leetcode/0401-binary-watch) |
@@ -709,6 +710,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3982 | Maximum Walls Destroyed By Robots | `Python` | [View](./leetcode/3982-maximum-walls-destroyed-by-robots) |
 | 3983 | Minimum Operations To Equalize Binary String | `Python` | [View](./leetcode/3983-minimum-operations-to-equalize-binary-string) |
 | 3986 | Maximum Path Score In A Grid | `Python` | [View](./leetcode/3986-maximum-path-score-in-a-grid) |
+| 4005 | Maximum Total Subarray Value I | `Python` | [View](./leetcode/4005-maximum-total-subarray-value-i) |
 | 4057 | Total Waviness Of Numbers In Range I | `Python` | [View](./leetcode/4057-total-waviness-of-numbers-in-range-i) |
 | 4115 | Minimum Distance Between Three Equal Elements I | `Python` | [View](./leetcode/4115-minimum-distance-between-three-equal-elements-i) |
 | 4119 | Minimum Distance Between Three Equal Elements Ii | `Python` | [View](./leetcode/4119-minimum-distance-between-three-equal-elements-ii) |
