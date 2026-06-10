@@ -5,11 +5,11 @@ class Solution:
 
         # Count characters in magazine
         for ch in magazine:
-            freq[ord(ch) - ord('a')] += 1
+            freq[ord(ch) - ord("a")] += 1
 
         # Consume characters for ransomNote
         for ch in ransomNote:
-            idx = ord(ch) - ord('a')
+            idx = ord(ch) - ord("a")
             freq[idx] -= 1
             if freq[idx] < 0:
                 return False

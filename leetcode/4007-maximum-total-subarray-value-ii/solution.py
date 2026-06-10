@@ -2,6 +2,7 @@ from typing import List
 import heapq
 import math
 
+
 class Solution:
     def maxTotalValue(self, nums: List[int], k: int) -> int:
         n = len(nums)

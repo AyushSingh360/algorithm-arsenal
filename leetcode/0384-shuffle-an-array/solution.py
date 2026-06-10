@@ -1,6 +1,7 @@
 import random
 from typing import List
 
+
 class Solution:
 
     def __init__(self, nums: List[int]):
