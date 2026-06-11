@@ -462,7 +462,16 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 373 | Find K Pairs With Smallest Sums | `Python` | [View](./leetcode/0373-find-k-pairs-with-smallest-sums) |
 | 374 | Guess Number Higher Or Lower | `Python` | [View](./leetcode/0374-guess-number-higher-or-lower) |
 | 375 | Guess Number Higher Or Lower Ii | `Python` | [View](./leetcode/0375-guess-number-higher-or-lower-ii) |
+| 376 | Wiggle Subsequence | `Python` | [View](./leetcode/0376-wiggle-subsequence) |
+| 377 | Combination Sum Iv | `Python` | [View](./leetcode/0377-combination-sum-iv) |
+| 378 | Kth Smallest Element In A Sorted Matrix | `Python` | [View](./leetcode/0378-kth-smallest-element-in-a-sorted-matrix) |
 | 380 | Insert Delete Getrandom O1 | `Python` | [View](./leetcode/0380-insert-delete-getrandom-o1) |
+| 382 | Linked List Random Node | `Python` | [View](./leetcode/0382-linked-list-random-node) |
+| 383 | Ransom Note | `Python` | [View](./leetcode/0383-ransom-note) |
+| 384 | Shuffle An Array | `Python` | [View](./leetcode/0384-shuffle-an-array) |
+| 385 | Mini Parser | `Python` | [View](./leetcode/0385-mini-parser) |
+| 386 | Lexicographical Numbers | `Python` | [View](./leetcode/0386-lexicographical-numbers) |
+| 387 | First Unique Character In A String | `Python` | [View](./leetcode/0387-first-unique-character-in-a-string) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
 | 401 | Binary Watch | `Python` | [View](./leetcode/0401-binary-watch) |
 | 407 | Trapping Rain Water Ii | `Python` | [View](./leetcode/0407-trapping-rain-water-ii) |
@@ -689,6 +698,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3791 | Fruits Into Baskets Iii | `Python` | [View](./leetcode/3791-fruits-into-baskets-iii) |
 | 3834 | Minimum Operations To Convert All Elements To Zero | `Python` | [View](./leetcode/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | 3835 | Count Partitions With Max Min Difference At Most K | `Python` | [View](./leetcode/3835-count-partitions-with-max-min-difference-at-most-k) |
+| 3844 | Number Of Ways To Assign Edge Weights I | `Python` | [View](./leetcode/3844-number-of-ways-to-assign-edge-weights-i) |
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | `Python` | [View](./leetcode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | 3849 | Equal Sum Grid Partition I | `Python` | [View](./leetcode/3849-equal-sum-grid-partition-i) |
 | 3850 | Equal Sum Grid Partition Ii | `Python` | [View](./leetcode/3850-equal-sum-grid-partition-ii) |
@@ -707,6 +717,8 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3982 | Maximum Walls Destroyed By Robots | `Python` | [View](./leetcode/3982-maximum-walls-destroyed-by-robots) |
 | 3983 | Minimum Operations To Equalize Binary String | `Python` | [View](./leetcode/3983-minimum-operations-to-equalize-binary-string) |
 | 3986 | Maximum Path Score In A Grid | `Python` | [View](./leetcode/3986-maximum-path-score-in-a-grid) |
+| 4005 | Maximum Total Subarray Value I | `Python` | [View](./leetcode/4005-maximum-total-subarray-value-i) |
+| 4007 | Maximum Total Subarray Value Ii | `Python` | [View](./leetcode/4007-maximum-total-subarray-value-ii) |
 | 4057 | Total Waviness Of Numbers In Range I | `Python` | [View](./leetcode/4057-total-waviness-of-numbers-in-range-i) |
 | 4115 | Minimum Distance Between Three Equal Elements I | `Python` | [View](./leetcode/4115-minimum-distance-between-three-equal-elements-i) |
 | 4119 | Minimum Distance Between Three Equal Elements Ii | `Python` | [View](./leetcode/4119-minimum-distance-between-three-equal-elements-ii) |
