@@ -1,11 +1,15 @@
 from typing import List
 import sys
+
 sys.setrecursionlimit(1_000_000)
 
 MOD = 10**9 + 7
 
+
 class Solution:
-    def assignEdgeWeights(self, edges: List[List[int]], queries: List[List[int]]) -> List[int]:
+    def assignEdgeWeights(
+        self, edges: List[List[int]], queries: List[List[int]]
+    ) -> List[int]:
         n = len(edges) + 1
         # Build adjacency list
         g = [[] for _ in range(n + 1)]
@@ -19,6 +23,7 @@ class Solution:
 
         # DFS to fill depth and immediate parent
         from collections import deque
+
         root = 1
         depth[root] = 0
         parent[0][root] = 0

@@ -698,6 +698,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3791 | Fruits Into Baskets Iii | `Python` | [View](./leetcode/3791-fruits-into-baskets-iii) |
 | 3834 | Minimum Operations To Convert All Elements To Zero | `Python` | [View](./leetcode/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | 3835 | Count Partitions With Max Min Difference At Most K | `Python` | [View](./leetcode/3835-count-partitions-with-max-min-difference-at-most-k) |
+| 3842 | Number Of Ways To Assign Edge Weights Ii | `Python` | [View](./leetcode/3842-number-of-ways-to-assign-edge-weights-ii) |
 | 3844 | Number Of Ways To Assign Edge Weights I | `Python` | [View](./leetcode/3844-number-of-ways-to-assign-edge-weights-i) |
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | `Python` | [View](./leetcode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | 3849 | Equal Sum Grid Partition I | `Python` | [View](./leetcode/3849-equal-sum-grid-partition-i) |
