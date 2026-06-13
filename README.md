@@ -472,6 +472,8 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 385 | Mini Parser | `Python` | [View](./leetcode/0385-mini-parser) |
 | 386 | Lexicographical Numbers | `Python` | [View](./leetcode/0386-lexicographical-numbers) |
 | 387 | First Unique Character In A String | `Python` | [View](./leetcode/0387-first-unique-character-in-a-string) |
+| 388 | Longest Absolute File Path | `Python` | [View](./leetcode/0388-longest-absolute-file-path) |
+| 389 | Find The Difference | `Python` | [View](./leetcode/0389-find-the-difference) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
 | 401 | Binary Watch | `Python` | [View](./leetcode/0401-binary-watch) |
 | 407 | Trapping Rain Water Ii | `Python` | [View](./leetcode/0407-trapping-rain-water-ii) |
@@ -727,6 +729,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4139 | Minimum Absolute Distance Between Mirror Pairs | `Python` | [View](./leetcode/4139-minimum-absolute-distance-between-mirror-pairs) |
 | 4168 | Mirror Distance Of An Integer | `Python` | [View](./leetcode/4168-mirror-distance-of-an-integer) |
 | 4192 | Minimum Cost To Partition A Binary String | `Python` | [View](./leetcode/4192-minimum-cost-to-partition-a-binary-string) |
+| 4216 | Weighted Word Mapping | `Python` | [View](./leetcode/4216-weighted-word-mapping) |
 | 4220 | Minimum Operations To Sort A String | `Python` | [View](./leetcode/4220-minimum-operations-to-sort-a-string) |
 | 4229 | Trim Trailing Vowels | `Python` | [View](./leetcode/4229-trim-trailing-vowels) |
 | 4240 | Find The Smallest Balanced Index | `Python` | [View](./leetcode/4240-find-the-smallest-balanced-index) |
