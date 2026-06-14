@@ -597,6 +597,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2199 | Two Furthest Houses With Different Colors | `Python` | [View](./leetcode/2199-two-furthest-houses-with-different-colors) |
 | 2213 | Find All People With Secret | `Python` | [View](./leetcode/2213-find-all-people-with-secret) |
 | 2229 | Maximum Fruits Harvested After At Most K Steps | `Python` | [View](./leetcode/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| 2236 | Maximum Twin Sum Of A Linked List | `Python` | [View](./leetcode/2236-maximum-twin-sum-of-a-linked-list) |
 | 2245 | Destroying Asteroids | `Python` | [View](./leetcode/2245-destroying-asteroids) |
 | 2248 | Minimum Cost Of Buying Candies With Discount | `Python` | [View](./leetcode/2248-minimum-cost-of-buying-candies-with-discount) |
 | 2263 | Maximum Running Time Of N Computers | `Python` | [View](./leetcode/2263-maximum-running-time-of-n-computers) |

@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.next = next
 
+
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
         # 1) Find middle using slow/fast
