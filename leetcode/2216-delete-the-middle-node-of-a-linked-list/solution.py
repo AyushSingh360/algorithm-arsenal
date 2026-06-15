@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.next = next
 
+
 class Solution:
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
         # Edge case: only one node -> delete it, return empty list
