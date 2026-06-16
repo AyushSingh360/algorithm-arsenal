@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution:
     def validUtf8(self, data: List[int]) -> bool:
         i = 0
@@ -9,13 +10,13 @@ class Solution:
             byte = data[i] & 0xFF  # only use least significant 8 bits
 
             # Determine number of bytes for current UTF-8 character
-            if byte & 0x80 == 0:          # 0xxxxxxx -> 1-byte
+            if byte & 0x80 == 0:  # 0xxxxxxx -> 1-byte
                 num_bytes = 1
-            elif byte & 0xE0 == 0xC0:     # 110xxxxx -> 2-byte
+            elif byte & 0xE0 == 0xC0:  # 110xxxxx -> 2-byte
                 num_bytes = 2
-            elif byte & 0xF0 == 0xE0:     # 1110xxxx -> 3-byte
+            elif byte & 0xF0 == 0xE0:  # 1110xxxx -> 3-byte
                 num_bytes = 3
-            elif byte & 0xF8 == 0xF0:     # 11110xxx -> 4-byte
+            elif byte & 0xF8 == 0xF0:  # 11110xxx -> 4-byte
                 num_bytes = 4
             else:
                 # Invalid leading byte pattern

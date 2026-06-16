@@ -474,6 +474,9 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 387 | First Unique Character In A String | `Python` | [View](./leetcode/0387-first-unique-character-in-a-string) |
 | 388 | Longest Absolute File Path | `Python` | [View](./leetcode/0388-longest-absolute-file-path) |
 | 389 | Find The Difference | `Python` | [View](./leetcode/0389-find-the-difference) |
+| 390 | Elimination Game | `Python` | [View](./leetcode/0390-elimination-game) |
+| 392 | Is Subsequence | `Python` | [View](./leetcode/0392-is-subsequence) |
+| 393 | Utf 8 Validation | `Python` | [View](./leetcode/0393-utf-8-validation) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
 | 401 | Binary Watch | `Python` | [View](./leetcode/0401-binary-watch) |
 | 407 | Trapping Rain Water Ii | `Python` | [View](./leetcode/0407-trapping-rain-water-ii) |
@@ -711,6 +714,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3886 | Count Number Of Trapezoids I | `Python` | [View](./leetcode/3886-count-number-of-trapezoids-i) |
 | 3892 | Best Time To Buy And Sell Stock V | `Python` | [View](./leetcode/3892-best-time-to-buy-and-sell-stock-v) |
 | 3902 | Maximize Spanning Tree Stability With Upgrades | `Python` | [View](./leetcode/3902-maximize-spanning-tree-stability-with-upgrades) |
+| 3931 | Process String With Special Operations I | `Python` | [View](./leetcode/3931-process-string-with-special-operations-i) |
 | 3933 | Minimum Jumps To Reach End Via Prime Teleportation | `Python` | [View](./leetcode/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | 3965 | Earliest Finish Time For Land And Water Rides I | `Python` | [View](./leetcode/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | 3967 | Earliest Finish Time For Land And Water Rides Ii | `Python` | [View](./leetcode/3967-earliest-finish-time-for-land-and-water-rides-ii) |
