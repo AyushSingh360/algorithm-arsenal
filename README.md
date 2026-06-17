@@ -477,6 +477,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 390 | Elimination Game | `Python` | [View](./leetcode/0390-elimination-game) |
 | 392 | Is Subsequence | `Python` | [View](./leetcode/0392-is-subsequence) |
 | 393 | Utf 8 Validation | `Python` | [View](./leetcode/0393-utf-8-validation) |
+| 394 | Decode String | `Python` | [View](./leetcode/0394-decode-string) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
 | 401 | Binary Watch | `Python` | [View](./leetcode/0401-binary-watch) |
 | 407 | Trapping Rain Water Ii | `Python` | [View](./leetcode/0407-trapping-rain-water-ii) |
@@ -716,6 +717,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3902 | Maximize Spanning Tree Stability With Upgrades | `Python` | [View](./leetcode/3902-maximize-spanning-tree-stability-with-upgrades) |
 | 3931 | Process String With Special Operations I | `Python` | [View](./leetcode/3931-process-string-with-special-operations-i) |
 | 3933 | Minimum Jumps To Reach End Via Prime Teleportation | `Python` | [View](./leetcode/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| 3939 | Process String With Special Operations Ii | `Python` | [View](./leetcode/3939-process-string-with-special-operations-ii) |
 | 3965 | Earliest Finish Time For Land And Water Rides I | `Python` | [View](./leetcode/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | 3967 | Earliest Finish Time For Land And Water Rides Ii | `Python` | [View](./leetcode/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | 3973 | Flip Square Submatrix Vertically | `Python` | [View](./leetcode/3973-flip-square-submatrix-vertically) |
