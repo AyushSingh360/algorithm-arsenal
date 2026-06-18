@@ -478,8 +478,14 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 392 | Is Subsequence | `Python` | [View](./leetcode/0392-is-subsequence) |
 | 393 | Utf 8 Validation | `Python` | [View](./leetcode/0393-utf-8-validation) |
 | 394 | Decode String | `Python` | [View](./leetcode/0394-decode-string) |
+| 395 | Longest Substring With At Least K Repeating Characters | `Python` | [View](./leetcode/0395-longest-substring-with-at-least-k-repeating-characters) |
 | 396 | Rotate Function | `Python` | [View](./leetcode/0396-rotate-function) |
+| 397 | Integer Replacement | `Python` | [View](./leetcode/0397-integer-replacement) |
+| 398 | Random Pick Index | `Python` | [View](./leetcode/0398-random-pick-index) |
+| 399 | Evaluate Division | `Python` | [View](./leetcode/0399-evaluate-division) |
+| 400 | Nth Digit | `Python` | [View](./leetcode/0400-nth-digit) |
 | 401 | Binary Watch | `Python` | [View](./leetcode/0401-binary-watch) |
+| 402 | Remove K Digits | `Python` | [View](./leetcode/0402-remove-k-digits) |
 | 407 | Trapping Rain Water Ii | `Python` | [View](./leetcode/0407-trapping-rain-water-ii) |
 | 417 | Pacific Atlantic Water Flow | `Python` | [View](./leetcode/0417-pacific-atlantic-water-flow) |
 | 448 | Find All Numbers Disappeared In An Array | `Python` | [View](./leetcode/0448-find-all-numbers-disappeared-in-an-array) |
@@ -540,6 +546,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1415 | Students And Examinations | `SQL` | [View](./leetcode/1415-students-and-examinations) |
 | 1428 | Jump Game Iii | `Python` | [View](./leetcode/1428-jump-game-iii) |
 | 1443 | Minimum Distance To Type A Word Using Two Fingers | `Python` | [View](./leetcode/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| 1446 | Angle Between Hands Of A Clock | `Python` | [View](./leetcode/1446-angle-between-hands-of-a-clock) |
 | 1447 | Jump Game Iv | `Python` | [View](./leetcode/1447-jump-game-iv) |
 | 1458 | Sort Integers By The Number Of 1 Bits | `Python` | [View](./leetcode/1458-sort-integers-by-the-number-of-1-bits) |
 | 1460 | Number Of Substrings Containing All Three Characters | `Python` | [View](./leetcode/1460-number-of-substrings-containing-all-three-characters) |
