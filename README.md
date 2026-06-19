@@ -486,6 +486,9 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 400 | Nth Digit | `Python` | [View](./leetcode/0400-nth-digit) |
 | 401 | Binary Watch | `Python` | [View](./leetcode/0401-binary-watch) |
 | 402 | Remove K Digits | `Python` | [View](./leetcode/0402-remove-k-digits) |
+| 404 | Sum Of Left Leaves | `Python` | [View](./leetcode/0404-sum-of-left-leaves) |
+| 405 | Convert A Number To Hexadecimal | `Python` | [View](./leetcode/0405-convert-a-number-to-hexadecimal) |
+| 406 | Queue Reconstruction By Height | `Python` | [View](./leetcode/0406-queue-reconstruction-by-height) |
 | 407 | Trapping Rain Water Ii | `Python` | [View](./leetcode/0407-trapping-rain-water-ii) |
 | 417 | Pacific Atlantic Water Flow | `Python` | [View](./leetcode/0417-pacific-atlantic-water-flow) |
 | 448 | Find All Numbers Disappeared In An Array | `Python` | [View](./leetcode/0448-find-all-numbers-disappeared-in-an-array) |
@@ -579,6 +582,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1793 | Minimum Moves To Make Array Complementary | `Python` | [View](./leetcode/1793-minimum-moves-to-make-array-complementary) |
 | 1800 | Concatenation Of Consecutive Binary Numbers | `Python` | [View](./leetcode/1800-concatenation-of-consecutive-binary-numbers) |
 | 1807 | Partitioning Into Minimum Number Of Deci Binary Numbers | `Python` | [View](./leetcode/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| 1833 | Find The Highest Altitude | `Python` | [View](./leetcode/1833-find-the-highest-altitude) |
 | 1840 | Minimize Hamming Distance After Swap Operations | `Python` | [View](./leetcode/1840-minimize-hamming-distance-after-swap-operations) |
 | 1845 | Largest Submatrix With Rearrangements | `Python` | [View](./leetcode/1845-largest-submatrix-with-rearrangements) |
 | 1878 | Check If Array Is Sorted And Rotated | `Python` | [View](./leetcode/1878-check-if-array-is-sorted-and-rotated) |

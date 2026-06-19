@@ -5,6 +5,7 @@
 #         self.left = left
 #         self.right = right
 
+
 class Solution:
     def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
         if not root:
