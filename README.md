@@ -588,6 +588,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1878 | Check If Array Is Sorted And Rotated | `Python` | [View](./leetcode/1878-check-if-array-is-sorted-and-rotated) |
 | 1884 | Minimum Changes To Make Alternating Binary String | `Python` | [View](./leetcode/1884-minimum-changes-to-make-alternating-binary-string) |
 | 1910 | Check If Binary String Has At Most One Segment Of Ones | `Python` | [View](./leetcode/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| 1961 | Maximum Ice Cream Bars | `Python` | [View](./leetcode/1961-maximum-ice-cream-bars) |
 | 1968 | Maximum Building Height | `Python` | [View](./leetcode/1968-maximum-building-height) |
 | 1972 | Rotating The Box | `Python` | [View](./leetcode/1972-rotating-the-box) |
 | 1975 | Minimum Distance To The Target Element | `Python` | [View](./leetcode/1975-minimum-distance-to-the-target-element) |
