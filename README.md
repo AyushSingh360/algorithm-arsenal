@@ -490,6 +490,10 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 405 | Convert A Number To Hexadecimal | `Python` | [View](./leetcode/0405-convert-a-number-to-hexadecimal) |
 | 406 | Queue Reconstruction By Height | `Python` | [View](./leetcode/0406-queue-reconstruction-by-height) |
 | 407 | Trapping Rain Water Ii | `Python` | [View](./leetcode/0407-trapping-rain-water-ii) |
+| 409 | Longest Palindrome | `Python` | [View](./leetcode/0409-longest-palindrome) |
+| 412 | Fizz Buzz | `Python` | [View](./leetcode/0412-fizz-buzz) |
+| 413 | Arithmetic Slices | `Python` | [View](./leetcode/0413-arithmetic-slices) |
+| 414 | Third Maximum Number | `Python` | [View](./leetcode/0414-third-maximum-number) |
 | 417 | Pacific Atlantic Water Flow | `Python` | [View](./leetcode/0417-pacific-atlantic-water-flow) |
 | 448 | Find All Numbers Disappeared In An Array | `Python` | [View](./leetcode/0448-find-all-numbers-disappeared-in-an-array) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
@@ -540,6 +544,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1135 | Customers Who Bought All Products | `SQL` | [View](./leetcode/1135-customers-who-bought-all-products) |
 | 1155 | Product Sales Analysis Iii | `SQL` | [View](./leetcode/1155-product-sales-analysis-iii) |
 | 1245 | User Activity For The Past 30 Days I | `SQL` | [View](./leetcode/1245-user-activity-for-the-past-30-days-i) |
+| 1297 | Maximum Number Of Balloons | `Python` | [View](./leetcode/1297-maximum-number-of-balloons) |
 | 1305 | Number Of Visible People In A Queue | `Python` | [View](./leetcode/1305-number-of-visible-people-in-a-queue) |
 | 1317 | Monthly Transactions I | `SQL` | [View](./leetcode/1317-monthly-transactions-i) |
 | 1320 | Remove All Adjacent Duplicates In String Ii | `Python` | [View](./leetcode/1320-remove-all-adjacent-duplicates-in-string-ii) |
