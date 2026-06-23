@@ -494,7 +494,11 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 412 | Fizz Buzz | `Python` | [View](./leetcode/0412-fizz-buzz) |
 | 413 | Arithmetic Slices | `Python` | [View](./leetcode/0413-arithmetic-slices) |
 | 414 | Third Maximum Number | `Python` | [View](./leetcode/0414-third-maximum-number) |
+| 415 | Add Strings | `Python` | [View](./leetcode/0415-add-strings) |
+| 416 | Partition Equal Subset Sum | `Python` | [View](./leetcode/0416-partition-equal-subset-sum) |
 | 417 | Pacific Atlantic Water Flow | `Python` | [View](./leetcode/0417-pacific-atlantic-water-flow) |
+| 419 | Battleships In A Board | `Python` | [View](./leetcode/0419-battleships-in-a-board) |
+| 421 | Maximum Xor Of Two Numbers In An Array | `Python` | [View](./leetcode/0421-maximum-xor-of-two-numbers-in-an-array) |
 | 448 | Find All Numbers Disappeared In An Array | `Python` | [View](./leetcode/0448-find-all-numbers-disappeared-in-an-array) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
@@ -736,6 +740,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3931 | Process String With Special Operations I | `Python` | [View](./leetcode/3931-process-string-with-special-operations-i) |
 | 3933 | Minimum Jumps To Reach End Via Prime Teleportation | `Python` | [View](./leetcode/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | 3939 | Process String With Special Operations Ii | `Python` | [View](./leetcode/3939-process-string-with-special-operations-ii) |
+| 3962 | Number Of Zigzag Arrays I | `Python` | [View](./leetcode/3962-number-of-zigzag-arrays-i) |
 | 3965 | Earliest Finish Time For Land And Water Rides I | `Python` | [View](./leetcode/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | 3967 | Earliest Finish Time For Land And Water Rides Ii | `Python` | [View](./leetcode/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | 3973 | Flip Square Submatrix Vertically | `Python` | [View](./leetcode/3973-flip-square-submatrix-vertically) |

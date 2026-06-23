@@ -24,8 +24,10 @@ class Solution:
             total_up = pref_up[m]
 
             for y in range(m):
-                new_up[y] = pref_down[y]                # sum of down[x] for x < y
-                new_down[y] = (total_up - pref_up[y + 1]) % MOD  # sum of up[x] for x > y
+                new_up[y] = pref_down[y]  # sum of down[x] for x < y
+                new_down[y] = (
+                    total_up - pref_up[y + 1]
+                ) % MOD  # sum of up[x] for x > y
 
             up, down = new_up, new_down
 

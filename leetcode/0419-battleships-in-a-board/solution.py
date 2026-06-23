@@ -5,11 +5,11 @@ class Solution:
 
         for i in range(m):
             for j in range(n):
-                if board[i][j] == '.':
+                if board[i][j] == ".":
                     continue
-                if i > 0 and board[i - 1][j] == 'X':
+                if i > 0 and board[i - 1][j] == "X":
                     continue
-                if j > 0 and board[i][j - 1] == 'X':
+                if j > 0 and board[i][j - 1] == "X":
                     continue
                 ans += 1
 

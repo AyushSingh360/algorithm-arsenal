@@ -2,6 +2,7 @@ class TrieNode:
     def __init__(self):
         self.child = [None, None]
 
+
 class Solution:
     def findMaximumXOR(self, nums: List[int]) -> int:
         root = TrieNode()
