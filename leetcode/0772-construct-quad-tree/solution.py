@@ -1,5 +1,5 @@
 class Solution:
-    def construct(self, grid: List[List[int]]) -> 'Node':
+    def construct(self, grid: List[List[int]]) -> "Node":
         n = len(grid)
 
         def same(x, y, size):
@@ -16,11 +16,12 @@ class Solution:
 
             half = size // 2
             return Node(
-                True, False,
+                True,
+                False,
                 build(x, y, half),
                 build(x, y + half, half),
                 build(x + half, y, half),
-                build(x + half, y + half, half)
+                build(x + half, y + half, half),
             )
 
         return build(0, 0, n)

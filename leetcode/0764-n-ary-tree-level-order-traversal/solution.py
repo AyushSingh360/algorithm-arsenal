@@ -1,7 +1,8 @@
 from collections import deque
 
+
 class Solution:
-    def levelOrder(self, root: 'Node') -> List[List[int]]:
+    def levelOrder(self, root: "Node") -> List[List[int]]:
         if not root:
             return []
 

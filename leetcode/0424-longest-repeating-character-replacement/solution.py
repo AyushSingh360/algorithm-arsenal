@@ -1,5 +1,6 @@
 from collections import Counter
 
+
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         count = Counter()

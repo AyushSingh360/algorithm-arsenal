@@ -499,6 +499,8 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 417 | Pacific Atlantic Water Flow | `Python` | [View](./leetcode/0417-pacific-atlantic-water-flow) |
 | 419 | Battleships In A Board | `Python` | [View](./leetcode/0419-battleships-in-a-board) |
 | 421 | Maximum Xor Of Two Numbers In An Array | `Python` | [View](./leetcode/0421-maximum-xor-of-two-numbers-in-an-array) |
+| 423 | Reconstruct Original Digits From English | `Python` | [View](./leetcode/0423-reconstruct-original-digits-from-english) |
+| 424 | Longest Repeating Character Replacement | `Python` | [View](./leetcode/0424-longest-repeating-character-replacement) |
 | 448 | Find All Numbers Disappeared In An Array | `Python` | [View](./leetcode/0448-find-all-numbers-disappeared-in-an-array) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
@@ -522,7 +524,9 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 757 | Pyramid Transition Matrix | `Python` | [View](./leetcode/0757-pyramid-transition-matrix) |
 | 759 | Set Intersection Size At Least Two | `Python` | [View](./leetcode/0759-set-intersection-size-at-least-two) |
 | 763 | Special Binary String | `Python` | [View](./leetcode/0763-special-binary-string) |
+| 764 | N Ary Tree Level Order Traversal | `Python` | [View](./leetcode/0764-n-ary-tree-level-order-traversal) |
 | 767 | Prime Number Of Set Bits In Binary Representation | `Python` | [View](./leetcode/0767-prime-number-of-set-bits-in-binary-representation) |
+| 772 | Construct Quad Tree | `Python` | [View](./leetcode/0772-construct-quad-tree) |
 | 794 | Swim In Rising Water | `Python` | [View](./leetcode/0794-swim-in-rising-water) |
 | 804 | Rotated Digits | `Python` | [View](./leetcode/0804-rotated-digits) |
 | 812 | Rotate String | `Python` | [View](./leetcode/0812-rotate-string) |
@@ -741,6 +745,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3933 | Minimum Jumps To Reach End Via Prime Teleportation | `Python` | [View](./leetcode/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | 3939 | Process String With Special Operations Ii | `Python` | [View](./leetcode/3939-process-string-with-special-operations-ii) |
 | 3962 | Number Of Zigzag Arrays I | `Python` | [View](./leetcode/3962-number-of-zigzag-arrays-i) |
+| 3964 | Number Of Zigzag Arrays Ii | `Python` | [View](./leetcode/3964-number-of-zigzag-arrays-ii) |
 | 3965 | Earliest Finish Time For Land And Water Rides I | `Python` | [View](./leetcode/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | 3967 | Earliest Finish Time For Land And Water Rides Ii | `Python` | [View](./leetcode/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | 3973 | Flip Square Submatrix Vertically | `Python` | [View](./leetcode/3973-flip-square-submatrix-vertically) |
