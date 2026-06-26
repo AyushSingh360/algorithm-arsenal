@@ -501,6 +501,8 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 421 | Maximum Xor Of Two Numbers In An Array | `Python` | [View](./leetcode/0421-maximum-xor-of-two-numbers-in-an-array) |
 | 423 | Reconstruct Original Digits From English | `Python` | [View](./leetcode/0423-reconstruct-original-digits-from-english) |
 | 424 | Longest Repeating Character Replacement | `Python` | [View](./leetcode/0424-longest-repeating-character-replacement) |
+| 433 | Minimum Genetic Mutation | `Python` | [View](./leetcode/0433-minimum-genetic-mutation) |
+| 434 | Number Of Segments In A String | `Python` | [View](./leetcode/0434-number-of-segments-in-a-string) |
 | 448 | Find All Numbers Disappeared In An Array | `Python` | [View](./leetcode/0448-find-all-numbers-disappeared-in-an-array) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
@@ -525,6 +527,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 759 | Set Intersection Size At Least Two | `Python` | [View](./leetcode/0759-set-intersection-size-at-least-two) |
 | 763 | Special Binary String | `Python` | [View](./leetcode/0763-special-binary-string) |
 | 764 | N Ary Tree Level Order Traversal | `Python` | [View](./leetcode/0764-n-ary-tree-level-order-traversal) |
+| 766 | Flatten A Multilevel Doubly Linked List | `Python` | [View](./leetcode/0766-flatten-a-multilevel-doubly-linked-list) |
 | 767 | Prime Number Of Set Bits In Binary Representation | `Python` | [View](./leetcode/0767-prime-number-of-set-bits-in-binary-representation) |
 | 772 | Construct Quad Tree | `Python` | [View](./leetcode/0772-construct-quad-tree) |
 | 794 | Swim In Rising Water | `Python` | [View](./leetcode/0794-swim-in-rising-water) |
@@ -759,6 +762,8 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4005 | Maximum Total Subarray Value I | `Python` | [View](./leetcode/4005-maximum-total-subarray-value-i) |
 | 4007 | Maximum Total Subarray Value Ii | `Python` | [View](./leetcode/4007-maximum-total-subarray-value-ii) |
 | 4057 | Total Waviness Of Numbers In Range I | `Python` | [View](./leetcode/4057-total-waviness-of-numbers-in-range-i) |
+| 4074 | Count Subarrays With Majority Element I | `Python` | [View](./leetcode/4074-count-subarrays-with-majority-element-i) |
+| 4075 | Count Subarrays With Majority Element Ii | `Python` | [View](./leetcode/4075-count-subarrays-with-majority-element-ii) |
 | 4115 | Minimum Distance Between Three Equal Elements I | `Python` | [View](./leetcode/4115-minimum-distance-between-three-equal-elements-i) |
 | 4119 | Minimum Distance Between Three Equal Elements Ii | `Python` | [View](./leetcode/4119-minimum-distance-between-three-equal-elements-ii) |
 | 4128 | Total Waviness Of Numbers In Range Ii | `Python` | [View](./leetcode/4128-total-waviness-of-numbers-in-range-ii) |

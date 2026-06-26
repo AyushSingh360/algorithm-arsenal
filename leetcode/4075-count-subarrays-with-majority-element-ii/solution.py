@@ -1,6 +1,7 @@
 from typing import List
 import bisect
 
+
 class Solution:
     def countMajoritySubarrays(self, nums: List[int], target: int) -> int:
         n = len(nums)

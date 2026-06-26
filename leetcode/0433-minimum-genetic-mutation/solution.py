@@ -1,12 +1,13 @@
 from collections import deque
 
+
 class Solution:
     def minMutation(self, startGene: str, endGene: str, bank: List[str]) -> int:
         bank_set = set(bank)
         if endGene not in bank_set:
             return -1
 
-        chars = ['A', 'C', 'G', 'T']
+        chars = ["A", "C", "G", "T"]
         q = deque([(startGene, 0)])
         seen = {startGene}
 
@@ -23,7 +24,7 @@ class Solution:
                     if c == orig:
                         continue
                     arr[i] = c
-                    candidate = ''.join(arr)
+                    candidate = "".join(arr)
                     if candidate in bank_set and candidate not in seen:
                         seen.add(candidate)
                         q.append((candidate, steps + 1))
