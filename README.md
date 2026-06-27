@@ -503,6 +503,8 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 424 | Longest Repeating Character Replacement | `Python` | [View](./leetcode/0424-longest-repeating-character-replacement) |
 | 433 | Minimum Genetic Mutation | `Python` | [View](./leetcode/0433-minimum-genetic-mutation) |
 | 434 | Number Of Segments In A String | `Python` | [View](./leetcode/0434-number-of-segments-in-a-string) |
+| 435 | Non Overlapping Intervals | `Python` | [View](./leetcode/0435-non-overlapping-intervals) |
+| 436 | Find Right Interval | `Python` | [View](./leetcode/0436-find-right-interval) |
 | 448 | Find All Numbers Disappeared In An Array | `Python` | [View](./leetcode/0448-find-all-numbers-disappeared-in-an-array) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
@@ -706,6 +708,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3214 | Maximize Area Of Square Hole In Grid | `Python` | [View](./leetcode/3214-maximize-area-of-square-hole-in-grid) |
 | 3215 | Matrix Similarity After Cyclic Shifts | `Python` | [View](./leetcode/3215-matrix-similarity-after-cyclic-shifts) |
 | 3250 | Maximum Square Area By Removing Fences From A Field | `Python` | [View](./leetcode/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| 3299 | Find The Maximum Number Of Elements In Subset | `Python` | [View](./leetcode/3299-find-the-maximum-number-of-elements-in-subset) |
 | 3329 | Find The Length Of The Longest Common Prefix | `Python` | [View](./leetcode/3329-find-the-length-of-the-longest-common-prefix) |
 | 3338 | Count Submatrices With Top Left Element And Sum Less Than K | `Python` | [View](./leetcode/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | 3376 | Longest Common Suffix Queries | `Python` | [View](./leetcode/3376-longest-common-suffix-queries) |

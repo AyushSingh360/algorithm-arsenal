@@ -1,6 +1,7 @@
 from bisect import bisect_left
 from typing import List
 
+
 class Solution:
     def findRightInterval(self, intervals: List[List[int]]) -> List[int]:
         n = len(intervals)
