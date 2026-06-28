@@ -505,6 +505,9 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 434 | Number Of Segments In A String | `Python` | [View](./leetcode/0434-number-of-segments-in-a-string) |
 | 435 | Non Overlapping Intervals | `Python` | [View](./leetcode/0435-non-overlapping-intervals) |
 | 436 | Find Right Interval | `Python` | [View](./leetcode/0436-find-right-interval) |
+| 437 | Path Sum Iii | `Python` | [View](./leetcode/0437-path-sum-iii) |
+| 438 | Find All Anagrams In A String | `Python` | [View](./leetcode/0438-find-all-anagrams-in-a-string) |
+| 441 | Arranging Coins | `Python` | [View](./leetcode/0441-arranging-coins) |
 | 448 | Find All Numbers Disappeared In An Array | `Python` | [View](./leetcode/0448-find-all-numbers-disappeared-in-an-array) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
@@ -606,6 +609,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1878 | Check If Array Is Sorted And Rotated | `Python` | [View](./leetcode/1878-check-if-array-is-sorted-and-rotated) |
 | 1884 | Minimum Changes To Make Alternating Binary String | `Python` | [View](./leetcode/1884-minimum-changes-to-make-alternating-binary-string) |
 | 1910 | Check If Binary String Has At Most One Segment Of Ones | `Python` | [View](./leetcode/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| 1956 | Maximum Element After Decreasing And Rearranging | `Python` | [View](./leetcode/1956-maximum-element-after-decreasing-and-rearranging) |
 | 1961 | Maximum Ice Cream Bars | `Python` | [View](./leetcode/1961-maximum-ice-cream-bars) |
 | 1968 | Maximum Building Height | `Python` | [View](./leetcode/1968-maximum-building-height) |
 | 1972 | Rotating The Box | `Python` | [View](./leetcode/1972-rotating-the-box) |
