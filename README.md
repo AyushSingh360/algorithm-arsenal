@@ -625,6 +625,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2058 | Concatenation Of Array | `Python` | [View](./leetcode/2058-concatenation-of-array) |
 | 2059 | Unique Length 3 Palindromic Subsequences | `Python` | [View](./leetcode/2059-unique-length-3-palindromic-subsequences) |
 | 2089 | Maximum Matrix Sum | `Python` | [View](./leetcode/2089-maximum-matrix-sum) |
+| 2099 | Number Of Strings That Appear As Substrings In Word | `Python` | [View](./leetcode/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | 2107 | Find Unique Binary String | `Python` | [View](./leetcode/2107-find-unique-binary-string) |
 | 2125 | Gcd Sort Of An Array | `Python` | [View](./leetcode/2125-gcd-sort-of-an-array) |
 | 2160 | Minimum Operations To Make A Uni Value Grid | `Python` | [View](./leetcode/2160-minimum-operations-to-make-a-uni-value-grid) |
