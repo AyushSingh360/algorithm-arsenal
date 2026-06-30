@@ -1,12 +1,12 @@
-class Solution(object):
-    def numberOfSubstrings(self, s):
+class Solution:
+    def numberOfSubstrings(self, s: str) -> int:
+        # lastSeen[c] := last index where c appeared
         last_seen = {"a": -1, "b": -1, "c": -1}
-        result = 0
+        ans = 0
 
-        for i, char in enumerate(s):
-            last_seen[char] = i
-            if -1 not in last_seen.values():
-                # The smallest index of the three
-                min_index = min(last_seen.values())
-                result += min_index + 1
-        return result
+        for i, ch in enumerate(s):
+            last_seen[ch] = i
+            # If any char hasn't appeared yet, min will be -1, so we add 0.
+            ans += 1 + min(last_seen.values())
+
+        return ans
