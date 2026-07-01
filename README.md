@@ -705,6 +705,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2864 | Is Object Empty | `JavaScript` | [View](./leetcode/2864-is-object-empty) |
 | 2892 | Check If Array Is Good | `Python` | [View](./leetcode/2892-check-if-array-is-good) |
 | 2905 | Count Paths That Can Form A Palindrome In A Tree | `Python` | [View](./leetcode/2905-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| 2914 | Find The Safest Path In A Grid | `Python` | [View](./leetcode/2914-find-the-safest-path-in-a-grid) |
 | 2978 | Check If Strings Can Be Made Equal With Operations Ii | `Python` | [View](./leetcode/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | 2999 | Check If Strings Can Be Made Equal With Operations I | `Python` | [View](./leetcode/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | 3019 | Furthest Point From Origin | `Python` | [View](./leetcode/3019-furthest-point-from-origin) |
