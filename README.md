@@ -730,6 +730,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3492 | Count Submatrices With Equal Frequency Of X And Y | `Python` | [View](./leetcode/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | 3493 | Maximum Number Of Operations To Move Ones To The End | `Python` | [View](./leetcode/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | 3496 | Minimum Number Of Seconds To Make Mountain Height Zero | `Python` | [View](./leetcode/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| 3558 | Find A Safe Walk Through A Grid | `Python` | [View](./leetcode/3558-find-a-safe-walk-through-a-grid) |
 | 3569 | Count Of Substrings Containing Every Vowel And K Consonants Ii | `Python` | [View](./leetcode/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | 3606 | Minimum Element After Replacement With Digit Sum | `Python` | [View](./leetcode/3606-minimum-element-after-replacement-with-digit-sum) |
 | 3610 | Find X Sum Of All K Long Subarrays I | `Python` | [View](./leetcode/3610-find-x-sum-of-all-k-long-subarrays-i) |

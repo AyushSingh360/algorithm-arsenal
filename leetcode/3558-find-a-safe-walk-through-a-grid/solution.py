@@ -3,6 +3,7 @@ from itertools import pairwise
 from math import inf
 from typing import List
 
+
 class Solution:
     def findSafeWalk(self, grid: List[List[int]], health: int) -> bool:
         m, n = len(grid), len(grid[0])
