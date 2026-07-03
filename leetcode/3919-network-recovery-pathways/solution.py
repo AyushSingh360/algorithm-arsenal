@@ -2,12 +2,15 @@ from typing import List
 from collections import deque, defaultdict
 import math
 
+
 class Solution:
-    def findMaxPathScore(self, edges: List[List[int]], online: List[bool], k: int) -> int:
+    def findMaxPathScore(
+        self, edges: List[List[int]], online: List[bool], k: int
+    ) -> int:
         n = len(online)
         if n == 0:
             return -1
-        
+
         # Build graph and indegrees for topo sort
         graph = [[] for _ in range(n)]
         indeg = [0] * n

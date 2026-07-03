@@ -508,6 +508,9 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 437 | Path Sum Iii | `Python` | [View](./leetcode/0437-path-sum-iii) |
 | 438 | Find All Anagrams In A String | `Python` | [View](./leetcode/0438-find-all-anagrams-in-a-string) |
 | 441 | Arranging Coins | `Python` | [View](./leetcode/0441-arranging-coins) |
+| 442 | Find All Duplicates In An Array | `Python` | [View](./leetcode/0442-find-all-duplicates-in-an-array) |
+| 443 | String Compression | `Python` | [View](./leetcode/0443-string-compression) |
+| 445 | Add Two Numbers Ii | `Python` | [View](./leetcode/0445-add-two-numbers-ii) |
 | 448 | Find All Numbers Disappeared In An Array | `Python` | [View](./leetcode/0448-find-all-numbers-disappeared-in-an-array) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
@@ -754,6 +757,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3886 | Count Number Of Trapezoids I | `Python` | [View](./leetcode/3886-count-number-of-trapezoids-i) |
 | 3892 | Best Time To Buy And Sell Stock V | `Python` | [View](./leetcode/3892-best-time-to-buy-and-sell-stock-v) |
 | 3902 | Maximize Spanning Tree Stability With Upgrades | `Python` | [View](./leetcode/3902-maximize-spanning-tree-stability-with-upgrades) |
+| 3919 | Network Recovery Pathways | `Python` | [View](./leetcode/3919-network-recovery-pathways) |
 | 3931 | Process String With Special Operations I | `Python` | [View](./leetcode/3931-process-string-with-special-operations-i) |
 | 3933 | Minimum Jumps To Reach End Via Prime Teleportation | `Python` | [View](./leetcode/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | 3939 | Process String With Special Operations Ii | `Python` | [View](./leetcode/3939-process-string-with-special-operations-ii) |
