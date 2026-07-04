@@ -2,6 +2,7 @@ from typing import List
 import collections
 import math
 
+
 class Solution:
     def minScore(self, n: int, roads: List[List[int]]) -> int:
         # Build adjacency list: graph[u] = list of (v, distance)

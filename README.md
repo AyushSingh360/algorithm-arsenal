@@ -511,7 +511,9 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 442 | Find All Duplicates In An Array | `Python` | [View](./leetcode/0442-find-all-duplicates-in-an-array) |
 | 443 | String Compression | `Python` | [View](./leetcode/0443-string-compression) |
 | 445 | Add Two Numbers Ii | `Python` | [View](./leetcode/0445-add-two-numbers-ii) |
+| 447 | Number Of Boomerangs | `Python` | [View](./leetcode/0447-number-of-boomerangs) |
 | 448 | Find All Numbers Disappeared In An Array | `Python` | [View](./leetcode/0448-find-all-numbers-disappeared-in-an-array) |
+| 449 | Serialize And Deserialize Bst | `Python` | [View](./leetcode/0449-serialize-and-deserialize-bst) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
 | 485 | Max Consecutive Ones | `Python` | [View](./leetcode/0485-max-consecutive-ones) |
@@ -660,6 +662,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2559 | Maximum Number Of Non Overlapping Palindrome Substrings | `Python` | [View](./leetcode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | 2571 | Find The Pivot Integer | `Python` | [View](./leetcode/2571-find-the-pivot-integer) |
 | 2574 | Count Subarrays With Median K | `Python` | [View](./leetcode/2574-count-subarrays-with-median-k) |
+| 2582 | Minimum Score Of A Path Between Two Cities | `Python` | [View](./leetcode/2582-minimum-score-of-a-path-between-two-cities) |
 | 2598 | Shortest Distance To Target String In A Circular Array | `Python` | [View](./leetcode/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | 2610 | Closest Prime Numbers In Range | `Python` | [View](./leetcode/2610-closest-prime-numbers-in-range) |
 | 2625 | Increment Submatrices By One | `Python` | [View](./leetcode/2625-increment-submatrices-by-one) |

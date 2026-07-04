@@ -1,6 +1,7 @@
 import collections
 from typing import List
 
+
 class Solution:
     def numberOfBoomerangs(self, points: List[List[int]]) -> int:
         ans = 0

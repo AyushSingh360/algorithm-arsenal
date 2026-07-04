@@ -1,5 +1,6 @@
 from typing import Optional, List
 
+
 class Codec:
     def serialize(self, root: Optional[TreeNode]) -> str:
         vals = []
@@ -35,4 +36,4 @@ class Codec:
             node.right = build(val + 1 if isinstance(val, int) else val, upper)
             return node
 
-        return build(-10**9, 10**9)
+        return build(-(10**9), 10**9)
