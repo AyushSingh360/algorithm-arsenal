@@ -514,6 +514,10 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 447 | Number Of Boomerangs | `Python` | [View](./leetcode/0447-number-of-boomerangs) |
 | 448 | Find All Numbers Disappeared In An Array | `Python` | [View](./leetcode/0448-find-all-numbers-disappeared-in-an-array) |
 | 449 | Serialize And Deserialize Bst | `Python` | [View](./leetcode/0449-serialize-and-deserialize-bst) |
+| 450 | Delete Node In A Bst | `Python` | [View](./leetcode/0450-delete-node-in-a-bst) |
+| 451 | Sort Characters By Frequency | `Python` | [View](./leetcode/0451-sort-characters-by-frequency) |
+| 452 | Minimum Number Of Arrows To Burst Balloons | `Python` | [View](./leetcode/0452-minimum-number-of-arrows-to-burst-balloons) |
+| 453 | Minimum Moves To Equal Array Elements | `Python` | [View](./leetcode/0453-minimum-moves-to-equal-array-elements) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
 | 485 | Max Consecutive Ones | `Python` | [View](./leetcode/0485-max-consecutive-ones) |
@@ -564,6 +568,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1116 | Maximum Level Sum Of A Binary Tree | `Python` | [View](./leetcode/1116-maximum-level-sum-of-a-binary-tree) |
 | 1135 | Customers Who Bought All Products | `SQL` | [View](./leetcode/1135-customers-who-bought-all-products) |
 | 1155 | Product Sales Analysis Iii | `SQL` | [View](./leetcode/1155-product-sales-analysis-iii) |
+| 1234 | Number Of Paths With Max Score | `Python` | [View](./leetcode/1234-number-of-paths-with-max-score) |
 | 1245 | User Activity For The Past 30 Days I | `SQL` | [View](./leetcode/1245-user-activity-for-the-past-30-days-i) |
 | 1297 | Maximum Number Of Balloons | `Python` | [View](./leetcode/1297-maximum-number-of-balloons) |
 | 1305 | Number Of Visible People In A Queue | `Python` | [View](./leetcode/1305-number-of-visible-people-in-a-queue) |

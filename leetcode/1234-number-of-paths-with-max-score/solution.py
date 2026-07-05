@@ -15,7 +15,7 @@ class Solution:
         # Fill from bottom-right to top-left
         for i in range(n - 1, -1, -1):
             for j in range(n - 1, -1, -1):
-                if board[i][j] == 'X':
+                if board[i][j] == "X":
                     dp[i][j] = -1
                     cnt[i][j] = 0
                     continue
