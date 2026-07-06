@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution:
     def removeCoveredIntervals(self, intervals: List[List[int]]) -> int:
         # 1. Sort by left ascending, and for ties by right descending
