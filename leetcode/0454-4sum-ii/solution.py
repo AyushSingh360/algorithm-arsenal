@@ -1,13 +1,10 @@
 from collections import Counter
 from typing import List
 
+
 class Solution:
     def fourSumCount(
-        self,
-        nums1: List[int],
-        nums2: List[int],
-        nums3: List[int],
-        nums4: List[int]
+        self, nums1: List[int], nums2: List[int], nums3: List[int], nums4: List[int]
     ) -> int:
         # Count all possible sums of nums1[i] + nums2[j]
         sum_count = Counter(a + b for a in nums1 for b in nums2)

@@ -1,13 +1,14 @@
 from typing import List
 
+
 class Solution:
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
         # Sort greed factors and cookie sizes
         g.sort()
         s.sort()
 
-        child = 0          # index for children (in g)
-        cookie = 0         # index for cookies (in s)
+        child = 0  # index for children (in g)
+        cookie = 0  # index for cookies (in s)
 
         # Try to satisfy children from least greedy upwards
         while child < len(g) and cookie < len(s):
