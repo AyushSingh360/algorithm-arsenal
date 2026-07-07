@@ -1,9 +1,10 @@
 from typing import List
 
+
 class Solution:
     def find132pattern(self, nums: List[int]) -> bool:
-        stack = []               # monotonic decreasing stack for potential nums[j]
-        third = float('-inf')    # best candidate for nums[k] (the "2" in 132)
+        stack = []  # monotonic decreasing stack for potential nums[j]
+        third = float("-inf")  # best candidate for nums[k] (the "2" in 132)
 
         # iterate from right to left
         for num in reversed(nums):

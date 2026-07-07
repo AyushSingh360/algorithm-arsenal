@@ -520,6 +520,9 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 453 | Minimum Moves To Equal Array Elements | `Python` | [View](./leetcode/0453-minimum-moves-to-equal-array-elements) |
 | 454 | 4Sum Ii | `Python` | [View](./leetcode/0454-4sum-ii) |
 | 455 | Assign Cookies | `Python` | [View](./leetcode/0455-assign-cookies) |
+| 456 | 132 Pattern | `Python` | [View](./leetcode/0456-132-pattern) |
+| 457 | Circular Array Loop | `Python` | [View](./leetcode/0457-circular-array-loop) |
+| 459 | Repeated Substring Pattern | `Python` | [View](./leetcode/0459-repeated-substring-pattern) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
 | 485 | Max Consecutive Ones | `Python` | [View](./leetcode/0485-max-consecutive-ones) |
@@ -792,6 +795,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4115 | Minimum Distance Between Three Equal Elements I | `Python` | [View](./leetcode/4115-minimum-distance-between-three-equal-elements-i) |
 | 4119 | Minimum Distance Between Three Equal Elements Ii | `Python` | [View](./leetcode/4119-minimum-distance-between-three-equal-elements-ii) |
 | 4128 | Total Waviness Of Numbers In Range Ii | `Python` | [View](./leetcode/4128-total-waviness-of-numbers-in-range-ii) |
+| 4135 | Concatenate Non Zero Digits And Multiply By Sum I | `Python` | [View](./leetcode/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | 4139 | Minimum Absolute Distance Between Mirror Pairs | `Python` | [View](./leetcode/4139-minimum-absolute-distance-between-mirror-pairs) |
 | 4168 | Mirror Distance Of An Integer | `Python` | [View](./leetcode/4168-mirror-distance-of-an-integer) |
 | 4192 | Minimum Cost To Partition A Binary String | `Python` | [View](./leetcode/4192-minimum-cost-to-partition-a-binary-string) |

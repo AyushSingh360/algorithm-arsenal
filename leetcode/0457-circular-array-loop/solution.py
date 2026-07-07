@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution:
     def circularArrayLoop(self, nums: List[int]) -> bool:
         n = len(nums)
@@ -14,7 +15,9 @@ class Solution:
                 continue
 
             slow, fast = i, i
-            direction = nums[i] > 0  # True for positive (forward), False for negative (backward)
+            direction = (
+                nums[i] > 0
+            )  # True for positive (forward), False for negative (backward)
 
             while True:
                 # move slow one step
@@ -24,7 +27,11 @@ class Solution:
                 nxt_fast2 = next_index(nxt_fast)
 
                 # Check direction consistency for next positions
-                if (nums[nxt_slow] > 0) != direction or (nums[nxt_fast] > 0) != direction or (nums[nxt_fast2] > 0) != direction:
+                if (
+                    (nums[nxt_slow] > 0) != direction
+                    or (nums[nxt_fast] > 0) != direction
+                    or (nums[nxt_fast2] > 0) != direction
+                ):
                     break
 
                 slow = nxt_slow
