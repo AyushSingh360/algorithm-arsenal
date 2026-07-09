@@ -524,6 +524,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 457 | Circular Array Loop | `Python` | [View](./leetcode/0457-circular-array-loop) |
 | 459 | Repeated Substring Pattern | `Python` | [View](./leetcode/0459-repeated-substring-pattern) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
+| 461 | Hamming Distance | `Python` | [View](./leetcode/0461-hamming-distance) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
 | 485 | Max Consecutive Ones | `Python` | [View](./leetcode/0485-max-consecutive-ones) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
@@ -762,6 +763,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3791 | Fruits Into Baskets Iii | `Python` | [View](./leetcode/3791-fruits-into-baskets-iii) |
 | 3834 | Minimum Operations To Convert All Elements To Zero | `Python` | [View](./leetcode/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | 3835 | Count Partitions With Max Min Difference At Most K | `Python` | [View](./leetcode/3835-count-partitions-with-max-min-difference-at-most-k) |
+| 3838 | Path Existence Queries In A Graph I | `Python` | [View](./leetcode/3838-path-existence-queries-in-a-graph-i) |
 | 3842 | Number Of Ways To Assign Edge Weights Ii | `Python` | [View](./leetcode/3842-number-of-ways-to-assign-edge-weights-ii) |
 | 3844 | Number Of Ways To Assign Edge Weights I | `Python` | [View](./leetcode/3844-number-of-ways-to-assign-edge-weights-i) |
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | `Python` | [View](./leetcode/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -796,6 +798,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4119 | Minimum Distance Between Three Equal Elements Ii | `Python` | [View](./leetcode/4119-minimum-distance-between-three-equal-elements-ii) |
 | 4128 | Total Waviness Of Numbers In Range Ii | `Python` | [View](./leetcode/4128-total-waviness-of-numbers-in-range-ii) |
 | 4135 | Concatenate Non Zero Digits And Multiply By Sum I | `Python` | [View](./leetcode/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| 4136 | Concatenate Non Zero Digits And Multiply By Sum Ii | `Python` | [View](./leetcode/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | 4139 | Minimum Absolute Distance Between Mirror Pairs | `Python` | [View](./leetcode/4139-minimum-absolute-distance-between-mirror-pairs) |
 | 4168 | Mirror Distance Of An Integer | `Python` | [View](./leetcode/4168-mirror-distance-of-an-integer) |
 | 4192 | Minimum Cost To Partition A Binary String | `Python` | [View](./leetcode/4192-minimum-cost-to-partition-a-binary-string) |

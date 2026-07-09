@@ -1,6 +1,7 @@
 from bisect import bisect_left, bisect_right
 from typing import List
 
+
 class Solution:
     def sumAndMultiply(self, s: str, queries: List[List[int]]) -> List[int]:
         MOD = 10**9 + 7
@@ -10,7 +11,7 @@ class Solution:
         pos = []
         vals = []
         for i, ch in enumerate(s):
-            if ch != '0':
+            if ch != "0":
                 pos.append(i)
                 vals.append(int(ch))
 
@@ -20,9 +21,9 @@ class Solution:
             return [0] * len(queries)
 
         # 2. Build prefix-sum of digits and prefix "concatenation" values for x.
-        pref_sum = [0] * (k + 1)      # sum of digits
-        pref_x = [0] * (k + 1)        # number formed by concatenation
-        pow10 = [1] * (k + 1)         # powers of 10 for modulo
+        pref_sum = [0] * (k + 1)  # sum of digits
+        pref_x = [0] * (k + 1)  # number formed by concatenation
+        pow10 = [1] * (k + 1)  # powers of 10 for modulo
 
         for i in range(1, k + 1):
             pref_sum[i] = (pref_sum[i - 1] + vals[i - 1]) % MOD
