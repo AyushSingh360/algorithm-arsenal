@@ -1,5 +1,6 @@
 from typing import List
 
+
 class DSU:
     def __init__(self, n):
         self.p = list(range(n))
@@ -23,8 +24,11 @@ class DSU:
             self.r[a] += 1
         return True
 
+
 class Solution:
-    def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[int]:
+    def pathExistenceQueries(
+        self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]
+    ) -> List[int]:
         order = sorted(range(n), key=lambda i: nums[i])
         pos = [0] * n
         for i, idx in enumerate(order):
