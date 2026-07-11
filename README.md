@@ -703,6 +703,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2766 | Find The Prefix Common Array Of Two Arrays | `Python` | [View](./leetcode/2766-find-the-prefix-common-array-of-two-arrays) |
 | 2779 | Number Of Adjacent Elements With The Same Color | `Python` | [View](./leetcode/2779-number-of-adjacent-elements-with-the-same-color) |
 | 2789 | Counter Ii | `JavaScript` | [View](./leetcode/2789-counter-ii) |
+| 2793 | Count The Number Of Complete Components | `Python` | [View](./leetcode/2793-count-the-number-of-complete-components) |
 | 2796 | Allow One Function Call | `JavaScript` | [View](./leetcode/2796-allow-one-function-call) |
 | 2797 | Event Emitter | `TypeScript` | [View](./leetcode/2797-event-emitter) |
 | 2798 | Chunk Array | `JavaScript` | [View](./leetcode/2798-chunk-array) |
