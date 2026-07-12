@@ -577,6 +577,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1222 | Remove Covered Intervals | `Python` | [View](./leetcode/1222-remove-covered-intervals) |
 | 1234 | Number Of Paths With Max Score | `Python` | [View](./leetcode/1234-number-of-paths-with-max-score) |
 | 1245 | User Activity For The Past 30 Days I | `SQL` | [View](./leetcode/1245-user-activity-for-the-past-30-days-i) |
+| 1256 | Rank Transform Of An Array | `Python` | [View](./leetcode/1256-rank-transform-of-an-array) |
 | 1297 | Maximum Number Of Balloons | `Python` | [View](./leetcode/1297-maximum-number-of-balloons) |
 | 1305 | Number Of Visible People In A Queue | `Python` | [View](./leetcode/1305-number-of-visible-people-in-a-queue) |
 | 1317 | Monthly Transactions I | `SQL` | [View](./leetcode/1317-monthly-transactions-i) |
