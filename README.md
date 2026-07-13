@@ -574,6 +574,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1116 | Maximum Level Sum Of A Binary Tree | `Python` | [View](./leetcode/1116-maximum-level-sum-of-a-binary-tree) |
 | 1135 | Customers Who Bought All Products | `SQL` | [View](./leetcode/1135-customers-who-bought-all-products) |
 | 1155 | Product Sales Analysis Iii | `SQL` | [View](./leetcode/1155-product-sales-analysis-iii) |
+| 1212 | Sequential Digits | `Python` | [View](./leetcode/1212-sequential-digits) |
 | 1222 | Remove Covered Intervals | `Python` | [View](./leetcode/1222-remove-covered-intervals) |
 | 1234 | Number Of Paths With Max Score | `Python` | [View](./leetcode/1234-number-of-paths-with-max-score) |
 | 1245 | User Activity For The Past 30 Days I | `SQL` | [View](./leetcode/1245-user-activity-for-the-past-30-days-i) |
