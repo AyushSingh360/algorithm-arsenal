@@ -1,5 +1,6 @@
 from functools import lru_cache
 
+
 class Solution:
     def canIWin(self, maxChoosableInteger: int, desiredTotal: int) -> bool:
         if desiredTotal <= 0:

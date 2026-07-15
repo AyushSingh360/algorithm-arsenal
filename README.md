@@ -525,6 +525,10 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 459 | Repeated Substring Pattern | `Python` | [View](./leetcode/0459-repeated-substring-pattern) |
 | 460 | Lfu Cache | `Python` | [View](./leetcode/0460-lfu-cache) |
 | 461 | Hamming Distance | `Python` | [View](./leetcode/0461-hamming-distance) |
+| 462 | Minimum Moves To Equal Array Elements Ii | `Python` | [View](./leetcode/0462-minimum-moves-to-equal-array-elements-ii) |
+| 463 | Island Perimeter | `Python` | [View](./leetcode/0463-island-perimeter) |
+| 464 | Can I Win | `Python` | [View](./leetcode/0464-can-i-win) |
+| 467 | Unique Substrings In Wraparound String | `Python` | [View](./leetcode/0467-unique-substrings-in-wraparound-string) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
 | 485 | Max Consecutive Ones | `Python` | [View](./leetcode/0485-max-consecutive-ones) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
@@ -794,6 +798,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3982 | Maximum Walls Destroyed By Robots | `Python` | [View](./leetcode/3982-maximum-walls-destroyed-by-robots) |
 | 3983 | Minimum Operations To Equalize Binary String | `Python` | [View](./leetcode/3983-minimum-operations-to-equalize-binary-string) |
 | 3986 | Maximum Path Score In A Grid | `Python` | [View](./leetcode/3986-maximum-path-score-in-a-grid) |
+| 3995 | Gcd Of Odd And Even Sums | `Python` | [View](./leetcode/3995-gcd-of-odd-and-even-sums) |
 | 4005 | Maximum Total Subarray Value I | `Python` | [View](./leetcode/4005-maximum-total-subarray-value-i) |
 | 4007 | Maximum Total Subarray Value Ii | `Python` | [View](./leetcode/4007-maximum-total-subarray-value-ii) |
 | 4057 | Total Waviness Of Numbers In Range I | `Python` | [View](./leetcode/4057-total-waviness-of-numbers-in-range-i) |
