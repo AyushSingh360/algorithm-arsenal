@@ -529,7 +529,11 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 463 | Island Perimeter | `Python` | [View](./leetcode/0463-island-perimeter) |
 | 464 | Can I Win | `Python` | [View](./leetcode/0464-can-i-win) |
 | 467 | Unique Substrings In Wraparound String | `Python` | [View](./leetcode/0467-unique-substrings-in-wraparound-string) |
+| 468 | Validate Ip Address | `Python` | [View](./leetcode/0468-validate-ip-address) |
+| 473 | Matchsticks To Square | `Python` | [View](./leetcode/0473-matchsticks-to-square) |
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
+| 475 | Heaters | `Python` | [View](./leetcode/0475-heaters) |
+| 476 | Number Complement | `Python` | [View](./leetcode/0476-number-complement) |
 | 485 | Max Consecutive Ones | `Python` | [View](./leetcode/0485-max-consecutive-ones) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
 | 584 | Find Customer Referee | `SQL` | [View](./leetcode/0584-find-customer-referee) |
@@ -816,6 +820,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4220 | Minimum Operations To Sort A String | `Python` | [View](./leetcode/4220-minimum-operations-to-sort-a-string) |
 | 4229 | Trim Trailing Vowels | `Python` | [View](./leetcode/4229-trim-trailing-vowels) |
 | 4240 | Find The Smallest Balanced Index | `Python` | [View](./leetcode/4240-find-the-smallest-balanced-index) |
+| 4242 | Sum Of Gcd Of Formed Pairs | `Python` | [View](./leetcode/4242-sum-of-gcd-of-formed-pairs) |
 | 4247 | Minimum Capacity Box | `Python` | [View](./leetcode/4247-minimum-capacity-box) |
 <!-- INDEX_END -->
 

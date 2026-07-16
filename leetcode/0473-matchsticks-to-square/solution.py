@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution:
     def makesquare(self, matchsticks: List[int]) -> bool:
         total = sum(matchsticks)
@@ -23,7 +24,12 @@ class Solution:
             if i == len(matchsticks):
                 # Because we never exceed 'side', reaching here implies
                 # all sides == side
-                return sides[0] == side and sides[1] == side and sides[2] == side and sides[3] == side
+                return (
+                    sides[0] == side
+                    and sides[1] == side
+                    and sides[2] == side
+                    and sides[3] == side
+                )
 
             length = matchsticks[i]
 
