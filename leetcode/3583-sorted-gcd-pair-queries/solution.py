@@ -3,6 +3,7 @@ from itertools import accumulate
 from bisect import bisect_right
 from typing import List
 
+
 class Solution:
     def gcdValues(self, nums: List[int], queries: List[int]) -> List[int]:
         mx = max(nums)

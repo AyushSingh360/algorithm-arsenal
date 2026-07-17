@@ -534,6 +534,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 474 | Ones And Zeroes | `Python` | [View](./leetcode/0474-ones-and-zeroes) |
 | 475 | Heaters | `Python` | [View](./leetcode/0475-heaters) |
 | 476 | Number Complement | `Python` | [View](./leetcode/0476-number-complement) |
+| 477 | Total Hamming Distance | `Python` | [View](./leetcode/0477-total-hamming-distance) |
 | 485 | Max Consecutive Ones | `Python` | [View](./leetcode/0485-max-consecutive-ones) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
 | 584 | Find Customer Referee | `SQL` | [View](./leetcode/0584-find-customer-referee) |
@@ -566,7 +567,9 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 870 | Magic Squares In Grid | `Python` | [View](./leetcode/0870-magic-squares-in-grid) |
 | 896 | Smallest Subtree With All The Deepest Nodes | `Python` | [View](./leetcode/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | 899 | Binary Gap | `Python` | [View](./leetcode/0899-binary-gap) |
+| 903 | Implement Rand10 Using Rand7 | `Python` | [View](./leetcode/0903-implement-rand10-using-rand7) |
 | 906 | Walking Robot Simulation | `Python` | [View](./leetcode/0906-walking-robot-simulation) |
+| 915 | Generate Random Point In A Circle | `Python` | [View](./leetcode/0915-generate-random-point-in-a-circle) |
 | 919 | Projection Area Of 3D Shapes | `Python` | [View](./leetcode/0919-projection-area-of-3d-shapes) |
 | 934 | Bitwise Ors Of Subarrays | `Python` | [View](./leetcode/0934-bitwise-ors-of-subarrays) |
 | 940 | Fruit Into Baskets | `Python` | [View](./leetcode/0940-fruit-into-baskets) |
@@ -761,6 +764,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3496 | Minimum Number Of Seconds To Make Mountain Height Zero | `Python` | [View](./leetcode/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | 3558 | Find A Safe Walk Through A Grid | `Python` | [View](./leetcode/3558-find-a-safe-walk-through-a-grid) |
 | 3569 | Count Of Substrings Containing Every Vowel And K Consonants Ii | `Python` | [View](./leetcode/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| 3583 | Sorted Gcd Pair Queries | `Python` | [View](./leetcode/3583-sorted-gcd-pair-queries) |
 | 3606 | Minimum Element After Replacement With Digit Sum | `Python` | [View](./leetcode/3606-minimum-element-after-replacement-with-digit-sum) |
 | 3608 | Find The Number Of Subsequences With Equal Gcd | `Python` | [View](./leetcode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | 3610 | Find X Sum Of All K Long Subarrays I | `Python` | [View](./leetcode/3610-find-x-sum-of-all-k-long-subarrays-i) |
