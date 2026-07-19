@@ -535,7 +535,10 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 475 | Heaters | `Python` | [View](./leetcode/0475-heaters) |
 | 476 | Number Complement | `Python` | [View](./leetcode/0476-number-complement) |
 | 477 | Total Hamming Distance | `Python` | [View](./leetcode/0477-total-hamming-distance) |
+| 481 | Magical String | `Python` | [View](./leetcode/0481-magical-string) |
+| 482 | License Key Formatting | `Python` | [View](./leetcode/0482-license-key-formatting) |
 | 485 | Max Consecutive Ones | `Python` | [View](./leetcode/0485-max-consecutive-ones) |
+| 491 | Non Decreasing Subsequences | `Python` | [View](./leetcode/0491-non-decreasing-subsequences) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
 | 584 | Find Customer Referee | `SQL` | [View](./leetcode/0584-find-customer-referee) |
 | 585 | Investments In 2016 | `SQL` | [View](./leetcode/0585-investments-in-2016) |
@@ -585,6 +588,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1116 | Maximum Level Sum Of A Binary Tree | `Python` | [View](./leetcode/1116-maximum-level-sum-of-a-binary-tree) |
 | 1135 | Customers Who Bought All Products | `SQL` | [View](./leetcode/1135-customers-who-bought-all-products) |
 | 1155 | Product Sales Analysis Iii | `SQL` | [View](./leetcode/1155-product-sales-analysis-iii) |
+| 1159 | Smallest Subsequence Of Distinct Characters | `Python` | [View](./leetcode/1159-smallest-subsequence-of-distinct-characters) |
 | 1212 | Sequential Digits | `Python` | [View](./leetcode/1212-sequential-digits) |
 | 1222 | Remove Covered Intervals | `Python` | [View](./leetcode/1222-remove-covered-intervals) |
 | 1234 | Number Of Paths With Max Score | `Python` | [View](./leetcode/1234-number-of-paths-with-max-score) |
@@ -656,6 +660,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2059 | Unique Length 3 Palindromic Subsequences | `Python` | [View](./leetcode/2059-unique-length-3-palindromic-subsequences) |
 | 2089 | Maximum Matrix Sum | `Python` | [View](./leetcode/2089-maximum-matrix-sum) |
 | 2099 | Number Of Strings That Appear As Substrings In Word | `Python` | [View](./leetcode/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| 2106 | Find Greatest Common Divisor Of Array | `Python` | [View](./leetcode/2106-find-greatest-common-divisor-of-array) |
 | 2107 | Find Unique Binary String | `Python` | [View](./leetcode/2107-find-unique-binary-string) |
 | 2125 | Gcd Sort Of An Array | `Python` | [View](./leetcode/2125-gcd-sort-of-an-array) |
 | 2160 | Minimum Operations To Make A Uni Value Grid | `Python` | [View](./leetcode/2160-minimum-operations-to-make-a-uni-value-grid) |

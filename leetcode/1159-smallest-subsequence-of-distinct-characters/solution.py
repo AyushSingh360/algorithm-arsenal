@@ -14,4 +14,4 @@ class Solution:
             stack.append(c)
             in_stack.add(c)
 
-        return ''.join(stack)
+        return "".join(stack)

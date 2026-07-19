@@ -1,6 +1,7 @@
 from typing import List
 import math
 
+
 class Solution:
     def findGCD(self, nums: List[int]) -> int:
         mn = min(nums)

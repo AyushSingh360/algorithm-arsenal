@@ -7,9 +7,9 @@ class Solution:
 
         # s will store the magical string as integers 1 and 2
         s = [1, 2, 2]
-        head = 2       # position in s that tells us how many times to write next num
-        num = 1        # next number to write (alternates between 1 and 2)
-        ones = 1       # we already have one '1' in the initial "122"
+        head = 2  # position in s that tells us how many times to write next num
+        num = 1  # next number to write (alternates between 1 and 2)
+        ones = 1  # we already have one '1' in the initial "122"
 
         # build the string until its length reaches at least n
         while len(s) < n:
