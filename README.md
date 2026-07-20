@@ -538,6 +538,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 481 | Magical String | `Python` | [View](./leetcode/0481-magical-string) |
 | 482 | License Key Formatting | `Python` | [View](./leetcode/0482-license-key-formatting) |
 | 485 | Max Consecutive Ones | `Python` | [View](./leetcode/0485-max-consecutive-ones) |
+| 486 | Predict The Winner | `Python` | [View](./leetcode/0486-predict-the-winner) |
 | 491 | Non Decreasing Subsequences | `Python` | [View](./leetcode/0491-non-decreasing-subsequences) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
 | 584 | Find Customer Referee | `SQL` | [View](./leetcode/0584-find-customer-referee) |
@@ -599,6 +600,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1317 | Monthly Transactions I | `SQL` | [View](./leetcode/1317-monthly-transactions-i) |
 | 1320 | Remove All Adjacent Duplicates In String Ii | `Python` | [View](./leetcode/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | 1371 | Minimum Remove To Make Valid Parentheses | `Python` | [View](./leetcode/1371-minimum-remove-to-make-valid-parentheses) |
+| 1386 | Shift 2D Grid | `Python` | [View](./leetcode/1386-shift-2d-grid) |
 | 1388 | Greatest Sum Divisible By Three | `Python` | [View](./leetcode/1388-greatest-sum-divisible-by-three) |
 | 1398 | Number Of Ways To Stay In The Same Place After Some Steps | `Python` | [View](./leetcode/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | 1415 | Students And Examinations | `SQL` | [View](./leetcode/1415-students-and-examinations) |
