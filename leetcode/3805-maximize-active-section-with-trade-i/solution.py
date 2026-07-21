@@ -6,7 +6,7 @@ class Solution:
         ans = 0
         i = 0
         pre = -inf  # previous zero-run length
-        mx = 0      # best sum of two adjacent zero runs
+        mx = 0  # best sum of two adjacent zero runs
 
         while i < n:
             j = i + 1
@@ -15,7 +15,7 @@ class Solution:
                 j += 1
             cur = j - i  # length of this run
 
-            if s[i] == '1':
+            if s[i] == "1":
                 # add all ones directly
                 ans += cur
             else:

@@ -784,6 +784,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3789 | Maximize Subarrays After Removing One Conflicting Pair | `Python` | [View](./leetcode/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | 3790 | Fruits Into Baskets Ii | `Python` | [View](./leetcode/3790-fruits-into-baskets-ii) |
 | 3791 | Fruits Into Baskets Iii | `Python` | [View](./leetcode/3791-fruits-into-baskets-iii) |
+| 3805 | Maximize Active Section With Trade I | `Python` | [View](./leetcode/3805-maximize-active-section-with-trade-i) |
 | 3834 | Minimum Operations To Convert All Elements To Zero | `Python` | [View](./leetcode/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | 3835 | Count Partitions With Max Min Difference At Most K | `Python` | [View](./leetcode/3835-count-partitions-with-max-min-difference-at-most-k) |
 | 3838 | Path Existence Queries In A Graph I | `Python` | [View](./leetcode/3838-path-existence-queries-in-a-graph-i) |
