@@ -1,6 +1,7 @@
 from typing import List
 import math
 
+
 class Solution:
     def constructRectangle(self, area: int) -> List[int]:
         # Start from the integer square root and go downwards

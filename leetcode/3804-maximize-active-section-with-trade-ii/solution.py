@@ -16,23 +16,17 @@ class SparseTable:
         for i in range(1, self.n.bit_length() + 1):
             for j in range(self.n - (1 << i) + 1):
                 self.st[i][j] = max(
-                    self.st[i - 1][j],
-                    self.st[i - 1][j + (1 << (i - 1))]
+                    self.st[i - 1][j], self.st[i - 1][j + (1 << (i - 1))]
                 )
 
     def query(self, l: int, r: int) -> int:
         k = (r - l + 1).bit_length() - 1
-        return max(
-            self.st[k][l],
-            self.st[k][r - (1 << k) + 1]
-        )
+        return max(self.st[k][l], self.st[k][r - (1 << k) + 1])
 
 
 class Solution:
     def maxActiveSectionsAfterTrade(
-        self,
-        s: str,
-        queries: list[list[int]]
+        self, s: str, queries: list[list[int]]
     ) -> list[int]:
 
         ones = s.count("1")
@@ -58,11 +52,7 @@ class Solution:
             )
 
             startGroup = zeroGroupIndex[l] + 1
-            endGroup = (
-                zeroGroupIndex[r]
-                if s[r] == "1"
-                else zeroGroupIndex[r] - 1
-            )
+            endGroup = zeroGroupIndex[r] if s[r] == "1" else zeroGroupIndex[r] - 1
 
             startAdjacent = startGroup
             endAdjacent = endGroup - 1
@@ -82,27 +72,17 @@ class Solution:
                 ans = max(ans, ones + st.query(startAdjacent, endAdjacent))
 
             # left partial zero group
-            if (
-                s[l] == "0"
-                and zeroGroupIndex[l] + 1 <= endGroup
-            ):
+            if s[l] == "0" and zeroGroupIndex[l] + 1 <= endGroup:
                 ans = max(
                     ans,
-                    ones
-                    + left
-                    + zeroGroups[zeroGroupIndex[l] + 1].length,
+                    ones + left + zeroGroups[zeroGroupIndex[l] + 1].length,
                 )
 
             # right partial zero group
-            if (
-                s[r] == "0"
-                and zeroGroupIndex[l] < zeroGroupIndex[r] - 1
-            ):
+            if s[r] == "0" and zeroGroupIndex[l] < zeroGroupIndex[r] - 1:
                 ans = max(
                     ans,
-                    ones
-                    + right
-                    + zeroGroups[zeroGroupIndex[r] - 1].length,
+                    ones + right + zeroGroups[zeroGroupIndex[r] - 1].length,
                 )
 
             return ans
@@ -124,7 +104,4 @@ class Solution:
         return zeroGroups, zeroGroupIndex
 
     def _getZeroMergeLengths(self, zeroGroups):
-        return [
-            a.length + b.length
-            for a, b in itertools.pairwise(zeroGroups)
-        ]
+        return [a.length + b.length for a, b in itertools.pairwise(zeroGroups)]

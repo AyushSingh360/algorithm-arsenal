@@ -540,6 +540,11 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 485 | Max Consecutive Ones | `Python` | [View](./leetcode/0485-max-consecutive-ones) |
 | 486 | Predict The Winner | `Python` | [View](./leetcode/0486-predict-the-winner) |
 | 491 | Non Decreasing Subsequences | `Python` | [View](./leetcode/0491-non-decreasing-subsequences) |
+| 492 | Construct The Rectangle | `Python` | [View](./leetcode/0492-construct-the-rectangle) |
+| 494 | Target Sum | `Python` | [View](./leetcode/0494-target-sum) |
+| 495 | Teemo Attacking | `Python` | [View](./leetcode/0495-teemo-attacking) |
+| 496 | Next Greater Element I | `Python` | [View](./leetcode/0496-next-greater-element-i) |
+| 498 | Diagonal Traverse | `Python` | [View](./leetcode/0498-diagonal-traverse) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
 | 584 | Find Customer Referee | `SQL` | [View](./leetcode/0584-find-customer-referee) |
 | 585 | Investments In 2016 | `SQL` | [View](./leetcode/0585-investments-in-2016) |
@@ -573,6 +578,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 899 | Binary Gap | `Python` | [View](./leetcode/0899-binary-gap) |
 | 903 | Implement Rand10 Using Rand7 | `Python` | [View](./leetcode/0903-implement-rand10-using-rand7) |
 | 906 | Walking Robot Simulation | `Python` | [View](./leetcode/0906-walking-robot-simulation) |
+| 914 | Random Point In Non Overlapping Rectangles | `Python` | [View](./leetcode/0914-random-point-in-non-overlapping-rectangles) |
 | 915 | Generate Random Point In A Circle | `Python` | [View](./leetcode/0915-generate-random-point-in-a-circle) |
 | 919 | Projection Area Of 3D Shapes | `Python` | [View](./leetcode/0919-projection-area-of-3d-shapes) |
 | 934 | Bitwise Ors Of Subarrays | `Python` | [View](./leetcode/0934-bitwise-ors-of-subarrays) |
@@ -784,7 +790,9 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3789 | Maximize Subarrays After Removing One Conflicting Pair | `Python` | [View](./leetcode/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | 3790 | Fruits Into Baskets Ii | `Python` | [View](./leetcode/3790-fruits-into-baskets-ii) |
 | 3791 | Fruits Into Baskets Iii | `Python` | [View](./leetcode/3791-fruits-into-baskets-iii) |
+| 3804 | Maximize Active Section With Trade Ii | `Python` | [View](./leetcode/3804-maximize-active-section-with-trade-ii) |
 | 3805 | Maximize Active Section With Trade I | `Python` | [View](./leetcode/3805-maximize-active-section-with-trade-i) |
+| 3824 | Number Of Unique Xor Triplets I | `Python` | [View](./leetcode/3824-number-of-unique-xor-triplets-i) |
 | 3834 | Minimum Operations To Convert All Elements To Zero | `Python` | [View](./leetcode/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | 3835 | Count Partitions With Max Min Difference At Most K | `Python` | [View](./leetcode/3835-count-partitions-with-max-min-difference-at-most-k) |
 | 3838 | Path Existence Queries In A Graph I | `Python` | [View](./leetcode/3838-path-existence-queries-in-a-graph-i) |
