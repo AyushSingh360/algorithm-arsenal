@@ -545,6 +545,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 495 | Teemo Attacking | `Python` | [View](./leetcode/0495-teemo-attacking) |
 | 496 | Next Greater Element I | `Python` | [View](./leetcode/0496-next-greater-element-i) |
 | 498 | Diagonal Traverse | `Python` | [View](./leetcode/0498-diagonal-traverse) |
+| 500 | Keyboard Row | `Python` | [View](./leetcode/0500-keyboard-row) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
 | 584 | Find Customer Referee | `SQL` | [View](./leetcode/0584-find-customer-referee) |
 | 585 | Investments In 2016 | `SQL` | [View](./leetcode/0585-investments-in-2016) |
