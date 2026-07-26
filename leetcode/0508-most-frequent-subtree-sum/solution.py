@@ -1,6 +1,7 @@
 from collections import Counter
 from typing import List, Optional
 
+
 class Solution:
     def findFrequentTreeSum(self, root: Optional[TreeNode]) -> List[int]:
         freq = Counter()

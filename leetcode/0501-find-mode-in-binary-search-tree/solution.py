@@ -7,6 +7,7 @@
 
 from typing import Optional, List
 
+
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
         # Edge case: empty tree
@@ -14,9 +15,9 @@ class Solution:
             return []
 
         # State variables for inorder traversal
-        self.prev = None          # previous node value
-        self.cnt = 0              # current value frequency
-        self.mx = 0               # maximum frequency found so far
+        self.prev = None  # previous node value
+        self.cnt = 0  # current value frequency
+        self.mx = 0  # maximum frequency found so far
         self.ans: List[int] = []  # list of modes
 
         def inorder(node: Optional[TreeNode]) -> None:

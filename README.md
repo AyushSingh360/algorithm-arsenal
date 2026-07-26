@@ -546,6 +546,12 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 496 | Next Greater Element I | `Python` | [View](./leetcode/0496-next-greater-element-i) |
 | 498 | Diagonal Traverse | `Python` | [View](./leetcode/0498-diagonal-traverse) |
 | 500 | Keyboard Row | `Python` | [View](./leetcode/0500-keyboard-row) |
+| 501 | Find Mode In Binary Search Tree | `Python` | [View](./leetcode/0501-find-mode-in-binary-search-tree) |
+| 503 | Next Greater Element Ii | `Python` | [View](./leetcode/0503-next-greater-element-ii) |
+| 504 | Base 7 | `Python` | [View](./leetcode/0504-base-7) |
+| 506 | Relative Ranks | `Python` | [View](./leetcode/0506-relative-ranks) |
+| 507 | Perfect Number | `Python` | [View](./leetcode/0507-perfect-number) |
+| 508 | Most Frequent Subtree Sum | `Python` | [View](./leetcode/0508-most-frequent-subtree-sum) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
 | 584 | Find Customer Referee | `SQL` | [View](./leetcode/0584-find-customer-referee) |
 | 585 | Investments In 2016 | `SQL` | [View](./leetcode/0585-investments-in-2016) |
@@ -804,6 +810,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3849 | Equal Sum Grid Partition I | `Python` | [View](./leetcode/3849-equal-sum-grid-partition-i) |
 | 3850 | Equal Sum Grid Partition Ii | `Python` | [View](./leetcode/3850-equal-sum-grid-partition-ii) |
 | 3852 | Path Existence Queries In A Graph Ii | `Python` | [View](./leetcode/3852-path-existence-queries-in-a-graph-ii) |
+| 3859 | Maximum Product Of Two Digits | `Python` | [View](./leetcode/3859-maximum-product-of-two-digits) |
 | 3884 | Minimum Absolute Difference In Sliding Submatrix | `Python` | [View](./leetcode/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | 3886 | Count Number Of Trapezoids I | `Python` | [View](./leetcode/3886-count-number-of-trapezoids-i) |
 | 3892 | Best Time To Buy And Sell Stock V | `Python` | [View](./leetcode/3892-best-time-to-buy-and-sell-stock-v) |
