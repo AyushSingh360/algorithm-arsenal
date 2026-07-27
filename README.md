@@ -560,6 +560,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 601 | Human Traffic Of Stadium | `SQL` | [View](./leetcode/0601-human-traffic-of-stadium) |
 | 608 | Tree Node | `SQL` | [View](./leetcode/0608-tree-node) |
 | 620 | Not Boring Movies | `SQL` | [View](./leetcode/0620-not-boring-movies) |
+| 628 | Maximum Product Of Three Numbers | `Python` | [View](./leetcode/0628-maximum-product-of-three-numbers) |
 | 636 | Exclusive Time Of Functions | `Python` | [View](./leetcode/0636-exclusive-time-of-functions) |
 | 645 | Set Mismatch | `Python` | [View](./leetcode/0645-set-mismatch) |
 | 657 | Robot Return To Origin | `Python` | [View](./leetcode/0657-robot-return-to-origin) |
