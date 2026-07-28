@@ -1,5 +1,6 @@
 from collections import deque
 
+
 class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
         if not root:
@@ -9,7 +10,7 @@ class Solution:
         q = deque([root])
 
         while q:
-            level_max = float('-inf')
+            level_max = float("-inf")
             for _ in range(len(q)):
                 node = q.popleft()
                 level_max = max(level_max, node.val)

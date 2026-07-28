@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         max1 = 0
@@ -13,4 +14,3 @@ class Solution:
                 max2 = num
 
         return (max1 - 1) * (max2 - 1)
-        

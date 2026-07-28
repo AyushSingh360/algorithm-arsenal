@@ -552,6 +552,11 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 506 | Relative Ranks | `Python` | [View](./leetcode/0506-relative-ranks) |
 | 507 | Perfect Number | `Python` | [View](./leetcode/0507-perfect-number) |
 | 508 | Most Frequent Subtree Sum | `Python` | [View](./leetcode/0508-most-frequent-subtree-sum) |
+| 513 | Find Bottom Left Tree Value | `Python` | [View](./leetcode/0513-find-bottom-left-tree-value) |
+| 515 | Find Largest Value In Each Tree Row | `Python` | [View](./leetcode/0515-find-largest-value-in-each-tree-row) |
+| 516 | Longest Palindromic Subsequence | `Python` | [View](./leetcode/0516-longest-palindromic-subsequence) |
+| 518 | Coin Change Ii | `Python` | [View](./leetcode/0518-coin-change-ii) |
+| 520 | Detect Capital | `Python` | [View](./leetcode/0520-detect-capital) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
 | 584 | Find Customer Referee | `SQL` | [View](./leetcode/0584-find-customer-referee) |
 | 585 | Investments In 2016 | `SQL` | [View](./leetcode/0585-investments-in-2016) |
@@ -586,6 +591,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 899 | Binary Gap | `Python` | [View](./leetcode/0899-binary-gap) |
 | 903 | Implement Rand10 Using Rand7 | `Python` | [View](./leetcode/0903-implement-rand10-using-rand7) |
 | 906 | Walking Robot Simulation | `Python` | [View](./leetcode/0906-walking-robot-simulation) |
+| 913 | Random Flip Matrix | `Python` | [View](./leetcode/0913-random-flip-matrix) |
 | 914 | Random Point In Non Overlapping Rectangles | `Python` | [View](./leetcode/0914-random-point-in-non-overlapping-rectangles) |
 | 915 | Generate Random Point In A Circle | `Python` | [View](./leetcode/0915-generate-random-point-in-a-circle) |
 | 919 | Projection Area Of 3D Shapes | `Python` | [View](./leetcode/0919-projection-area-of-3d-shapes) |
@@ -594,6 +600,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 978 | Valid Mountain Array | `Python` | [View](./leetcode/0978-valid-mountain-array) |
 | 992 | Delete Columns To Make Sorted Ii | `Python` | [View](./leetcode/0992-delete-columns-to-make-sorted-ii) |
 | 1000 | Delete Columns To Make Sorted Iii | `Python` | [View](./leetcode/1000-delete-columns-to-make-sorted-iii) |
+| 1013 | Fibonacci Number | `Python` | [View](./leetcode/1013-fibonacci-number) |
 | 1036 | Rotting Oranges | `Python` | [View](./leetcode/1036-rotting-oranges) |
 | 1046 | Max Consecutive Ones Iii | `Python` | [View](./leetcode/1046-max-consecutive-ones-iii) |
 | 1054 | Complement Of Base 10 Integer | `Python` | [View](./leetcode/1054-complement-of-base-10-integer) |
@@ -638,6 +645,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1557 | Check If A String Contains All Binary Codes Of Size K | `Python` | [View](./leetcode/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | 1569 | Max Dot Product Of Two Subsequences | `Python` | [View](./leetcode/1569-max-dot-product-of-two-subsequences) |
 | 1570 | Final Prices With A Special Discount In A Shop | `Python` | [View](./leetcode/1570-final-prices-with-a-special-discount-in-a-shop) |
+| 1574 | Maximum Product Of Two Elements In An Array | `Python` | [View](./leetcode/1574-maximum-product-of-two-elements-in-an-array) |
 | 1580 | Shuffle The Array | `Python` | [View](./leetcode/1580-shuffle-the-array) |
 | 1612 | Avoid Flood In The City | `Python` | [View](./leetcode/1612-avoid-flood-in-the-city) |
 | 1626 | Can Make Arithmetic Progression From Sequence | `Python` | [View](./leetcode/1626-can-make-arithmetic-progression-from-sequence) |

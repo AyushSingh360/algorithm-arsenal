@@ -1,13 +1,14 @@
 import random
 from typing import List
 
+
 class Solution:
 
     def __init__(self, m: int, n: int):
         self.m = m
         self.n = n
-        self.total = m * n      # number of remaining zero cells
-        self.mp = {}            # mapping for "swapped" indices
+        self.total = m * n  # number of remaining zero cells
+        self.mp = {}  # mapping for "swapped" indices
 
     def flip(self) -> List[int]:
         # pick a random index among remaining candidates [0, total-1]
