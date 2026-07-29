@@ -808,6 +808,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3791 | Fruits Into Baskets Iii | `Python` | [View](./leetcode/3791-fruits-into-baskets-iii) |
 | 3804 | Maximize Active Section With Trade Ii | `Python` | [View](./leetcode/3804-maximize-active-section-with-trade-ii) |
 | 3805 | Maximize Active Section With Trade I | `Python` | [View](./leetcode/3805-maximize-active-section-with-trade-i) |
+| 3812 | Smallest Palindromic Rearrangement I | `Python` | [View](./leetcode/3812-smallest-palindromic-rearrangement-i) |
 | 3820 | Number Of Unique Xor Triplets Ii | `Python` | [View](./leetcode/3820-number-of-unique-xor-triplets-ii) |
 | 3824 | Number Of Unique Xor Triplets I | `Python` | [View](./leetcode/3824-number-of-unique-xor-triplets-i) |
 | 3834 | Minimum Operations To Convert All Elements To Zero | `Python` | [View](./leetcode/3834-minimum-operations-to-convert-all-elements-to-zero) |

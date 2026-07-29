@@ -15,4 +15,3 @@ class Solution:
 
         left = "".join(half)
         return left + mid + left[::-1]
-        
