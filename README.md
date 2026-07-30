@@ -557,6 +557,8 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 516 | Longest Palindromic Subsequence | `Python` | [View](./leetcode/0516-longest-palindromic-subsequence) |
 | 518 | Coin Change Ii | `Python` | [View](./leetcode/0518-coin-change-ii) |
 | 520 | Detect Capital | `Python` | [View](./leetcode/0520-detect-capital) |
+| 522 | Longest Uncommon Subsequence Ii | `Python` | [View](./leetcode/0522-longest-uncommon-subsequence-ii) |
+| 523 | Continuous Subarray Sum | `Python` | [View](./leetcode/0523-continuous-subarray-sum) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
 | 584 | Find Customer Referee | `SQL` | [View](./leetcode/0584-find-customer-referee) |
 | 585 | Investments In 2016 | `SQL` | [View](./leetcode/0585-investments-in-2016) |
@@ -775,6 +777,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3214 | Maximize Area Of Square Hole In Grid | `Python` | [View](./leetcode/3214-maximize-area-of-square-hole-in-grid) |
 | 3215 | Matrix Similarity After Cyclic Shifts | `Python` | [View](./leetcode/3215-matrix-similarity-after-cyclic-shifts) |
 | 3250 | Maximum Square Area By Removing Fences From A Field | `Python` | [View](./leetcode/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| 3275 | Minimum Number Of Pushes To Type Word I | `Python` | [View](./leetcode/3275-minimum-number-of-pushes-to-type-word-i) |
 | 3299 | Find The Maximum Number Of Elements In Subset | `Python` | [View](./leetcode/3299-find-the-maximum-number-of-elements-in-subset) |
 | 3329 | Find The Length Of The Longest Common Prefix | `Python` | [View](./leetcode/3329-find-the-length-of-the-longest-common-prefix) |
 | 3338 | Count Submatrices With Top Left Element And Sum Less Than K | `Python` | [View](./leetcode/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -809,6 +812,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3804 | Maximize Active Section With Trade Ii | `Python` | [View](./leetcode/3804-maximize-active-section-with-trade-ii) |
 | 3805 | Maximize Active Section With Trade I | `Python` | [View](./leetcode/3805-maximize-active-section-with-trade-i) |
 | 3812 | Smallest Palindromic Rearrangement I | `Python` | [View](./leetcode/3812-smallest-palindromic-rearrangement-i) |
+| 3813 | Smallest Palindromic Rearrangement Ii | `Python` | [View](./leetcode/3813-smallest-palindromic-rearrangement-ii) |
 | 3820 | Number Of Unique Xor Triplets Ii | `Python` | [View](./leetcode/3820-number-of-unique-xor-triplets-ii) |
 | 3824 | Number Of Unique Xor Triplets I | `Python` | [View](./leetcode/3824-number-of-unique-xor-triplets-i) |
 | 3834 | Minimum Operations To Convert All Elements To Zero | `Python` | [View](./leetcode/3834-minimum-operations-to-convert-all-elements-to-zero) |

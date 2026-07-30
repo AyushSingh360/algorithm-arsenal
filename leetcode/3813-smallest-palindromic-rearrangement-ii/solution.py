@@ -1,5 +1,6 @@
 from collections import Counter
 
+
 class Solution:
     def smallestPalindrome(self, s: str, k: int) -> str:
         cnt = Counter(s)
