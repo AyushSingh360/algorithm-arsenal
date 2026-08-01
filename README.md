@@ -778,6 +778,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3215 | Matrix Similarity After Cyclic Shifts | `Python` | [View](./leetcode/3215-matrix-similarity-after-cyclic-shifts) |
 | 3250 | Maximum Square Area By Removing Fences From A Field | `Python` | [View](./leetcode/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | 3275 | Minimum Number Of Pushes To Type Word I | `Python` | [View](./leetcode/3275-minimum-number-of-pushes-to-type-word-i) |
+| 3276 | Minimum Number Of Pushes To Type Word Ii | `Python` | [View](./leetcode/3276-minimum-number-of-pushes-to-type-word-ii) |
 | 3299 | Find The Maximum Number Of Elements In Subset | `Python` | [View](./leetcode/3299-find-the-maximum-number-of-elements-in-subset) |
 | 3329 | Find The Length Of The Longest Common Prefix | `Python` | [View](./leetcode/3329-find-the-length-of-the-longest-common-prefix) |
 | 3338 | Count Submatrices With Top Left Element And Sum Less Than K | `Python` | [View](./leetcode/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
