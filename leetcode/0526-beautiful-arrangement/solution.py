@@ -15,4 +15,3 @@ class Solution:
             return total
 
         return dfs(1)
-

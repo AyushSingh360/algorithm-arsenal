@@ -557,8 +557,12 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 516 | Longest Palindromic Subsequence | `Python` | [View](./leetcode/0516-longest-palindromic-subsequence) |
 | 518 | Coin Change Ii | `Python` | [View](./leetcode/0518-coin-change-ii) |
 | 520 | Detect Capital | `Python` | [View](./leetcode/0520-detect-capital) |
+| 521 | Longest Uncommon Subsequence I | `Python` | [View](./leetcode/0521-longest-uncommon-subsequence-i) |
 | 522 | Longest Uncommon Subsequence Ii | `Python` | [View](./leetcode/0522-longest-uncommon-subsequence-ii) |
 | 523 | Continuous Subarray Sum | `Python` | [View](./leetcode/0523-continuous-subarray-sum) |
+| 524 | Longest Word In Dictionary Through Deleting | `Python` | [View](./leetcode/0524-longest-word-in-dictionary-through-deleting) |
+| 525 | Contiguous Array | `Python` | [View](./leetcode/0525-contiguous-array) |
+| 526 | Beautiful Arrangement | `Python` | [View](./leetcode/0526-beautiful-arrangement) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
 | 584 | Find Customer Referee | `SQL` | [View](./leetcode/0584-find-customer-referee) |
 | 585 | Investments In 2016 | `SQL` | [View](./leetcode/0585-investments-in-2016) |
@@ -593,6 +597,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 899 | Binary Gap | `Python` | [View](./leetcode/0899-binary-gap) |
 | 903 | Implement Rand10 Using Rand7 | `Python` | [View](./leetcode/0903-implement-rand10-using-rand7) |
 | 906 | Walking Robot Simulation | `Python` | [View](./leetcode/0906-walking-robot-simulation) |
+| 909 | Stone Game | `Python` | [View](./leetcode/0909-stone-game) |
 | 913 | Random Flip Matrix | `Python` | [View](./leetcode/0913-random-flip-matrix) |
 | 914 | Random Point In Non Overlapping Rectangles | `Python` | [View](./leetcode/0914-random-point-in-non-overlapping-rectangles) |
 | 915 | Generate Random Point In A Circle | `Python` | [View](./leetcode/0915-generate-random-point-in-a-circle) |
