@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution:
     def stoneGameIII(self, stoneValue: List[int]) -> str:
         n = len(stoneValue)
@@ -9,7 +10,7 @@ class Solution:
 
         # Fill from the end towards the front
         for i in range(n - 1, -1, -1):
-            best = float('-inf')
+            best = float("-inf")
             take = 0
             # Try taking 1, 2, or 3 stones
             for k in range(1, 4):

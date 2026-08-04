@@ -646,6 +646,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1507 | Check If There Is A Valid Path In A Grid | `Python` | [View](./leetcode/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | 1516 | The K Th Lexicographical String Of All Happy Strings Of Length N | `Python` | [View](./leetcode/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | 1520 | Number Of Steps To Reduce A Number In Binary Representation To One | `Python` | [View](./leetcode/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| 1522 | Stone Game Iii | `Python` | [View](./leetcode/1522-stone-game-iii) |
 | 1527 | Number Of Ways To Paint N  3 Grid | `Python` | [View](./leetcode/1527-number-of-ways-to-paint-n--3-grid) |
 | 1548 | Check If All 1S Are At Least Length K Places Away | `Python` | [View](./leetcode/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | 1552 | Build An Array With Stack Operations | `Python` | [View](./leetcode/1552-build-an-array-with-stack-operations) |
