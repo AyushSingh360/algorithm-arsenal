@@ -598,6 +598,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 903 | Implement Rand10 Using Rand7 | `Python` | [View](./leetcode/0903-implement-rand10-using-rand7) |
 | 906 | Walking Robot Simulation | `Python` | [View](./leetcode/0906-walking-robot-simulation) |
 | 909 | Stone Game | `Python` | [View](./leetcode/0909-stone-game) |
+| 912 | Random Pick With Weight | `Python` | [View](./leetcode/0912-random-pick-with-weight) |
 | 913 | Random Flip Matrix | `Python` | [View](./leetcode/0913-random-flip-matrix) |
 | 914 | Random Point In Non Overlapping Rectangles | `Python` | [View](./leetcode/0914-random-point-in-non-overlapping-rectangles) |
 | 915 | Generate Random Point In A Circle | `Python` | [View](./leetcode/0915-generate-random-point-in-a-circle) |
@@ -802,6 +803,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3493 | Maximum Number Of Operations To Move Ones To The End | `Python` | [View](./leetcode/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | 3496 | Minimum Number Of Seconds To Make Mountain Height Zero | `Python` | [View](./leetcode/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | 3558 | Find A Safe Walk Through A Grid | `Python` | [View](./leetcode/3558-find-a-safe-walk-through-a-grid) |
+| 3561 | Remove Methods From Project | `Python` | [View](./leetcode/3561-remove-methods-from-project) |
 | 3569 | Count Of Substrings Containing Every Vowel And K Consonants Ii | `Python` | [View](./leetcode/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | 3583 | Sorted Gcd Pair Queries | `Python` | [View](./leetcode/3583-sorted-gcd-pair-queries) |
 | 3606 | Minimum Element After Replacement With Digit Sum | `Python` | [View](./leetcode/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -858,6 +860,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4057 | Total Waviness Of Numbers In Range I | `Python` | [View](./leetcode/4057-total-waviness-of-numbers-in-range-i) |
 | 4074 | Count Subarrays With Majority Element I | `Python` | [View](./leetcode/4074-count-subarrays-with-majority-element-i) |
 | 4075 | Count Subarrays With Majority Element Ii | `Python` | [View](./leetcode/4075-count-subarrays-with-majority-element-ii) |
+| 4107 | Find Missing Elements | `Python` | [View](./leetcode/4107-find-missing-elements) |
 | 4115 | Minimum Distance Between Three Equal Elements I | `Python` | [View](./leetcode/4115-minimum-distance-between-three-equal-elements-i) |
 | 4119 | Minimum Distance Between Three Equal Elements Ii | `Python` | [View](./leetcode/4119-minimum-distance-between-three-equal-elements-ii) |
 | 4128 | Total Waviness Of Numbers In Range Ii | `Python` | [View](./leetcode/4128-total-waviness-of-numbers-in-range-ii) |

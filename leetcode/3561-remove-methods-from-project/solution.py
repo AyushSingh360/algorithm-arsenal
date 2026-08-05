@@ -1,8 +1,11 @@
 from typing import List
 from collections import defaultdict
 
+
 class Solution:
-    def remainingMethods(self, n: int, k: int, invocations: List[List[int]]) -> List[int]:
+    def remainingMethods(
+        self, n: int, k: int, invocations: List[List[int]]
+    ) -> List[int]:
         # g: directed edges a -> b (actual invocation graph)
         # undirected: treat edges as undirected to propagate "cannot remove" info
         g = [[] for _ in range(n)]
