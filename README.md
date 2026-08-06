@@ -563,6 +563,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 524 | Longest Word In Dictionary Through Deleting | `Python` | [View](./leetcode/0524-longest-word-in-dictionary-through-deleting) |
 | 525 | Contiguous Array | `Python` | [View](./leetcode/0525-contiguous-array) |
 | 526 | Beautiful Arrangement | `Python` | [View](./leetcode/0526-beautiful-arrangement) |
+| 529 | Minesweeper | `Python` | [View](./leetcode/0529-minesweeper) |
 | 560 | Subarray Sum Equals K | `Python` | [View](./leetcode/0560-subarray-sum-equals-k) |
 | 584 | Find Customer Referee | `SQL` | [View](./leetcode/0584-find-customer-referee) |
 | 585 | Investments In 2016 | `SQL` | [View](./leetcode/0585-investments-in-2016) |
@@ -809,6 +810,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3606 | Minimum Element After Replacement With Digit Sum | `Python` | [View](./leetcode/3606-minimum-element-after-replacement-with-digit-sum) |
 | 3608 | Find The Number Of Subsequences With Equal Gcd | `Python` | [View](./leetcode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | 3610 | Find X Sum Of All K Long Subarrays I | `Python` | [View](./leetcode/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| 3626 | Smallest Divisible Digit Product I | `Python` | [View](./leetcode/3626-smallest-divisible-digit-product-i) |
 | 3653 | Maximum Subarray Sum With Length Divisible By K | `Python` | [View](./leetcode/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | 3677 | Maximum Amount Of Money Robot Can Earn | `Python` | [View](./leetcode/3677-maximum-amount-of-money-robot-can-earn) |
 | 3704 | Count Partitions With Even Sum Difference | `Python` | [View](./leetcode/3704-count-partitions-with-even-sum-difference) |
