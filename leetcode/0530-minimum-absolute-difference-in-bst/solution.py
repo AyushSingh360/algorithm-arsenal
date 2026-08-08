@@ -5,6 +5,7 @@
 #         self.left = left
 #         self.right = right
 
+
 class Solution:
     def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
         previous = None

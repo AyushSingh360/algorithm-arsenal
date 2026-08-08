@@ -24,19 +24,13 @@ class Solution:
         factorCount = self._getFactorCount(primeCount)
 
         if sum(factorCount.values()) > len(num):
-            return ''.join(
-                factor * freq for factor, freq in factorCount.items()
-            )
+            return "".join(factor * freq for factor, freq in factorCount.items())
 
         primeCountPrefix = sum(
-            (FACTOR_COUNTS[int(c)] for c in num),
-            start=collections.Counter()
+            (FACTOR_COUNTS[int(c)] for c in num), start=collections.Counter()
         )
 
-        firstZeroIndex = next(
-            (i for i, d in enumerate(num) if d == '0'),
-            len(num)
-        )
+        firstZeroIndex = next((i for i, d in enumerate(num) if d == "0"), len(num))
 
         if firstZeroIndex == len(num) and primeCount <= primeCountPrefix:
             return num
@@ -53,23 +47,20 @@ class Solution:
                 for biggerDigit in range(d + 1, 10):
 
                     factorsAfterReplacement = self._getFactorCount(
-                        primeCount
-                        - primeCountPrefix
-                        - FACTOR_COUNTS[biggerDigit]
+                        primeCount - primeCountPrefix - FACTOR_COUNTS[biggerDigit]
                     )
 
                     if sum(factorsAfterReplacement.values()) <= spaceAfterThisDigit:
 
-                        fillOnes = (
-                            spaceAfterThisDigit
-                            - sum(factorsAfterReplacement.values())
+                        fillOnes = spaceAfterThisDigit - sum(
+                            factorsAfterReplacement.values()
                         )
 
                         return (
                             num[:i]
                             + str(biggerDigit)
-                            + '1' * fillOnes
-                            + ''.join(
+                            + "1" * fillOnes
+                            + "".join(
                                 factor * freq
                                 for factor, freq in factorsAfterReplacement.items()
                             )
@@ -78,14 +69,9 @@ class Solution:
         # Need a longer number
         factorCount = self._getFactorCount(primeCount)
 
-        return (
-            '1' * (len(num) + 1 - sum(factorCount.values()))
-            + ''.join(
-                factor * freq
-                for factor, freq in factorCount.items()
-            )
+        return "1" * (len(num) + 1 - sum(factorCount.values())) + "".join(
+            factor * freq for factor, freq in factorCount.items()
         )
-
 
     def _getPrimeCount(self, t: int) -> tuple[dict[int, int], bool]:
         """
@@ -101,15 +87,14 @@ class Solution:
 
         return count, t == 1
 
-
     def _getFactorCount(self, count: dict[int, int]) -> dict[str, int]:
         """
         Returns the smallest digit combination needed for the factors.
         """
 
         count8, remaining2 = divmod(count[2], 3)  # 2^3 = 8
-        count9, count3 = divmod(count[3], 2)     # 3^2 = 9
-        count4, count2 = divmod(remaining2, 2)    # 2^2 = 4
+        count9, count3 = divmod(count[3], 2)  # 3^2 = 9
+        count4, count2 = divmod(remaining2, 2)  # 2^2 = 4
 
         # Combine 2 and 3 into 6
         if count2 == 1 and count3 == 1:
@@ -122,12 +107,12 @@ class Solution:
             count2, count6, count3, count4 = 1, 1, 0, 0
 
         return {
-            '2': count2,
-            '3': count3,
-            '4': count4,
-            '5': count[5],
-            '6': count6,
-            '7': count[7],
-            '8': count8,
-            '9': count9
+            "2": count2,
+            "3": count3,
+            "4": count4,
+            "5": count[5],
+            "6": count6,
+            "7": count[7],
+            "8": count8,
+            "9": count9,
         }

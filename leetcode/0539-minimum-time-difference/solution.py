@@ -1,15 +1,13 @@
 from typing import List
 
+
 class Solution:
     def findMinDifference(self, timePoints: List[str]) -> int:
         # There are only 1440 possible minutes in a day.
         if len(timePoints) > 1440:
             return 0
 
-        times = sorted(
-            int(time[:2]) * 60 + int(time[3:])
-            for time in timePoints
-        )
+        times = sorted(int(time[:2]) * 60 + int(time[3:]) for time in timePoints)
 
         minimum = float("inf")
 
