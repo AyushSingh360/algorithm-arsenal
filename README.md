@@ -625,6 +625,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1212 | Sequential Digits | `Python` | [View](./leetcode/1212-sequential-digits) |
 | 1222 | Remove Covered Intervals | `Python` | [View](./leetcode/1222-remove-covered-intervals) |
 | 1234 | Number Of Paths With Max Score | `Python` | [View](./leetcode/1234-number-of-paths-with-max-score) |
+| 1240 | Stone Game Ii | `Python` | [View](./leetcode/1240-stone-game-ii) |
 | 1245 | User Activity For The Past 30 Days I | `SQL` | [View](./leetcode/1245-user-activity-for-the-past-30-days-i) |
 | 1256 | Rank Transform Of An Array | `Python` | [View](./leetcode/1256-rank-transform-of-an-array) |
 | 1297 | Maximum Number Of Balloons | `Python` | [View](./leetcode/1297-maximum-number-of-balloons) |
@@ -809,6 +810,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3561 | Remove Methods From Project | `Python` | [View](./leetcode/3561-remove-methods-from-project) |
 | 3569 | Count Of Substrings Containing Every Vowel And K Consonants Ii | `Python` | [View](./leetcode/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | 3583 | Sorted Gcd Pair Queries | `Python` | [View](./leetcode/3583-sorted-gcd-pair-queries) |
+| 3584 | Find The Lexicographically Smallest Valid Sequence | `Python` | [View](./leetcode/3584-find-the-lexicographically-smallest-valid-sequence) |
 | 3606 | Minimum Element After Replacement With Digit Sum | `Python` | [View](./leetcode/3606-minimum-element-after-replacement-with-digit-sum) |
 | 3608 | Find The Number Of Subsequences With Equal Gcd | `Python` | [View](./leetcode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | 3610 | Find X Sum Of All K Long Subarrays I | `Python` | [View](./leetcode/3610-find-x-sum-of-all-k-long-subarrays-i) |
