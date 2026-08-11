@@ -661,6 +661,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1574 | Maximum Product Of Two Elements In An Array | `Python` | [View](./leetcode/1574-maximum-product-of-two-elements-in-an-array) |
 | 1580 | Shuffle The Array | `Python` | [View](./leetcode/1580-shuffle-the-array) |
 | 1612 | Avoid Flood In The City | `Python` | [View](./leetcode/1612-avoid-flood-in-the-city) |
+| 1617 | Stone Game Iv | `Python` | [View](./leetcode/1617-stone-game-iv) |
 | 1626 | Can Make Arithmetic Progression From Sequence | `Python` | [View](./leetcode/1626-can-make-arithmetic-progression-from-sequence) |
 | 1630 | Count Odd Numbers In An Interval Range | `Python` | [View](./leetcode/1630-count-odd-numbers-in-an-interval-range) |
 | 1636 | Number Of Substrings With Only 1S | `Python` | [View](./leetcode/1636-number-of-substrings-with-only-1s) |
