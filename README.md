@@ -788,6 +788,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3105 | Minimum Edge Reversals So Every Node Is Reachable | `Python` | [View](./leetcode/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | 3214 | Maximize Area Of Square Hole In Grid | `Python` | [View](./leetcode/3214-maximize-area-of-square-hole-in-grid) |
 | 3215 | Matrix Similarity After Cyclic Shifts | `Python` | [View](./leetcode/3215-matrix-similarity-after-cyclic-shifts) |
+| 3225 | Length Of Longest Subarray With At Most K Frequency | `Python` | [View](./leetcode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | `Python` | [View](./leetcode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | 3250 | Maximum Square Area By Removing Fences From A Field | `Python` | [View](./leetcode/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | 3275 | Minimum Number Of Pushes To Type Word I | `Python` | [View](./leetcode/3275-minimum-number-of-pushes-to-type-word-i) |
