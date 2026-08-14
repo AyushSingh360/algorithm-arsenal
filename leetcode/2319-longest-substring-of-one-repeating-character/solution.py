@@ -1,11 +1,9 @@
 from typing import List
 
+
 class Solution:
     def longestRepeating(
-        self,
-        s: str,
-        queryCharacters: str,
-        queryIndices: List[int]
+        self, s: str, queryCharacters: str, queryIndices: List[int]
     ) -> List[int]:
 
         n = len(s)
