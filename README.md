@@ -869,6 +869,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3995 | Gcd Of Odd And Even Sums | `Python` | [View](./leetcode/3995-gcd-of-odd-and-even-sums) |
 | 4005 | Maximum Total Subarray Value I | `Python` | [View](./leetcode/4005-maximum-total-subarray-value-i) |
 | 4007 | Maximum Total Subarray Value Ii | `Python` | [View](./leetcode/4007-maximum-total-subarray-value-ii) |
+| 4033 | Longest Subsequence With Non Zero Bitwise Xor | `Python` | [View](./leetcode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4057 | Total Waviness Of Numbers In Range I | `Python` | [View](./leetcode/4057-total-waviness-of-numbers-in-range-i) |
 | 4074 | Count Subarrays With Majority Element I | `Python` | [View](./leetcode/4074-count-subarrays-with-majority-element-i) |
 | 4075 | Count Subarrays With Majority Element Ii | `Python` | [View](./leetcode/4075-count-subarrays-with-majority-element-ii) |
