@@ -668,6 +668,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1658 | Minimum Swaps To Arrange A Binary Grid | `Python` | [View](./leetcode/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | 1663 | Detect Cycles In 2D Grid | `Python` | [View](./leetcode/1663-detect-cycles-in-2d-grid) |
 | 1667 | Find Kth Bit In Nth Binary String | `Python` | [View](./leetcode/1667-find-kth-bit-in-nth-binary-string) |
+| 1685 | Stone Game V | `Python` | [View](./leetcode/1685-stone-game-v) |
 | 1694 | Make Sum Divisible By P | `Python` | [View](./leetcode/1694-make-sum-divisible-by-p) |
 | 1704 | Special Positions In A Binary Matrix | `Python` | [View](./leetcode/1704-special-positions-in-a-binary-matrix) |
 | 1716 | Maximum Non Negative Product In A Matrix | `Python` | [View](./leetcode/1716-maximum-non-negative-product-in-a-matrix) |
@@ -701,6 +702,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2106 | Find Greatest Common Divisor Of Array | `Python` | [View](./leetcode/2106-find-greatest-common-divisor-of-array) |
 | 2107 | Find Unique Binary String | `Python` | [View](./leetcode/2107-find-unique-binary-string) |
 | 2125 | Gcd Sort Of An Array | `Python` | [View](./leetcode/2125-gcd-sort-of-an-array) |
+| 2156 | Stone Game Ix | `Python` | [View](./leetcode/2156-stone-game-ix) |
 | 2160 | Minimum Operations To Make A Uni Value Grid | `Python` | [View](./leetcode/2160-minimum-operations-to-make-a-uni-value-grid) |
 | 2164 | Two Best Non Overlapping Events | `Python` | [View](./leetcode/2164-two-best-non-overlapping-events) |
 | 2170 | Count Number Of Maximum Bitwise Or Subsets | `Python` | [View](./leetcode/2170-count-number-of-maximum-bitwise-or-subsets) |

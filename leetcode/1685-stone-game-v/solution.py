@@ -31,11 +31,7 @@ class Solution:
 
                 else:
                     # Equal -> Alice chooses either side
-                    ans = max(
-                        ans,
-                        leftSum + solve(i, p),
-                        rightSum + solve(p + 1, j)
-                    )
+                    ans = max(ans, leftSum + solve(i, p), rightSum + solve(p + 1, j))
 
             dp[i][j] = ans
             return ans

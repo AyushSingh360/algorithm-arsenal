@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution:
     def stoneGameIX(self, stones: List[int]) -> bool:
         cnt = [0, 0, 0]
