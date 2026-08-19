@@ -1,48 +1,25 @@
-class Solution(object):
-    def maxNumberOfFamilies(self, n, reservedSeats):
-        """
-        :type n: int
-        :type reservedSeats: List[List[int]]
-        :rtype: int
-        """
-        if not reservedSeats:
-            return (n + 1) // 2
+class Solution:
+    def maxNumberOfFamilies(self, n: int, reservedSeats: List[List[int]]) -> int:
+        reserved = {}
 
-        # Only care about rows with reserved seats
-        reserved_map = {}
         for row, seat in reservedSeats:
-            if row not in reserved_map:
-                reserved_map[row] = set()
-            reserved_map[row].add(seat)
+            # Seats 1 and 10 never affect a valid four-seat block.
+            if 2 <= seat <= 9:
+                reserved[row] = reserved.get(row, 0) | (1 << seat)
 
-        # Count families
-        # For unreserved rows, each can fit 2 families (using seats 2-5 and 6-9)
-        families = (n - len(reserved_map)) * 2
+        # Every completely unreserved row fits two families: [2..5] and [6..9].
+        ans = 2 * n
 
-        # Check each affected row
-        for row in reserved_map:
-            reserved = reserved_map[row]
-            count = 0
+        left = sum(1 << seat for seat in range(2, 6))    # 2,3,4,5
+        middle = sum(1 << seat for seat in range(4, 8))  # 4,5,6,7
+        right = sum(1 << seat for seat in range(6, 10))  # 6,7,8,9
 
-            # Check the three main configs
-            # Config 1: seats 2-5 available
-            can_place_2_5 = all(seat not in reserved for seat in [2, 3, 4, 5])
-            # Config 2: seats 6-9 available
-            can_place_6_9 = all(seat not in reserved for seat in [6, 7, 8, 9])
-            # Config 3: seats 4-7 available (spans aisle)
-            can_place_4_7 = all(seat not in reserved for seat in [4, 5, 6, 7])
+        for mask in reserved.values():
+            ans -= 2
 
-            # Greedy selection to maximize families
-            if can_place_2_5 and can_place_6_9:
-                # Best option: place both
-                count = 2
-            elif can_place_2_5:
-                count = 1
-            elif can_place_6_9:
-                count = 1
-            elif can_place_4_7:
-                count = 1
+            if mask & left == 0 and mask & right == 0:
+                ans += 2
+            elif mask & left == 0 or mask & middle == 0 or mask & right == 0:
+                ans += 1
 
-            families += count
-
-        return families
+        return ans
