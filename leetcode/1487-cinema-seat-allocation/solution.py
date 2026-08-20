@@ -10,7 +10,7 @@ class Solution:
         # Every completely unreserved row fits two families: [2..5] and [6..9].
         ans = 2 * n
 
-        left = sum(1 << seat for seat in range(2, 6))    # 2,3,4,5
+        left = sum(1 << seat for seat in range(2, 6))  # 2,3,4,5
         middle = sum(1 << seat for seat in range(4, 8))  # 4,5,6,7
         right = sum(1 << seat for seat in range(6, 10))  # 6,7,8,9
 

@@ -799,6 +799,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3299 | Find The Maximum Number Of Elements In Subset | `Python` | [View](./leetcode/3299-find-the-maximum-number-of-elements-in-subset) |
 | 3329 | Find The Length Of The Longest Common Prefix | `Python` | [View](./leetcode/3329-find-the-length-of-the-longest-common-prefix) |
 | 3338 | Count Submatrices With Top Left Element And Sum Less Than K | `Python` | [View](./leetcode/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| 3347 | Distribute Elements Into Two Arrays I | `Python` | [View](./leetcode/3347-distribute-elements-into-two-arrays-i) |
 | 3349 | Maximum Length Substring With Two Occurrences | `Python` | [View](./leetcode/3349-maximum-length-substring-with-two-occurrences) |
 | 3376 | Longest Common Suffix Queries | `Python` | [View](./leetcode/3376-longest-common-suffix-queries) |
 | 3405 | Count The Number Of Special Characters Ii | `Python` | [View](./leetcode/3405-count-the-number-of-special-characters-ii) |
