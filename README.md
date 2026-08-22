@@ -801,6 +801,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3338 | Count Submatrices With Top Left Element And Sum Less Than K | `Python` | [View](./leetcode/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | 3347 | Distribute Elements Into Two Arrays I | `Python` | [View](./leetcode/3347-distribute-elements-into-two-arrays-i) |
 | 3349 | Maximum Length Substring With Two Occurrences | `Python` | [View](./leetcode/3349-maximum-length-substring-with-two-occurrences) |
+| 3375 | Kth Smallest Amount With Single Denomination Combination | `Python` | [View](./leetcode/3375-kth-smallest-amount-with-single-denomination-combination) |
 | 3376 | Longest Common Suffix Queries | `Python` | [View](./leetcode/3376-longest-common-suffix-queries) |
 | 3405 | Count The Number Of Special Characters Ii | `Python` | [View](./leetcode/3405-count-the-number-of-special-characters-ii) |
 | 3406 | Find All Possible Stable Binary Arrays I | `Python` | [View](./leetcode/3406-find-all-possible-stable-binary-arrays-i) |
