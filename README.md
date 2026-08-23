@@ -855,6 +855,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3886 | Count Number Of Trapezoids I | `Python` | [View](./leetcode/3886-count-number-of-trapezoids-i) |
 | 3892 | Best Time To Buy And Sell Stock V | `Python` | [View](./leetcode/3892-best-time-to-buy-and-sell-stock-v) |
 | 3902 | Maximize Spanning Tree Stability With Upgrades | `Python` | [View](./leetcode/3902-maximize-spanning-tree-stability-with-upgrades) |
+| 3918 | Check Divisibility By Digit Sum And Product | `Python` | [View](./leetcode/3918-check-divisibility-by-digit-sum-and-product) |
 | 3919 | Network Recovery Pathways | `Python` | [View](./leetcode/3919-network-recovery-pathways) |
 | 3931 | Process String With Special Operations I | `Python` | [View](./leetcode/3931-process-string-with-special-operations-i) |
 | 3933 | Minimum Jumps To Reach End Via Prime Teleportation | `Python` | [View](./leetcode/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
