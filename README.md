@@ -694,6 +694,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2015 | Determine Whether Matrix Can Be Obtained By Rotation | `Python` | [View](./leetcode/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | 2017 | Minimum Number Of Flips To Make The Binary String Alternating | `Python` | [View](./leetcode/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | 2037 | Count Square Sum Triples | `Python` | [View](./leetcode/2037-count-square-sum-triples) |
+| 2039 | Sum Game | `Python` | [View](./leetcode/2039-sum-game) |
 | 2043 | Cyclically Rotating A Grid | `Python` | [View](./leetcode/2043-cyclically-rotating-a-grid) |
 | 2058 | Concatenation Of Array | `Python` | [View](./leetcode/2058-concatenation-of-array) |
 | 2059 | Unique Length 3 Palindromic Subsequences | `Python` | [View](./leetcode/2059-unique-length-3-palindromic-subsequences) |

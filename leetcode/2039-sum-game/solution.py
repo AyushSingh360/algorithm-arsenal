@@ -6,7 +6,7 @@ class Solution:
         left_q = right_q = 0
 
         for i, ch in enumerate(num):
-            if ch == '?':
+            if ch == "?":
                 if i < n:
                     left_q += 1
                 else:
@@ -17,9 +17,7 @@ class Solution:
                 else:
                     right_sum += int(ch)
 
-        
         if (left_q + right_q) % 2 == 1:
             return True
 
-        
         return left_sum - right_sum != (right_q - left_q) * 9 // 2
