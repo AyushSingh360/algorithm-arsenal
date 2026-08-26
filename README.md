@@ -881,6 +881,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4057 | Total Waviness Of Numbers In Range I | `Python` | [View](./leetcode/4057-total-waviness-of-numbers-in-range-i) |
 | 4074 | Count Subarrays With Majority Element I | `Python` | [View](./leetcode/4074-count-subarrays-with-majority-element-i) |
 | 4075 | Count Subarrays With Majority Element Ii | `Python` | [View](./leetcode/4075-count-subarrays-with-majority-element-ii) |
+| 4080 | Smallest Missing Multiple Of K | `Python` | [View](./leetcode/4080-smallest-missing-multiple-of-k) |
 | 4107 | Find Missing Elements | `Python` | [View](./leetcode/4107-find-missing-elements) |
 | 4115 | Minimum Distance Between Three Equal Elements I | `Python` | [View](./leetcode/4115-minimum-distance-between-three-equal-elements-i) |
 | 4119 | Minimum Distance Between Three Equal Elements Ii | `Python` | [View](./leetcode/4119-minimum-distance-between-three-equal-elements-ii) |
