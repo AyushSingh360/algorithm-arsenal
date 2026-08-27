@@ -791,6 +791,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3019 | Furthest Point From Origin | `Python` | [View](./leetcode/3019-furthest-point-from-origin) |
 | 3031 | Construct Product Matrix | `Python` | [View](./leetcode/3031-construct-product-matrix) |
 | 3105 | Minimum Edge Reversals So Every Node Is Reachable | `Python` | [View](./leetcode/3105-minimum-edge-reversals-so-every-node-is-reachable) |
+| 3150 | Shortest And Lexicographically Smallest Beautiful String | `Python` | [View](./leetcode/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | 3214 | Maximize Area Of Square Hole In Grid | `Python` | [View](./leetcode/3214-maximize-area-of-square-hole-in-grid) |
 | 3215 | Matrix Similarity After Cyclic Shifts | `Python` | [View](./leetcode/3215-matrix-similarity-after-cyclic-shifts) |
 | 3225 | Length Of Longest Subarray With At Most K Frequency | `Python` | [View](./leetcode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -877,6 +878,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3995 | Gcd Of Odd And Even Sums | `Python` | [View](./leetcode/3995-gcd-of-odd-and-even-sums) |
 | 4005 | Maximum Total Subarray Value I | `Python` | [View](./leetcode/4005-maximum-total-subarray-value-i) |
 | 4007 | Maximum Total Subarray Value Ii | `Python` | [View](./leetcode/4007-maximum-total-subarray-value-ii) |
+| 4020 | Lexicographically Smallest Permutation Greater Than Target | `Python` | [View](./leetcode/4020-lexicographically-smallest-permutation-greater-than-target) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | `Python` | [View](./leetcode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4057 | Total Waviness Of Numbers In Range I | `Python` | [View](./leetcode/4057-total-waviness-of-numbers-in-range-i) |
 | 4074 | Count Subarrays With Majority Element I | `Python` | [View](./leetcode/4074-count-subarrays-with-majority-element-i) |

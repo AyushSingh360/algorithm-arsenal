@@ -18,9 +18,11 @@ class Solution:
                 left += 1
 
             if ones == k:
-                candidate = s[left:right + 1]
-                if not ans or len(candidate) < len(ans) or (
-                    len(candidate) == len(ans) and candidate < ans
+                candidate = s[left : right + 1]
+                if (
+                    not ans
+                    or len(candidate) < len(ans)
+                    or (len(candidate) == len(ans) and candidate < ans)
                 ):
                     ans = candidate
 
