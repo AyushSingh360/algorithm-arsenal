@@ -2,14 +2,14 @@ class Solution:
     def lexPalindromicPermutation(self, s: str, target: str) -> str:
         count = [0] * 26
         for ch in s:
-            count[ord(ch) - ord('a')] += 1
+            count[ord(ch) - ord("a")] += 1
 
         # A palindromic permutation is impossible if there are 2+ odd counts.
         odd = [i for i in range(26) if count[i] % 2]
         if len(odd) > 1:
             return ""
 
-        middle = chr(odd[0] + ord('a')) if odd else ""
+        middle = chr(odd[0] + ord("a")) if odd else ""
         half_count = [x // 2 for x in count]
         m = len(s) // 2
 
@@ -17,7 +17,7 @@ class Solution:
         equal_prefix = True
 
         for i in range(m):
-            target_char = ord(target[i]) - ord('a')
+            target_char = ord(target[i]) - ord("a")
 
             # If the prefix is still equal, choose target[i] when available.
             # Otherwise choose the smallest character available.
@@ -45,7 +45,7 @@ class Solution:
                             for c in range(26):
                                 left.extend([c] * half_count[c])
 
-                            left_s = "".join(chr(c + ord('a')) for c in left)
+                            left_s = "".join(chr(c + ord("a")) for c in left)
                             ans = left_s + middle + left_s[::-1]
                             return ans
 
@@ -57,7 +57,7 @@ class Solution:
             if equal_prefix and chosen > target_char:
                 equal_prefix = False
 
-        left_s = "".join(chr(c + ord('a')) for c in left)
+        left_s = "".join(chr(c + ord("a")) for c in left)
         ans = left_s + middle + left_s[::-1]
 
         # Covers equal-left-half cases, including the middle and mirrored side.
@@ -81,7 +81,7 @@ class Solution:
                                 half_count[c] -= 1
                                 break
 
-                    left_s = "".join(chr(c + ord('a')) for c in left)
+                    left_s = "".join(chr(c + ord("a")) for c in left)
                     return left_s + middle + left_s[::-1]
 
         return ""
