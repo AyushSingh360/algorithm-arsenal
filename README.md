@@ -712,6 +712,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2178 | Walking Robot Simulation Ii | `Python` | [View](./leetcode/2178-walking-robot-simulation-ii) |
 | 2197 | Decode The Slanted Ciphertext | `Python` | [View](./leetcode/2197-decode-the-slanted-ciphertext) |
 | 2199 | Two Furthest Houses With Different Colors | `Python` | [View](./leetcode/2199-two-furthest-houses-with-different-colors) |
+| 2212 | Removing Minimum And Maximum From Array | `Python` | [View](./leetcode/2212-removing-minimum-and-maximum-from-array) |
 | 2213 | Find All People With Secret | `Python` | [View](./leetcode/2213-find-all-people-with-secret) |
 | 2216 | Delete The Middle Node Of A Linked List | `Python` | [View](./leetcode/2216-delete-the-middle-node-of-a-linked-list) |
 | 2229 | Maximum Fruits Harvested After At Most K Steps | `Python` | [View](./leetcode/2229-maximum-fruits-harvested-after-at-most-k-steps) |
