@@ -710,6 +710,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2170 | Count Number Of Maximum Bitwise Or Subsets | `Python` | [View](./leetcode/2170-count-number-of-maximum-bitwise-or-subsets) |
 | 2174 | Next Greater Numerically Balanced Number | `Python` | [View](./leetcode/2174-next-greater-numerically-balanced-number) |
 | 2178 | Walking Robot Simulation Ii | `Python` | [View](./leetcode/2178-walking-robot-simulation-ii) |
+| 2182 | Find The Minimum And Maximum Number Of Nodes Between Critical Points | `Python` | [View](./leetcode/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | 2197 | Decode The Slanted Ciphertext | `Python` | [View](./leetcode/2197-decode-the-slanted-ciphertext) |
 | 2199 | Two Furthest Houses With Different Colors | `Python` | [View](./leetcode/2199-two-furthest-houses-with-different-colors) |
 | 2212 | Removing Minimum And Maximum From Array | `Python` | [View](./leetcode/2212-removing-minimum-and-maximum-from-array) |
