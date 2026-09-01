@@ -856,6 +856,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3850 | Equal Sum Grid Partition Ii | `Python` | [View](./leetcode/3850-equal-sum-grid-partition-ii) |
 | 3852 | Path Existence Queries In A Graph Ii | `Python` | [View](./leetcode/3852-path-existence-queries-in-a-graph-ii) |
 | 3859 | Maximum Product Of Two Digits | `Python` | [View](./leetcode/3859-maximum-product-of-two-digits) |
+| 3870 | Minimum Moves To Clean The Classroom | `Python` | [View](./leetcode/3870-minimum-moves-to-clean-the-classroom) |
 | 3884 | Minimum Absolute Difference In Sliding Submatrix | `Python` | [View](./leetcode/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | 3886 | Count Number Of Trapezoids I | `Python` | [View](./leetcode/3886-count-number-of-trapezoids-i) |
 | 3892 | Best Time To Buy And Sell Stock V | `Python` | [View](./leetcode/3892-best-time-to-buy-and-sell-stock-v) |
