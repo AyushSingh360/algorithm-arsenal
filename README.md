@@ -903,6 +903,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4240 | Find The Smallest Balanced Index | `Python` | [View](./leetcode/4240-find-the-smallest-balanced-index) |
 | 4242 | Sum Of Gcd Of Formed Pairs | `Python` | [View](./leetcode/4242-sum-of-gcd-of-formed-pairs) |
 | 4247 | Minimum Capacity Box | `Python` | [View](./leetcode/4247-minimum-capacity-box) |
+| 4256 | Construct Uniform Parity Array I | `Python` | [View](./leetcode/4256-construct-uniform-parity-array-i) |
 <!-- INDEX_END -->
 
 <br>
