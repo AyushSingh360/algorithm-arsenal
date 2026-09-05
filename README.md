@@ -773,7 +773,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2804 | Compact Object | `TypeScript` | [View](./leetcode/2804-compact-object) |
 | 2805 | Array Wrapper | `TypeScript` | [View](./leetcode/2805-array-wrapper) |
 | 2807 | Execute Asynchronous Functions In Parallel | `JavaScript` | [View](./leetcode/2807-execute-asynchronous-functions-in-parallel) |
-| 2809 | Create Hello World Function | `JavaScript`, `TypeScript` | [View](./leetcode/2809-create-hello-world-function) |
+| 2809 | Create Hello World Function | `TypeScript`, `JavaScript` | [View](./leetcode/2809-create-hello-world-function) |
 | 2813 | To Be Or Not To Be | `JavaScript` | [View](./leetcode/2813-to-be-or-not-to-be) |
 | 2820 | Return Length Of Arguments Passed | `JavaScript` | [View](./leetcode/2820-return-length-of-arguments-passed) |
 | 2821 | Timeout Cancellation | `JavaScript` | [View](./leetcode/2821-timeout-cancellation) |
