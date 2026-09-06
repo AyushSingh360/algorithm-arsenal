@@ -307,6 +307,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 112 | Path Sum | `Python` | [View](./leetcode/0112-path-sum) |
 | 113 | Path Sum Ii | `Python` | [View](./leetcode/0113-path-sum-ii) |
 | 114 | Flatten Binary Tree To Linked List | `Python` | [View](./leetcode/0114-flatten-binary-tree-to-linked-list) |
+| 115 | Distinct Subsequences | `Python` | [View](./leetcode/0115-distinct-subsequences) |
 | 116 | Populating Next Right Pointers In Each Node | `Python` | [View](./leetcode/0116-populating-next-right-pointers-in-each-node) |
 | 117 | Populating Next Right Pointers In Each Node Ii | `Python` | [View](./leetcode/0117-populating-next-right-pointers-in-each-node-ii) |
 | 118 | Pascals Triangle | `Python` | [View](./leetcode/0118-pascals-triangle) |
