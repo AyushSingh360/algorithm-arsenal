@@ -7,7 +7,7 @@ class Solution:
         total = 0
 
         for ch in s:
-            idx = ord(ch) - ord('a')
+            idx = ord(ch) - ord("a")
 
             # Append ch to every existing subsequence, or start with ch.
             new_count = (total + 1) % MOD

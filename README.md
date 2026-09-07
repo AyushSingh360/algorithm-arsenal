@@ -609,6 +609,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 919 | Projection Area Of 3D Shapes | `Python` | [View](./leetcode/0919-projection-area-of-3d-shapes) |
 | 934 | Bitwise Ors Of Subarrays | `Python` | [View](./leetcode/0934-bitwise-ors-of-subarrays) |
 | 940 | Fruit Into Baskets | `Python` | [View](./leetcode/0940-fruit-into-baskets) |
+| 977 | Distinct Subsequences Ii | `Python` | [View](./leetcode/0977-distinct-subsequences-ii) |
 | 978 | Valid Mountain Array | `Python` | [View](./leetcode/0978-valid-mountain-array) |
 | 992 | Delete Columns To Make Sorted Ii | `Python` | [View](./leetcode/0992-delete-columns-to-make-sorted-ii) |
 | 1000 | Delete Columns To Make Sorted Iii | `Python` | [View](./leetcode/1000-delete-columns-to-make-sorted-iii) |
