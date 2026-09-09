@@ -432,25 +432,44 @@ section { padding: 80px clamp(16px, 5vw, 64px); }
 }
 
 .stats-card {
+  position: relative;
   padding: 28px;
-  background: var(--surface);
+  background: linear-gradient(145deg, var(--surface) 0%, rgba(0,0,0,0) 100%);
   border: 1px solid var(--border-subtle);
   border-radius: var(--radius-lg);
-  backdrop-filter: blur(12px);
-  transition: border-color 0.2s, box-shadow 0.2s;
+  backdrop-filter: blur(16px);
+  overflow: hidden;
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.3s, box-shadow 0.3s;
+}
+.stats-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: -100%;
+  width: 50%; height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.06), transparent);
+  transform: skewX(-20deg);
+  transition: left 0.6s ease-in-out;
+  pointer-events: none;
 }
 .stats-card:hover {
-  border-color: var(--border);
-  box-shadow: var(--shadow-card);
+  transform: translateY(-6px);
+  border-color: rgba(0, 212, 255, 0.3);
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5), 0 0 20px rgba(0, 212, 255, 0.1);
+}
+.stats-card:hover::before {
+  left: 150%;
 }
 
 .stats-card-title {
-  font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.07em;
-  color: var(--text-3);
-  margin-bottom: 20px;
+  color: var(--text-1);
+  margin-bottom: 24px;
 }
 
 /* Difficulty bars */

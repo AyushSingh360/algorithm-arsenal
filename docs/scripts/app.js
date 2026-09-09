@@ -51,8 +51,6 @@
     detailBadges:  $('detail-badges'),
     detailBody:    $('detail-body'),
     detailClose:   $('detail-close'),
-    themeToggle:   $('theme-toggle'),
-    themeIcon:     document.querySelector('.theme-icon'),
     statTotal:     $('stat-total'),
     statEasy:      $('stat-easy'),
     statMedium:    $('stat-medium'),
@@ -66,26 +64,8 @@
      Init
   ──────────────────────────────────────────────────────── */
   async function init() {
-    setupTheme();
     setupEventListeners();
     await loadData();
-  }
-
-  /* ── Theme ──────────────────────────────────────────────── */
-  function setupTheme() {
-    const saved = localStorage.getItem('theme') || 'dark';
-    applyTheme(saved);
-  }
-
-  function applyTheme(theme) {
-    document.documentElement.setAttribute('data-theme', theme);
-    el.themeIcon.textContent = theme === 'dark' ? '🌙' : '☀️';
-    localStorage.setItem('theme', theme);
-  }
-
-  function toggleTheme() {
-    const current = document.documentElement.getAttribute('data-theme');
-    applyTheme(current === 'dark' ? 'light' : 'dark');
   }
 
   /* ── Data loading ───────────────────────────────────────── */
@@ -162,7 +142,7 @@
     // Topic bars (top 12)
     const topicCount = {};
     allProblems.forEach(p => p.topics?.forEach(t => topicCount[t] = (topicCount[t] || 0) + 1));
-    const sorted = Object.entries(topicCount).sort((a, b) => b[1] - a[1]).slice(0, 12);
+    const sorted = Object.entries(topicCount).sort((a, b) => b[1] - a[1]).slice(0, 5);
     const maxTopic = sorted[0]?.[1] || 1;
     el.topicBars.innerHTML = sorted.map(([name, count]) => `
       <div class="topic-bar-row">
@@ -521,9 +501,6 @@
 
   /* ── Event listeners ────────────────────────────────────── */
   function setupEventListeners() {
-    // Theme
-    el.themeToggle?.addEventListener('click', toggleTheme);
-
     // Search (debounced)
     let searchTimer;
     el.search?.addEventListener('input', () => {
