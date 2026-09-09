@@ -57,6 +57,9 @@ jobs:
       - name: Build Problem Index
         run: python .scripts/build_index.py
 
+      - name: Build Site Data
+        run: python .scripts/build_site_data.py
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "AyushSingh360"

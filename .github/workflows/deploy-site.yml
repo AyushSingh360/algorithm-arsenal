@@ -1,0 +1,47 @@
+name: Deploy Site (Manual Rebuild)
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: "Force re-fetch ALL problems from LeetCode API (ignores cache)"
+        required: false
+        default: "false"
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Clear cache (if force refresh)
+        if: ${{ github.event.inputs.force_refresh == 'true' }}
+        run: |
+          echo "Force refresh requested — clearing problems.json cache"
+          echo "[]" > docs/data/problems.json
+
+      - name: Build site data
+        run: python .scripts/build_site_data.py
+
+      - name: Commit and push updated data
+        run: |
+          git config --global user.name "AyushSingh360"
+          git config --global user.email "ayushsingh21109@gmail.com"
+          git add docs/data/problems.json
+          git diff --staged --quiet && echo "No changes to commit" || \
+            git commit -m "chore: rebuild site data (manual trigger) [skip ci]"
+          git pull --rebase origin main
+          git push
