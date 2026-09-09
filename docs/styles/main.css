@@ -168,10 +168,12 @@ img, svg { display: block; }
 }
 .nav-icon { font-size: 22px; }
 .nav-title {
-  background: linear-gradient(135deg, var(--cyan), var(--purple));
+  background: linear-gradient(to right, #ff0036, #e3f94c, #0b55d1, #ff0036);
+  background-size: 300% 100%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  animation: gradient-pan 8s ease-in-out infinite alternate;
 }
 
 .nav-controls { display: flex; align-items: center; gap: 12px; }
@@ -262,14 +264,14 @@ img, svg { display: block; }
 }
 
 .gradient-text {
-  background: linear-gradient(135deg, var(--cyan) 0%, var(--purple) 50%, #f59e0b 100%);
-  background-size: 200% 200%;
+  background: linear-gradient(to right, #ff0036, #e3f94c, #0b55d1, #ff0036);
+  background-size: 300% 100%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  animation: gradShift 6s ease-in-out infinite alternate;
+  animation: gradient-pan 8s ease-in-out infinite alternate;
 }
-@keyframes gradShift {
+@keyframes gradient-pan {
   0%   { background-position: 0% 50%; }
   100% { background-position: 100% 50%; }
 }
