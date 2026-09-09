@@ -286,11 +286,14 @@
     el.grid.appendChild(frag);
   }
 
+  const DOODLES = ["icons8-aubrey-48.svg", "icons8-basil-48.svg", "icons8-blossom-powerpuff-girls-48.svg", "icons8-bt21-chimmy-48.svg", "icons8-bt21-cooky-48.svg", "icons8-bt21-koya-48.svg", "icons8-bt21-mang-48.svg", "icons8-bt21-rj-48.svg", "icons8-bt21-shooky-48.svg", "icons8-bt21-tata-48.svg", "icons8-bubbles-powerpuff-girls-48.svg", "icons8-buttercup-powerpuff-girls-48.svg", "icons8-eric-cartman-48.svg", "icons8-futurama-bender-48.svg", "icons8-hello-kitty-48.svg", "icons8-iron-man-48.svg", "icons8-jake-48.svg", "icons8-jimmy-neutron-48.svg", "icons8-kel-48.svg", "icons8-kenny-mccormick-48.svg", "icons8-koya-bt21-48.svg", "icons8-kyle-broflovski-48.svg", "icons8-mando-48.svg", "icons8-mari-48.svg", "icons8-my-talking-tom-48.svg", "icons8-snowball-48.svg", "icons8-stan-marsh-48.svg", "icons8-stormbreaker-48.svg", "icons8-sunny-48.svg", "icons8-super-mario-48.svg", "icons8-totoro-48.svg"];
+
   function buildCard(p) {
     const diff     = p.difficulty || 'Unknown';
     const diffCls  = diff.toLowerCase();
     const topics   = (p.topics || []).slice(0, 3);
     const langs    = p.languages || [];
+    const randomDoodle = DOODLES[Math.floor(Math.random() * DOODLES.length)];
 
     const card = document.createElement('div');
     card.className = 'problem-card';
@@ -300,6 +303,7 @@
     card.setAttribute('aria-label', `Problem ${p.id}: ${p.title}, ${diff}`);
 
     card.innerHTML = `
+      <img src="assets/doodles/${randomDoodle}" class="card-doodle" alt="" aria-hidden="true">
       <div class="card-top">
         <span class="card-num">#${String(p.id).padStart(4, '0')}</span>
         <span class="card-diff ${diffCls}">${diff}</span>

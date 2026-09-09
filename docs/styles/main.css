@@ -181,6 +181,7 @@ img, svg { display: block; }
   border-radius: 50%;
   border: 1px solid var(--border);
   background: var(--surface);
+  color: var(--text-1);
   display: grid; place-items: center;
   font-size: 16px;
   transition: all 0.2s;
@@ -693,6 +694,27 @@ section { padding: 80px clamp(16px, 5vw, 64px); }
 .problem-card[data-diff="Easy"]:hover    { border-color: rgba(34,197,94,0.35); box-shadow: 0 8px 20px -8px rgba(0,0,0,0.5), var(--shadow-glow-easy); }
 .problem-card[data-diff="Medium"]:hover  { border-color: rgba(245,158,11,0.35); box-shadow: 0 8px 20px -8px rgba(0,0,0,0.5), var(--shadow-glow-medium); }
 .problem-card[data-diff="Hard"]:hover    { border-color: rgba(239,68,68,0.35); box-shadow: 0 8px 20px -8px rgba(0,0,0,0.5), var(--shadow-glow-hard); }
+
+.card-doodle {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  width: 48px;
+  height: 48px;
+  opacity: 0.15;
+  transition: opacity 0.3s, transform 0.3s, filter 0.3s;
+  pointer-events: none;
+  z-index: 0;
+  filter: grayscale(100%) brightness(1.5);
+}
+[data-theme="light"] .card-doodle {
+  filter: grayscale(100%) brightness(0.5);
+}
+.problem-card:hover .card-doodle {
+  opacity: 0.85;
+  transform: scale(1.15) rotate(8deg);
+  filter: none;
+}
 
 .card-top {
   display: flex;
