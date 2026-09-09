@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://leetcode.com/u/5VPjMsfuqV/">
-  <img src="https://leetcard.jacoblin.cool/5VPjMsfuqV?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
+  <img src="https://leetcode-mu-two.vercel.app/api/card?theme=aura&hide_border=true&border_radius=0&short_numbers=true" alt="LeetCode Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
 </a>
 
 </div>
