@@ -68,6 +68,23 @@
     await loadData();
   }
 
+  /* ── Theme ──────────────────────────────────────────────── */
+  document.addEventListener('color-scheme-switch', (event) => {
+    const theme = event.target.value;
+    document.documentElement.setAttribute('data-theme', theme);
+    const moon = document.querySelector('.theme-icon-moon');
+    const sun = document.querySelector('.theme-icon-sun');
+    if (moon && sun) {
+      if (theme === 'dark') {
+        moon.style.display = 'block';
+        sun.style.display = 'none';
+      } else {
+        moon.style.display = 'none';
+        sun.style.display = 'block';
+      }
+    }
+  });
+
   /* ── Data loading ───────────────────────────────────────── */
   async function loadData() {
     try {

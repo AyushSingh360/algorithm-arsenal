@@ -664,31 +664,35 @@ section { padding: 80px clamp(16px, 5vw, 64px); }
 .problem-card {
   position: relative;
   padding: 18px 20px;
-  background: var(--surface);
+  background: linear-gradient(145deg, var(--surface) 0%, rgba(0,0,0,0) 100%);
   border: 1px solid var(--border-subtle);
   border-radius: var(--radius-lg);
   cursor: pointer;
-  transition: transform 0.25s cubic-bezier(0.22,1,0.36,1),
-              border-color 0.25s,
-              box-shadow 0.25s;
   overflow: hidden;
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(12px);
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.3s, box-shadow 0.3s;
 }
 .problem-card::before {
   content: '';
   position: absolute;
-  inset: 0;
-  background: linear-gradient(135deg, rgba(0,212,255,0.04), transparent 60%);
-  opacity: 0;
-  transition: opacity 0.25s;
-  border-radius: inherit;
+  top: 0; left: -100%;
+  width: 50%; height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.06), transparent);
+  transform: skewX(-20deg);
+  transition: left 0.6s ease-in-out;
+  pointer-events: none;
+  z-index: 0;
 }
-.problem-card:hover { transform: translateY(-3px); }
-.problem-card:hover::before { opacity: 1; }
+.problem-card > * {
+  position: relative;
+  z-index: 1;
+}
+.problem-card:hover { transform: translateY(-5px); }
+.problem-card:hover::before { left: 150%; }
 
-.problem-card[data-diff="Easy"]:hover    { border-color: rgba(34,197,94,0.35); box-shadow: var(--shadow-glow-easy); }
-.problem-card[data-diff="Medium"]:hover  { border-color: rgba(245,158,11,0.35); box-shadow: var(--shadow-glow-medium); }
-.problem-card[data-diff="Hard"]:hover    { border-color: rgba(239,68,68,0.35); box-shadow: var(--shadow-glow-hard); }
+.problem-card[data-diff="Easy"]:hover    { border-color: rgba(34,197,94,0.35); box-shadow: 0 8px 20px -8px rgba(0,0,0,0.5), var(--shadow-glow-easy); }
+.problem-card[data-diff="Medium"]:hover  { border-color: rgba(245,158,11,0.35); box-shadow: 0 8px 20px -8px rgba(0,0,0,0.5), var(--shadow-glow-medium); }
+.problem-card[data-diff="Hard"]:hover    { border-color: rgba(239,68,68,0.35); box-shadow: 0 8px 20px -8px rgba(0,0,0,0.5), var(--shadow-glow-hard); }
 
 .card-top {
   display: flex;
