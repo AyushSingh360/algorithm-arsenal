@@ -904,7 +904,9 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4229 | Trim Trailing Vowels | `Python` | [View](./leetcode/4229-trim-trailing-vowels) |
 | 4240 | Find The Smallest Balanced Index | `Python` | [View](./leetcode/4240-find-the-smallest-balanced-index) |
 | 4242 | Sum Of Gcd Of Formed Pairs | `Python` | [View](./leetcode/4242-sum-of-gcd-of-formed-pairs) |
+| 4245 | Count Commas In Range | `Python` | [View](./leetcode/4245-count-commas-in-range) |
 | 4247 | Minimum Capacity Box | `Python` | [View](./leetcode/4247-minimum-capacity-box) |
+| 4248 | Count Commas In Range Ii | `Python` | [View](./leetcode/4248-count-commas-in-range-ii) |
 | 4256 | Construct Uniform Parity Array I | `Python` | [View](./leetcode/4256-construct-uniform-parity-array-i) |
 | 4258 | Construct Uniform Parity Array Ii | `Python` | [View](./leetcode/4258-construct-uniform-parity-array-ii) |
 | 4284 | Smallest Stable Index I | `Python` | [View](./leetcode/4284-smallest-stable-index-i) |
