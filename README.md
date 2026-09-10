@@ -730,6 +730,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2316 | Count Hills And Valleys In An Array | `Python` | [View](./leetcode/2316-count-hills-and-valleys-in-an-array) |
 | 2317 | Count Collisions On A Road | `Python` | [View](./leetcode/2317-count-collisions-on-a-road) |
 | 2319 | Longest Substring Of One Repeating Character | `Python` | [View](./leetcode/2319-longest-substring-of-one-repeating-character) |
+| 2347 | Count Nodes Equal To Average Of Subtree | `Python` | [View](./leetcode/2347-count-nodes-equal-to-average-of-subtree) |
 | 2392 | Successful Pairs Of Spells And Potions | `Python` | [View](./leetcode/2392-successful-pairs-of-spells-and-potions) |
 | 2463 | Minimum Recolors To Get K Consecutive Black Blocks | `Python` | [View](./leetcode/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | 2498 | Smallest Subarrays With Maximum Bitwise Or | `Python` | [View](./leetcode/2498-smallest-subarrays-with-maximum-bitwise-or) |
