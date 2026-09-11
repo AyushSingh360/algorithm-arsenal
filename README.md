@@ -843,6 +843,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3789 | Maximize Subarrays After Removing One Conflicting Pair | `Python` | [View](./leetcode/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | 3790 | Fruits Into Baskets Ii | `Python` | [View](./leetcode/3790-fruits-into-baskets-ii) |
 | 3791 | Fruits Into Baskets Iii | `Python` | [View](./leetcode/3791-fruits-into-baskets-iii) |
+| 3799 | Unique 3 Digit Even Numbers | `Python` | [View](./leetcode/3799-unique-3-digit-even-numbers) |
 | 3804 | Maximize Active Section With Trade Ii | `Python` | [View](./leetcode/3804-maximize-active-section-with-trade-ii) |
 | 3805 | Maximize Active Section With Trade I | `Python` | [View](./leetcode/3805-maximize-active-section-with-trade-i) |
 | 3812 | Smallest Palindromic Rearrangement I | `Python` | [View](./leetcode/3812-smallest-palindromic-rearrangement-i) |

@@ -4,7 +4,7 @@ class Solution:
 
         n = len(digits)
         for i in range(n):
-            if digits[i] == 0:   # no leading zero
+            if digits[i] == 0:  # no leading zero
                 continue
 
             for j in range(n):
