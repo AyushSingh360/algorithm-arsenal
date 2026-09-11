@@ -1,0 +1,33 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- background -->
+  <rect width="512" height="512" rx="96" fill="#0A0A0A"/>
+
+  <!-- shield -->
+  <path d="M256 72 L404 130 V270 C404 372 340 426 256 452 C172 426 108 372 108 270 V130 Z"
+        fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linejoin="round"/>
+
+  <!-- binary rain backdrop inside shield -->
+  <g fill="#FFFFFF" opacity="0.25" font-family="monospace" font-size="26" font-weight="bold" text-anchor="middle">
+    <text x="160" y="170">01</text>
+    <text x="352" y="200">10</text>
+    <text x="150" y="300">1 0</text>
+    <text x="360" y="330">01</text>
+    <text x="200" y="400">10</text>
+    <text x="315" y="410">01</text>
+  </g>
+
+  <!-- sword: vertical blade -->
+  <path d="M256 150 L274 330 L256 348 L238 330 Z" fill="#FFFFFF"/>
+  <line x1="256" y1="160" x2="256" y2="336" stroke="#0A0A0A" stroke-width="4"/>
+  <!-- crossguard: code brackets -->
+  <path d="M196 346 L176 366 L196 386" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M316 346 L336 366 L316 386" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="238" y1="366" x2="274" y2="366" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <!-- pommel -->
+  <circle cx="256" cy="404" r="14" fill="#FFFFFF"/>
+
+  <!-- stars -->
+  <circle cx="256" cy="118" r="6" fill="#FFFFFF"/>
+  <circle cx="132" cy="236" r="4" fill="#FFFFFF"/>
+  <circle cx="380" cy="236" r="4" fill="#FFFFFF"/>
+</svg>
