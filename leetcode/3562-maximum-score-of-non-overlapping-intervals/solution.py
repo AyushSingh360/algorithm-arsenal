@@ -1,14 +1,12 @@
 from bisect import bisect_left
 from typing import List
 
+
 class Solution:
     def maximumWeight(self, intervals: List[List[int]]) -> List[int]:
         # (end, start, weight, original_index)
-        events = sorted(
-            (r, l, w, i)
-            for i, (l, r, w) in enumerate(intervals)
-        )
-        
+        events = sorted((r, l, w, i) for i, (l, r, w) in enumerate(intervals))
+
         n = len(events)
         ends = [r for r, _, _, _ in events]
 
@@ -32,7 +30,7 @@ class Solution:
                 previous_weight, previous_indices = dp[k - 1][prev]
                 take = (
                     previous_weight + weight,
-                    tuple(sorted(previous_indices + (idx,)))
+                    tuple(sorted(previous_indices + (idx,))),
                 )
                 skip = dp[k][i - 1]
 

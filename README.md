@@ -825,6 +825,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3496 | Minimum Number Of Seconds To Make Mountain Height Zero | `Python` | [View](./leetcode/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | 3558 | Find A Safe Walk Through A Grid | `Python` | [View](./leetcode/3558-find-a-safe-walk-through-a-grid) |
 | 3561 | Remove Methods From Project | `Python` | [View](./leetcode/3561-remove-methods-from-project) |
+| 3562 | Maximum Score Of Non Overlapping Intervals | `Python` | [View](./leetcode/3562-maximum-score-of-non-overlapping-intervals) |
 | 3569 | Count Of Substrings Containing Every Vowel And K Consonants Ii | `Python` | [View](./leetcode/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | 3583 | Sorted Gcd Pair Queries | `Python` | [View](./leetcode/3583-sorted-gcd-pair-queries) |
 | 3584 | Find The Lexicographically Smallest Valid Sequence | `Python` | [View](./leetcode/3584-find-the-lexicographically-smallest-valid-sequence) |
