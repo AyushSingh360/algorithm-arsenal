@@ -596,6 +596,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 812 | Rotate String | `Python` | [View](./leetcode/0812-rotate-string) |
 | 815 | Champagne Tower | `Python` | [View](./leetcode/0815-champagne-tower) |
 | 830 | Largest Triangle Area | `Python` | [View](./leetcode/0830-largest-triangle-area) |
+| 866 | Rectangle Overlap | `Python` | [View](./leetcode/0866-rectangle-overlap) |
 | 870 | Magic Squares In Grid | `Python` | [View](./leetcode/0870-magic-squares-in-grid) |
 | 896 | Smallest Subtree With All The Deepest Nodes | `Python` | [View](./leetcode/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | 899 | Binary Gap | `Python` | [View](./leetcode/0899-binary-gap) |
