@@ -661,6 +661,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1557 | Check If A String Contains All Binary Codes Of Size K | `Python` | [View](./leetcode/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | 1569 | Max Dot Product Of Two Subsequences | `Python` | [View](./leetcode/1569-max-dot-product-of-two-subsequences) |
 | 1570 | Final Prices With A Special Discount In A Shop | `Python` | [View](./leetcode/1570-final-prices-with-a-special-discount-in-a-shop) |
+| 1573 | Find Two Non Overlapping Sub Arrays Each With Target Sum | `Python` | [View](./leetcode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | 1574 | Maximum Product Of Two Elements In An Array | `Python` | [View](./leetcode/1574-maximum-product-of-two-elements-in-an-array) |
 | 1580 | Shuffle The Array | `Python` | [View](./leetcode/1580-shuffle-the-array) |
 | 1612 | Avoid Flood In The City | `Python` | [View](./leetcode/1612-avoid-flood-in-the-city) |
@@ -668,6 +669,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1626 | Can Make Arithmetic Progression From Sequence | `Python` | [View](./leetcode/1626-can-make-arithmetic-progression-from-sequence) |
 | 1630 | Count Odd Numbers In An Interval Range | `Python` | [View](./leetcode/1630-count-odd-numbers-in-an-interval-range) |
 | 1636 | Number Of Substrings With Only 1S | `Python` | [View](./leetcode/1636-number-of-substrings-with-only-1s) |
+| 1644 | Maximum Number Of Non Overlapping Substrings | `Python` | [View](./leetcode/1644-maximum-number-of-non-overlapping-substrings) |
 | 1658 | Minimum Swaps To Arrange A Binary Grid | `Python` | [View](./leetcode/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | 1663 | Detect Cycles In 2D Grid | `Python` | [View](./leetcode/1663-detect-cycles-in-2d-grid) |
 | 1667 | Find Kth Bit In Nth Binary String | `Python` | [View](./leetcode/1667-find-kth-bit-in-nth-binary-string) |

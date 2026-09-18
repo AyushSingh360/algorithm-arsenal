@@ -6,16 +6,16 @@ class Solution:
         last = [-1] * 26
 
         for i, ch in enumerate(s):
-            c = ord(ch) - ord('a')
+            c = ord(ch) - ord("a")
             first[c] = min(first[c], i)
             last[c] = i
 
         def valid_interval(left: int) -> int:
-            right = last[ord(s[left]) - ord('a')]
+            right = last[ord(s[left]) - ord("a")]
             i = left
 
             while i <= right:
-                c = ord(s[i]) - ord('a')
+                c = ord(s[i]) - ord("a")
 
                 # This character appeared before `left`,
                 # so a valid interval cannot start here.
@@ -32,7 +32,7 @@ class Solution:
 
         for i in range(n):
             # Only the first occurrence can form the minimal interval
-            if i != first[ord(s[i]) - ord('a')]:
+            if i != first[ord(s[i]) - ord("a")]:
                 continue
 
             end = valid_interval(i)
@@ -41,9 +41,9 @@ class Solution:
 
             # A nested valid interval is better: same slot, shorter substring.
             if i > prev_end:
-                ans.append(s[i:end + 1])
+                ans.append(s[i : end + 1])
             else:
-                ans[-1] = s[i:end + 1]
+                ans[-1] = s[i : end + 1]
 
             prev_end = end
 
