@@ -651,6 +651,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1480 | Movie Rating | `SQL` | [View](./leetcode/1480-movie-rating) |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | `Python` | [View](./leetcode/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | 1487 | Cinema Seat Allocation | `Python` | [View](./leetcode/1487-cinema-seat-allocation) |
+| 1501 | Circle And Rectangle Overlapping | `Python` | [View](./leetcode/1501-circle-and-rectangle-overlapping) |
 | 1507 | Check If There Is A Valid Path In A Grid | `Python` | [View](./leetcode/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | 1516 | The K Th Lexicographical String Of All Happy Strings Of Length N | `Python` | [View](./leetcode/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | 1520 | Number Of Steps To Reduce A Number In Binary Representation To One | `Python` | [View](./leetcode/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |

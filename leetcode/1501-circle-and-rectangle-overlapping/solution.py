@@ -7,7 +7,7 @@ class Solution:
         x1: int,
         y1: int,
         x2: int,
-        y2: int
+        y2: int,
     ) -> bool:
         # Nearest rectangle point to the circle center
         closest_x = max(x1, min(xCenter, x2))
