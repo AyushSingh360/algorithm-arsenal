@@ -852,6 +852,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3799 | Unique 3 Digit Even Numbers | `Python` | [View](./leetcode/3799-unique-3-digit-even-numbers) |
 | 3804 | Maximize Active Section With Trade Ii | `Python` | [View](./leetcode/3804-maximize-active-section-with-trade-ii) |
 | 3805 | Maximize Active Section With Trade I | `Python` | [View](./leetcode/3805-maximize-active-section-with-trade-i) |
+| 3811 | Reverse Degree Of A String | `Python` | [View](./leetcode/3811-reverse-degree-of-a-string) |
 | 3812 | Smallest Palindromic Rearrangement I | `Python` | [View](./leetcode/3812-smallest-palindromic-rearrangement-i) |
 | 3813 | Smallest Palindromic Rearrangement Ii | `Python` | [View](./leetcode/3813-smallest-palindromic-rearrangement-ii) |
 | 3820 | Number Of Unique Xor Triplets Ii | `Python` | [View](./leetcode/3820-number-of-unique-xor-triplets-ii) |
