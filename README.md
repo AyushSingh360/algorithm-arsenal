@@ -596,6 +596,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 812 | Rotate String | `Python` | [View](./leetcode/0812-rotate-string) |
 | 815 | Champagne Tower | `Python` | [View](./leetcode/0815-champagne-tower) |
 | 830 | Largest Triangle Area | `Python` | [View](./leetcode/0830-largest-triangle-area) |
+| 864 | Image Overlap | `Python` | [View](./leetcode/0864-image-overlap) |
 | 866 | Rectangle Overlap | `Python` | [View](./leetcode/0866-rectangle-overlap) |
 | 870 | Magic Squares In Grid | `Python` | [View](./leetcode/0870-magic-squares-in-grid) |
 | 896 | Smallest Subtree With All The Deepest Nodes | `Python` | [View](./leetcode/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -857,6 +858,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3813 | Smallest Palindromic Rearrangement Ii | `Python` | [View](./leetcode/3813-smallest-palindromic-rearrangement-ii) |
 | 3820 | Number Of Unique Xor Triplets Ii | `Python` | [View](./leetcode/3820-number-of-unique-xor-triplets-ii) |
 | 3824 | Number Of Unique Xor Triplets I | `Python` | [View](./leetcode/3824-number-of-unique-xor-triplets-i) |
+| 3831 | Find X Value Of Array I | `Python` | [View](./leetcode/3831-find-x-value-of-array-i) |
 | 3834 | Minimum Operations To Convert All Elements To Zero | `Python` | [View](./leetcode/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | 3835 | Count Partitions With Max Min Difference At Most K | `Python` | [View](./leetcode/3835-count-partitions-with-max-min-difference-at-most-k) |
 | 3838 | Path Existence Queries In A Graph I | `Python` | [View](./leetcode/3838-path-existence-queries-in-a-graph-i) |
@@ -919,6 +921,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4256 | Construct Uniform Parity Array I | `Python` | [View](./leetcode/4256-construct-uniform-parity-array-i) |
 | 4258 | Construct Uniform Parity Array Ii | `Python` | [View](./leetcode/4258-construct-uniform-parity-array-ii) |
 | 4284 | Smallest Stable Index I | `Python` | [View](./leetcode/4284-smallest-stable-index-i) |
+| 4285 | Smallest Stable Index Ii | `Python` | [View](./leetcode/4285-smallest-stable-index-ii) |
 <!-- INDEX_END -->
 
 <br>

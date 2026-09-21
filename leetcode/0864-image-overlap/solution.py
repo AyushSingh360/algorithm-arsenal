@@ -1,5 +1,6 @@
 from collections import Counter
 
+
 class Solution:
     def largestOverlap(self, img1: list[list[int]], img2: list[list[int]]) -> int:
         ones1 = [
@@ -23,4 +24,3 @@ class Solution:
                 shifts[(r2 - r1, c2 - c1)] += 1
 
         return max(shifts.values(), default=0)
-        
