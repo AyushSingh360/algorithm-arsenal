@@ -680,6 +680,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1704 | Special Positions In A Binary Matrix | `Python` | [View](./leetcode/1704-special-positions-in-a-binary-matrix) |
 | 1716 | Maximum Non Negative Product In A Matrix | `Python` | [View](./leetcode/1716-maximum-non-negative-product-in-a-matrix) |
 | 1725 | Number Of Sets Of K Non Overlapping Line Segments | `Python` | [View](./leetcode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| 1776 | Minimum Operations To Reduce X To Zero | `Python` | [View](./leetcode/1776-minimum-operations-to-reduce-x-to-zero) |
 | 1784 | Minimum Initial Energy To Finish Tasks | `Python` | [View](./leetcode/1784-minimum-initial-energy-to-finish-tasks) |
 | 1793 | Minimum Moves To Make Array Complementary | `Python` | [View](./leetcode/1793-minimum-moves-to-make-array-complementary) |
 | 1800 | Concatenation Of Consecutive Binary Numbers | `Python` | [View](./leetcode/1800-concatenation-of-consecutive-binary-numbers) |
