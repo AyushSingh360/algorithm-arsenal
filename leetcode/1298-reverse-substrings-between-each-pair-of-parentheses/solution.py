@@ -2,10 +2,10 @@ class Solution:
     def reverseParentheses(self, s: str) -> str:
         stack = []
         for c in s:
-            if c == ')':
+            if c == ")":
                 # Pop until matching '(', collecting characters to reverse
                 temp = []
-                while stack and stack[-1] != '(':
+                while stack and stack[-1] != "(":
                     temp.append(stack.pop())
                 # Remove the '('
                 if stack:

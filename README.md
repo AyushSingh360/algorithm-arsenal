@@ -633,6 +633,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1245 | User Activity For The Past 30 Days I | `SQL` | [View](./leetcode/1245-user-activity-for-the-past-30-days-i) |
 | 1256 | Rank Transform Of An Array | `Python` | [View](./leetcode/1256-rank-transform-of-an-array) |
 | 1297 | Maximum Number Of Balloons | `Python` | [View](./leetcode/1297-maximum-number-of-balloons) |
+| 1298 | Reverse Substrings Between Each Pair Of Parentheses | `Python` | [View](./leetcode/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | 1305 | Number Of Visible People In A Queue | `Python` | [View](./leetcode/1305-number-of-visible-people-in-a-queue) |
 | 1317 | Monthly Transactions I | `SQL` | [View](./leetcode/1317-monthly-transactions-i) |
 | 1320 | Remove All Adjacent Duplicates In String Ii | `Python` | [View](./leetcode/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -691,6 +692,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1878 | Check If Array Is Sorted And Rotated | `Python` | [View](./leetcode/1878-check-if-array-is-sorted-and-rotated) |
 | 1884 | Minimum Changes To Make Alternating Binary String | `Python` | [View](./leetcode/1884-minimum-changes-to-make-alternating-binary-string) |
 | 1910 | Check If Binary String Has At Most One Segment Of Ones | `Python` | [View](./leetcode/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| 1934 | Evaluate The Bracket Pairs Of A String | `Python` | [View](./leetcode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | 1956 | Maximum Element After Decreasing And Rearranging | `Python` | [View](./leetcode/1956-maximum-element-after-decreasing-and-rearranging) |
 | 1961 | Maximum Ice Cream Bars | `Python` | [View](./leetcode/1961-maximum-ice-cream-bars) |
 | 1968 | Maximum Building Height | `Python` | [View](./leetcode/1968-maximum-building-height) |
@@ -871,6 +873,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3850 | Equal Sum Grid Partition Ii | `Python` | [View](./leetcode/3850-equal-sum-grid-partition-ii) |
 | 3852 | Path Existence Queries In A Graph Ii | `Python` | [View](./leetcode/3852-path-existence-queries-in-a-graph-ii) |
 | 3859 | Maximum Product Of Two Digits | `Python` | [View](./leetcode/3859-maximum-product-of-two-digits) |
+| 3869 | Smallest Index With Digit Sum Equal To Index | `Python` | [View](./leetcode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | 3870 | Minimum Moves To Clean The Classroom | `Python` | [View](./leetcode/3870-minimum-moves-to-clean-the-classroom) |
 | 3884 | Minimum Absolute Difference In Sliding Submatrix | `Python` | [View](./leetcode/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | 3886 | Count Number Of Trapezoids I | `Python` | [View](./leetcode/3886-count-number-of-trapezoids-i) |
