@@ -8,7 +8,7 @@ class Solution:
             return False
 
         # The path must start with '(' and end with ')'.
-        if grid[0][0] == ')' or grid[-1][-1] == '(':
+        if grid[0][0] == ")" or grid[-1][-1] == "(":
             return False
 
         # dp[r][c] = set of valid unmatched-open counts after reaching (r, c).
@@ -20,7 +20,7 @@ class Solution:
                 if r == 0 and c == 0:
                     continue
 
-                delta = 1 if grid[r][c] == '(' else -1
+                delta = 1 if grid[r][c] == "(" else -1
 
                 if r > 0:
                     for balance in dp[r - 1][c]:
