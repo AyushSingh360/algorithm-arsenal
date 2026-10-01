@@ -3,7 +3,7 @@ class Solution:
         ans = []
         depth = 0
         for c in seq:
-            if c == '(':
+            if c == "(":
                 depth += 1
                 ans.append(depth % 2)
             else:

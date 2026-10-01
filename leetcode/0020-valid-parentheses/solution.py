@@ -1,11 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        closing = {
-            ')': '(',
-            ']': '[',
-            '}': '{'
-        }
+        closing = {")": "(", "]": "[", "}": "{"}
 
         for ch in s:
             if ch in closing:
