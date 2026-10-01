@@ -1,23 +1,17 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        # Use a stack to match brackets
+class Solution:
+    def isValid(self, s: str) -> bool:
         stack = []
+        closing = {
+            ')': '(',
+            ']': '[',
+            '}': '{'
+        }
 
-        # Mapping of closing to opening brackets
-        bracket_map = {")": "(", "}": "{", "]": "["}
-
-        for char in s:
-            if char in bracket_map:  # Closing bracket
-                # Check if stack is empty or top doesn't match
-                if not stack or stack[-1] != bracket_map[char]:
+        for ch in s:
+            if ch in closing:
+                if not stack or stack.pop() != closing[ch]:
                     return False
-                stack.pop()
-            else:  # Opening bracket
-                stack.append(char)
+            else:
+                stack.append(ch)
 
-        # Valid if stack is empty (all brackets matched)
-        return len(stack) == 0
+        return not stack
