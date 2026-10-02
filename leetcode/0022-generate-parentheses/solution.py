@@ -1,24 +1,20 @@
-class Solution(object):
-    def generateParenthesis(self, n):
-        """
-        :type n: int
-        :rtype: List[str]
-        """
+class Solution:
+    def generateParenthesis(self, n: int) -> list[str]:
         res = []
 
-        def backtrack(curr, open_cnt, close_cnt):
-            # curr: current string, open_cnt: number of '(' used, close_cnt: number of ')' used
-            if len(curr) == 2 * n:
-                res.append(curr)
+        def backtrack(s: str, open_count: int, close_count: int) -> None:
+            # If the current string is complete
+            if len(s) == 2 * n:
+                res.append(s)
                 return
 
-            # we can add '(' if we still have some left
-            if open_cnt < n:
-                backtrack(curr + "(", open_cnt + 1, close_cnt)
+            # We can add an open bracket if we haven't used all n
+            if open_count < n:
+                backtrack(s + "(", open_count + 1, close_count)
 
-            # we can add ')' only if there are more '(' than ')'
-            if close_cnt < open_cnt:
-                backtrack(curr + ")", open_cnt, close_cnt + 1)
+            # We can add a close bracket if it won't exceed open_count
+            if close_count < open_count:
+                backtrack(s + ")", open_count, close_count + 1)
 
         backtrack("", 0, 0)
         return res
