@@ -1,14 +1,15 @@
 from collections import deque
 
+
 class Solution:
     def removeInvalidParentheses(self, s: str) -> list[str]:
         def is_valid(string):
             balance = 0
 
             for ch in string:
-                if ch == '(':
+                if ch == "(":
                     balance += 1
-                elif ch == ')':
+                elif ch == ")":
                     balance -= 1
 
                     if balance < 0:
@@ -38,7 +39,7 @@ class Solution:
                 if current[i] not in "()":
                     continue
 
-                new_string = current[:i] + current[i + 1:]
+                new_string = current[:i] + current[i + 1 :]
 
                 if new_string not in visited:
                     visited.add(new_string)

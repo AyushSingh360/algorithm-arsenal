@@ -427,6 +427,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 292 | Nim Game | `Python` | [View](./leetcode/0292-nim-game) |
 | 299 | Bulls And Cows | `Python` | [View](./leetcode/0299-bulls-and-cows) |
 | 300 | Longest Increasing Subsequence | `Python` | [View](./leetcode/0300-longest-increasing-subsequence) |
+| 301 | Remove Invalid Parentheses | `Python` | [View](./leetcode/0301-remove-invalid-parentheses) |
 | 303 | Range Sum Query   Immutable | `Python` | [View](./leetcode/0303-range-sum-query---immutable) |
 | 304 | Range Sum Query 2D   Immutable | `Python` | [View](./leetcode/0304-range-sum-query-2d---immutable) |
 | 306 | Additive Number | `Python` | [View](./leetcode/0306-additive-number) |
