@@ -1,10 +1,10 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
         open_needed = 0  # unmatched '(' that need ')'
-        close_needed = 0 # unmatched ')' that need '('
+        close_needed = 0  # unmatched ')' that need '('
 
         for c in s:
-            if c == '(':
+            if c == "(":
                 open_needed += 1
             else:  # c == ')'
                 if open_needed > 0:
