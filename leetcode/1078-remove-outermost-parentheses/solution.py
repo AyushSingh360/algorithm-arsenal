@@ -4,7 +4,7 @@ class Solution:
         depth = 0
 
         for ch in s:
-            if ch == '(':
+            if ch == "(":
                 # Skip the opening parenthesis of each primitive
                 if depth > 0:
                     result.append(ch)
@@ -15,4 +15,4 @@ class Solution:
                 if depth > 0:
                     result.append(ch)
 
-        return ''.join(result)
+        return "".join(result)

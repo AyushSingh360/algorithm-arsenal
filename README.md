@@ -623,6 +623,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1054 | Complement Of Base 10 Integer | `Python` | [View](./leetcode/1054-complement-of-base-10-integer) |
 | 1064 | Smallest Integer Divisible By K | `Python` | [View](./leetcode/1064-smallest-integer-divisible-by-k) |
 | 1071 | Binary Prefix Divisible By 5 | `Python` | [View](./leetcode/1071-binary-prefix-divisible-by-5) |
+| 1078 | Remove Outermost Parentheses | `Python` | [View](./leetcode/1078-remove-outermost-parentheses) |
 | 1079 | Sum Of Root To Leaf Binary Numbers | `Python` | [View](./leetcode/1079-sum-of-root-to-leaf-binary-numbers) |
 | 1116 | Maximum Level Sum Of A Binary Tree | `Python` | [View](./leetcode/1116-maximum-level-sum-of-a-binary-tree) |
 | 1135 | Customers Who Bought All Products | `SQL` | [View](./leetcode/1135-customers-who-bought-all-products) |
