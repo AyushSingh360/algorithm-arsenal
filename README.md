@@ -677,6 +677,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1630 | Count Odd Numbers In An Interval Range | `Python` | [View](./leetcode/1630-count-odd-numbers-in-an-interval-range) |
 | 1636 | Number Of Substrings With Only 1S | `Python` | [View](./leetcode/1636-number-of-substrings-with-only-1s) |
 | 1644 | Maximum Number Of Non Overlapping Substrings | `Python` | [View](./leetcode/1644-maximum-number-of-non-overlapping-substrings) |
+| 1648 | Minimum Insertions To Balance A Parentheses String | `Python` | [View](./leetcode/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | 1658 | Minimum Swaps To Arrange A Binary Grid | `Python` | [View](./leetcode/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | 1663 | Detect Cycles In 2D Grid | `Python` | [View](./leetcode/1663-detect-cycles-in-2d-grid) |
 | 1667 | Find Kth Bit In Nth Binary String | `Python` | [View](./leetcode/1667-find-kth-bit-in-nth-binary-string) |
