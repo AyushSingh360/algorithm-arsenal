@@ -796,6 +796,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2813 | To Be Or Not To Be | `JavaScript` | [View](./leetcode/2813-to-be-or-not-to-be) |
 | 2820 | Return Length Of Arguments Passed | `JavaScript` | [View](./leetcode/2820-return-length-of-arguments-passed) |
 | 2821 | Timeout Cancellation | `JavaScript` | [View](./leetcode/2821-timeout-cancellation) |
+| 2844 | Sum Of Squares Of Special Elements  | `Python` | [View](./leetcode/2844-sum-of-squares-of-special-elements-) |
 | 2846 | Robot Collisions | `Python` | [View](./leetcode/2846-robot-collisions) |
 | 2855 | Maximum Number Of Jumps To Reach The Last Index | `Python` | [View](./leetcode/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | 2858 | Join Two Arrays By Id | `JavaScript` | [View](./leetcode/2858-join-two-arrays-by-id) |
