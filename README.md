@@ -814,6 +814,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3031 | Construct Product Matrix | `Python` | [View](./leetcode/3031-construct-product-matrix) |
 | 3105 | Minimum Edge Reversals So Every Node Is Reachable | `Python` | [View](./leetcode/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | 3150 | Shortest And Lexicographically Smallest Beautiful String | `Python` | [View](./leetcode/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| 3163 | Subarrays Distinct Element Sum Of Squares I | `Python` | [View](./leetcode/3163-subarrays-distinct-element-sum-of-squares-i) |
 | 3214 | Maximize Area Of Square Hole In Grid | `Python` | [View](./leetcode/3214-maximize-area-of-square-hole-in-grid) |
 | 3215 | Matrix Similarity After Cyclic Shifts | `Python` | [View](./leetcode/3215-matrix-similarity-after-cyclic-shifts) |
 | 3225 | Length Of Longest Subarray With At Most K Frequency | `Python` | [View](./leetcode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
