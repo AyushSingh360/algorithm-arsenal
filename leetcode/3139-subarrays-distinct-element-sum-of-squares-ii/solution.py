@@ -3,7 +3,7 @@ from typing import List
 
 class Solution:
     def sumCounts(self, nums: List[int]) -> int:
-        MOD = 10 ** 9 + 7
+        MOD = 10**9 + 7
         n = len(nums)
         SHIFT = 40
         MASK = (1 << SHIFT) - 1

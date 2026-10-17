@@ -813,6 +813,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3019 | Furthest Point From Origin | `Python` | [View](./leetcode/3019-furthest-point-from-origin) |
 | 3031 | Construct Product Matrix | `Python` | [View](./leetcode/3031-construct-product-matrix) |
 | 3105 | Minimum Edge Reversals So Every Node Is Reachable | `Python` | [View](./leetcode/3105-minimum-edge-reversals-so-every-node-is-reachable) |
+| 3139 | Subarrays Distinct Element Sum Of Squares Ii | `Python` | [View](./leetcode/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | 3150 | Shortest And Lexicographically Smallest Beautiful String | `Python` | [View](./leetcode/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | 3163 | Subarrays Distinct Element Sum Of Squares I | `Python` | [View](./leetcode/3163-subarrays-distinct-element-sum-of-squares-i) |
 | 3214 | Maximize Area Of Square Hole In Grid | `Python` | [View](./leetcode/3214-maximize-area-of-square-hole-in-grid) |
