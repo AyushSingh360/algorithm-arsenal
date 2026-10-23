@@ -792,7 +792,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2804 | Compact Object | `TypeScript` | [View](./leetcode/2804-compact-object) |
 | 2805 | Array Wrapper | `TypeScript` | [View](./leetcode/2805-array-wrapper) |
 | 2807 | Execute Asynchronous Functions In Parallel | `JavaScript` | [View](./leetcode/2807-execute-asynchronous-functions-in-parallel) |
-| 2809 | Create Hello World Function | `JavaScript`, `TypeScript` | [View](./leetcode/2809-create-hello-world-function) |
+| 2809 | Create Hello World Function | `TypeScript`, `JavaScript` | [View](./leetcode/2809-create-hello-world-function) |
 | 2813 | To Be Or Not To Be | `JavaScript` | [View](./leetcode/2813-to-be-or-not-to-be) |
 | 2820 | Return Length Of Arguments Passed | `JavaScript` | [View](./leetcode/2820-return-length-of-arguments-passed) |
 | 2821 | Timeout Cancellation | `JavaScript` | [View](./leetcode/2821-timeout-cancellation) |
@@ -894,6 +894,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3931 | Process String With Special Operations I | `Python` | [View](./leetcode/3931-process-string-with-special-operations-i) |
 | 3933 | Minimum Jumps To Reach End Via Prime Teleportation | `Python` | [View](./leetcode/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | 3939 | Process String With Special Operations Ii | `Python` | [View](./leetcode/3939-process-string-with-special-operations-ii) |
+| 3950 | Maximum K To Sort A Permutation | `Python` | [View](./leetcode/3950-maximum-k-to-sort-a-permutation) |
 | 3962 | Number Of Zigzag Arrays I | `Python` | [View](./leetcode/3962-number-of-zigzag-arrays-i) |
 | 3964 | Number Of Zigzag Arrays Ii | `Python` | [View](./leetcode/3964-number-of-zigzag-arrays-ii) |
 | 3965 | Earliest Finish Time For Land And Water Rides I | `Python` | [View](./leetcode/3965-earliest-finish-time-for-land-and-water-rides-i) |
