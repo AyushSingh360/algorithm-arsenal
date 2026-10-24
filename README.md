@@ -749,6 +749,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2349 |  Check If There Is A Valid Parentheses String Path | `Python` | [View](./leetcode/2349--check-if-there-is-a-valid-parentheses-string-path) |
 | 2392 | Successful Pairs Of Spells And Potions | `Python` | [View](./leetcode/2392-successful-pairs-of-spells-and-potions) |
 | 2463 | Minimum Recolors To Get K Consecutive Black Blocks | `Python` | [View](./leetcode/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| 2496 | Count Days Spent Together | `Python` | [View](./leetcode/2496-count-days-spent-together) |
 | 2498 | Smallest Subarrays With Maximum Bitwise Or | `Python` | [View](./leetcode/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | 2503 | Longest Subarray With Maximum Bitwise And | `Python` | [View](./leetcode/2503-longest-subarray-with-maximum-bitwise-and) |
 | 2550 | Words Within Two Edits Of Dictionary | `Python` | [View](./leetcode/2550-words-within-two-edits-of-dictionary) |
