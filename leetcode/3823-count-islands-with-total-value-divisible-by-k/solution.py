@@ -1,6 +1,7 @@
 from collections import deque
 from typing import List
 
+
 class Solution:
     def countIslands(self, grid: List[List[int]], k: int) -> int:
         m, n = len(grid), len(grid[0])

@@ -642,6 +642,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 1317 | Monthly Transactions I | `SQL` | [View](./leetcode/1317-monthly-transactions-i) |
 | 1320 | Remove All Adjacent Duplicates In String Ii | `Python` | [View](./leetcode/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | 1371 | Minimum Remove To Make Valid Parentheses | `Python` | [View](./leetcode/1371-minimum-remove-to-make-valid-parentheses) |
+| 1380 | Number Of Closed Islands | `Python` | [View](./leetcode/1380-number-of-closed-islands) |
 | 1386 | Shift 2D Grid | `Python` | [View](./leetcode/1386-shift-2d-grid) |
 | 1388 | Greatest Sum Divisible By Three | `Python` | [View](./leetcode/1388-greatest-sum-divisible-by-three) |
 | 1398 | Number Of Ways To Stay In The Same Place After Some Steps | `Python` | [View](./leetcode/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
@@ -871,6 +872,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3812 | Smallest Palindromic Rearrangement I | `Python` | [View](./leetcode/3812-smallest-palindromic-rearrangement-i) |
 | 3813 | Smallest Palindromic Rearrangement Ii | `Python` | [View](./leetcode/3813-smallest-palindromic-rearrangement-ii) |
 | 3820 | Number Of Unique Xor Triplets Ii | `Python` | [View](./leetcode/3820-number-of-unique-xor-triplets-ii) |
+| 3823 | Count Islands With Total Value Divisible By K | `Python` | [View](./leetcode/3823-count-islands-with-total-value-divisible-by-k) |
 | 3824 | Number Of Unique Xor Triplets I | `Python` | [View](./leetcode/3824-number-of-unique-xor-triplets-i) |
 | 3831 | Find X Value Of Array I | `Python` | [View](./leetcode/3831-find-x-value-of-array-i) |
 | 3834 | Minimum Operations To Convert All Elements To Zero | `Python` | [View](./leetcode/3834-minimum-operations-to-convert-all-elements-to-zero) |
