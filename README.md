@@ -942,6 +942,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4258 | Construct Uniform Parity Array Ii | `Python` | [View](./leetcode/4258-construct-uniform-parity-array-ii) |
 | 4284 | Smallest Stable Index I | `Python` | [View](./leetcode/4284-smallest-stable-index-i) |
 | 4285 | Smallest Stable Index Ii | `Python` | [View](./leetcode/4285-smallest-stable-index-ii) |
+| 4342 | Create Grid With Exactly One Path | `Python` | [View](./leetcode/4342-create-grid-with-exactly-one-path) |
 <!-- INDEX_END -->
 
 <br>
