@@ -794,7 +794,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 2804 | Compact Object | `TypeScript` | [View](./leetcode/2804-compact-object) |
 | 2805 | Array Wrapper | `TypeScript` | [View](./leetcode/2805-array-wrapper) |
 | 2807 | Execute Asynchronous Functions In Parallel | `JavaScript` | [View](./leetcode/2807-execute-asynchronous-functions-in-parallel) |
-| 2809 | Create Hello World Function | `TypeScript`, `JavaScript` | [View](./leetcode/2809-create-hello-world-function) |
+| 2809 | Create Hello World Function | `JavaScript`, `TypeScript` | [View](./leetcode/2809-create-hello-world-function) |
 | 2813 | To Be Or Not To Be | `JavaScript` | [View](./leetcode/2813-to-be-or-not-to-be) |
 | 2820 | Return Length Of Arguments Passed | `JavaScript` | [View](./leetcode/2820-return-length-of-arguments-passed) |
 | 2821 | Timeout Cancellation | `JavaScript` | [View](./leetcode/2821-timeout-cancellation) |
@@ -929,6 +929,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4139 | Minimum Absolute Distance Between Mirror Pairs | `Python` | [View](./leetcode/4139-minimum-absolute-distance-between-mirror-pairs) |
 | 4168 | Mirror Distance Of An Integer | `Python` | [View](./leetcode/4168-mirror-distance-of-an-integer) |
 | 4192 | Minimum Cost To Partition A Binary String | `Python` | [View](./leetcode/4192-minimum-cost-to-partition-a-binary-string) |
+| 4205 | Minimum Xor Path In A Grid | `Python` | [View](./leetcode/4205-minimum-xor-path-in-a-grid) |
 | 4216 | Weighted Word Mapping | `Python` | [View](./leetcode/4216-weighted-word-mapping) |
 | 4220 | Minimum Operations To Sort A String | `Python` | [View](./leetcode/4220-minimum-operations-to-sort-a-string) |
 | 4229 | Trim Trailing Vowels | `Python` | [View](./leetcode/4229-trim-trailing-vowels) |
