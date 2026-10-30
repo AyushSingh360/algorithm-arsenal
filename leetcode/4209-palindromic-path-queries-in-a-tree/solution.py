@@ -3,11 +3,7 @@ from typing import List
 
 class Solution:
     def palindromePath(
-        self,
-        n: int,
-        edges: List[List[int]],
-        s: str,
-        queries: List[str]
+        self, n: int, edges: List[List[int]], s: str, queries: List[str]
     ) -> List[bool]:
 
         # 1. Build adjacency list
@@ -97,7 +93,7 @@ class Solution:
                 return result
 
         # 6. Character masks
-        chars = [1 << (ord(c) - ord('a')) for c in s]
+        chars = [1 << (ord(c) - ord("a")) for c in s]
 
         bit = Fenwick(n)
 
@@ -122,7 +118,7 @@ class Solution:
                 u = int(parts[1])
                 c = parts[2]
 
-                new_mask = 1 << (ord(c) - ord('a'))
+                new_mask = 1 << (ord(c) - ord("a"))
                 delta = chars[u] ^ new_mask
 
                 if delta:
@@ -144,9 +140,6 @@ class Solution:
                 path_mask = pu ^ pv ^ chars[w]
 
                 # At most one character may have an odd frequency
-                ans.append(
-                    path_mask == 0
-                    or (path_mask & (path_mask - 1)) == 0
-                )
+                ans.append(path_mask == 0 or (path_mask & (path_mask - 1)) == 0)
 
         return ans

@@ -930,6 +930,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4168 | Mirror Distance Of An Integer | `Python` | [View](./leetcode/4168-mirror-distance-of-an-integer) |
 | 4192 | Minimum Cost To Partition A Binary String | `Python` | [View](./leetcode/4192-minimum-cost-to-partition-a-binary-string) |
 | 4205 | Minimum Xor Path In A Grid | `Python` | [View](./leetcode/4205-minimum-xor-path-in-a-grid) |
+| 4209 | Palindromic Path Queries In A Tree | `Python` | [View](./leetcode/4209-palindromic-path-queries-in-a-tree) |
 | 4216 | Weighted Word Mapping | `Python` | [View](./leetcode/4216-weighted-word-mapping) |
 | 4220 | Minimum Operations To Sort A String | `Python` | [View](./leetcode/4220-minimum-operations-to-sort-a-string) |
 | 4229 | Trim Trailing Vowels | `Python` | [View](./leetcode/4229-trim-trailing-vowels) |
