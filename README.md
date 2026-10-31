@@ -896,6 +896,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3919 | Network Recovery Pathways | `Python` | [View](./leetcode/3919-network-recovery-pathways) |
 | 3931 | Process String With Special Operations I | `Python` | [View](./leetcode/3931-process-string-with-special-operations-i) |
 | 3933 | Minimum Jumps To Reach End Via Prime Teleportation | `Python` | [View](./leetcode/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| 3938 | Twisted Mirror Path Count | `Python` | [View](./leetcode/3938-twisted-mirror-path-count) |
 | 3939 | Process String With Special Operations Ii | `Python` | [View](./leetcode/3939-process-string-with-special-operations-ii) |
 | 3950 | Maximum K To Sort A Permutation | `Python` | [View](./leetcode/3950-maximum-k-to-sort-a-permutation) |
 | 3962 | Number Of Zigzag Arrays I | `Python` | [View](./leetcode/3962-number-of-zigzag-arrays-i) |
@@ -920,6 +921,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 4074 | Count Subarrays With Majority Element I | `Python` | [View](./leetcode/4074-count-subarrays-with-majority-element-i) |
 | 4075 | Count Subarrays With Majority Element Ii | `Python` | [View](./leetcode/4075-count-subarrays-with-majority-element-ii) |
 | 4080 | Smallest Missing Multiple Of K | `Python` | [View](./leetcode/4080-smallest-missing-multiple-of-k) |
+| 4104 | Shortest Path With At Most K Consecutive Identical Characters | `Python` | [View](./leetcode/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | 4107 | Find Missing Elements | `Python` | [View](./leetcode/4107-find-missing-elements) |
 | 4115 | Minimum Distance Between Three Equal Elements I | `Python` | [View](./leetcode/4115-minimum-distance-between-three-equal-elements-i) |
 | 4119 | Minimum Distance Between Three Equal Elements Ii | `Python` | [View](./leetcode/4119-minimum-distance-between-three-equal-elements-ii) |

@@ -1,6 +1,6 @@
-
 import heapq
 from typing import List
+
 
 class Solution:
     def shortestPath(self, n: int, edges: List[List[int]], labels: str, k: int) -> int:
@@ -12,7 +12,7 @@ class Solution:
             graph[u].append((v, w))
 
         # Step 2: Initialize distance array
-        INF = float('inf')
+        INF = float("inf")
         dist = [[INF] * (k + 1) for _ in range(n)]
 
         # Step 3: Initialize starting state
@@ -55,11 +55,7 @@ class Solution:
 
                     dist[v][new_count] = new_cost
 
-                    heapq.heappush(
-                        pq,
-                        (new_cost, v, new_count)
-                    )
+                    heapq.heappush(pq, (new_cost, v, new_count))
 
         # No valid path exists
         return -1
-
