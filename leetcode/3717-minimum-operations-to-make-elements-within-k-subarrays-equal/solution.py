@@ -1,5 +1,5 @@
-
 from typing import List
+
 
 class Fenwick:
     def __init__(self, n):
@@ -70,10 +70,7 @@ class Solution:
             right_count = x - left_count
             right_sum = window_sum - left_sum
 
-            cost = (
-                median * left_count - left_sum
-                + right_sum - median * right_count
-            )
+            cost = median * left_count - left_sum + right_sum - median * right_count
 
             costs.append(cost)
 
@@ -91,7 +88,7 @@ class Solution:
                 window_sum += new - old
 
         # DP: minimum cost to select j non-overlapping windows
-        INF = float('inf')
+        INF = float("inf")
 
         prev = [0] * (n + 1)
 
@@ -104,12 +101,8 @@ class Solution:
 
                 # Take a window ending at i - 1
                 if i >= x:
-                    curr[i] = min(
-                        curr[i],
-                        prev[i - x] + costs[i - x]
-                    )
+                    curr[i] = min(curr[i], prev[i - x] + costs[i - x])
 
             prev = curr
 
         return prev[n]
-

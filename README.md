@@ -859,6 +859,7 @@ Let's collaborate on system design, competitive programming, or next-gen tech.
 | 3677 | Maximum Amount Of Money Robot Can Earn | `Python` | [View](./leetcode/3677-maximum-amount-of-money-robot-can-earn) |
 | 3704 | Count Partitions With Even Sum Difference | `Python` | [View](./leetcode/3704-count-partitions-with-even-sum-difference) |
 | 3705 | Find The Largest Almost Missing Integer | `Python` | [View](./leetcode/3705-find-the-largest-almost-missing-integer) |
+| 3717 | Minimum Operations To Make Elements Within K Subarrays Equal | `Python` | [View](./leetcode/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | 3750 | Closest Equal Element Queries | `Python` | [View](./leetcode/3750-closest-equal-element-queries) |
 | 3770 | Lexicographically Smallest Generated String | `Python` | [View](./leetcode/3770-lexicographically-smallest-generated-string) |
 | 3781 | Maximize The Distance Between Points On A Square | `Python` | [View](./leetcode/3781-maximize-the-distance-between-points-on-a-square) |
